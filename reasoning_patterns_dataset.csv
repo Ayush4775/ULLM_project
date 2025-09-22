@@ -1,0 +1,2001 @@
+text_input,reasoning_class,validity
+"If Uma is proud, then Xander is lazy. Uma is proud. Is Xander lazy?",Modus Ponens,Yes
+"If Zane is tall, then Grace is honest. Zane is tall. Is Grace honest?",Modus Ponens,Yes
+"If Zane is shy, then Alice is sad. Zane is shy. Is Alice sad?",Modus Ponens,Yes
+"If Diana is clever, then Bob is tall. Diana is clever. Is Bob tall?",Modus Ponens,Yes
+"If Eve is angry, then Zane is honest. Eve is angry. Is Zane honest?",Modus Ponens,Yes
+"If Nina is smart, then Paul is honest. Nina is smart. Is Paul honest?",Modus Ponens,Yes
+"If Sam is tall, then Zane is polite. Sam is tall. Is Zane polite?",Modus Ponens,Yes
+"If Yara is sad, then Leo is brave. Yara is sad. Is Leo brave?",Modus Ponens,Yes
+"If Nina is lazy, then Yara is angry. Nina is lazy. Is Yara angry?",Modus Ponens,Yes
+"If Victor is calm, then Mona is lazy. Victor is calm. Is Mona lazy?",Modus Ponens,Yes
+"If Bob is curious, then Xander is calm. Bob is curious. Is Xander calm?",Modus Ponens,Yes
+"If Alice is tall, then Yara is loud. Alice is tall. Is Yara loud?",Modus Ponens,Yes
+"If Bob is sad, then Frank is honest. Bob is sad. Is Frank honest?",Modus Ponens,Yes
+"If Xander is curious, then Frank is clever. Xander is curious. Is Frank clever?",Modus Ponens,Yes
+"If Mona is sad, then Rita is brave. Mona is sad. Is Rita brave?",Modus Ponens,Yes
+"If Diana is happy, then Mona is gentle. Diana is happy. Is Mona gentle?",Modus Ponens,Yes
+"If Zane is happy, then Xander is quiet. Zane is happy. Is Xander quiet?",Modus Ponens,Yes
+"If Sam is short, then Hank is polite. Sam is short. Is Hank polite?",Modus Ponens,Yes
+"If Sam is tall, then Yara is calm. Sam is tall. Is Yara calm?",Modus Ponens,Yes
+"If Sam is short, then Quinn is clever. Sam is short. Is Quinn clever?",Modus Ponens,Yes
+"If Nina is curious, then Uma is gentle. Nina is curious. Is Uma gentle?",Modus Ponens,Yes
+"If Xander is loud, then Eve is smart. Xander is loud. Is Eve smart?",Modus Ponens,Yes
+"If Yara is calm, then Tina is clever. Yara is calm. Is Tina clever?",Modus Ponens,Yes
+"If Leo is short, then Hank is loud. Leo is short. Is Hank loud?",Modus Ponens,Yes
+"If Zane is happy, then Tina is smart. Zane is happy. Is Tina smart?",Modus Ponens,Yes
+"If Hank is calm, then Bob is curious. Hank is calm. Is Bob curious?",Modus Ponens,Yes
+"If Kara is calm, then Charlie is short. Kara is calm. Is Charlie short?",Modus Ponens,Yes
+"If Eve is tall, then Oscar is polite. Eve is tall. Is Oscar polite?",Modus Ponens,Yes
+"If Mona is curious, then Tina is happy. Mona is curious. Is Tina happy?",Modus Ponens,Yes
+"If Rita is honest, then Leo is smart. Rita is honest. Is Leo smart?",Modus Ponens,Yes
+"If Hank is brave, then Bob is rude. Hank is brave. Is Bob rude?",Modus Ponens,Yes
+"If Mona is calm, then Diana is clever. Mona is calm. Is Diana clever?",Modus Ponens,Yes
+"If Rita is lazy, then Paul is kind. Rita is lazy. Is Paul kind?",Modus Ponens,Yes
+"If Tina is gentle, then Oscar is kind. Tina is gentle. Is Oscar kind?",Modus Ponens,Yes
+"If Tina is honest, then Uma is loud. Tina is honest. Is Uma loud?",Modus Ponens,Yes
+"If Bob is tall, then Quinn is sad. Bob is tall. Is Quinn sad?",Modus Ponens,Yes
+"If Jack is shy, then Alice is gentle. Jack is shy. Is Alice gentle?",Modus Ponens,Yes
+"If Nina is proud, then Yara is angry. Nina is proud. Is Yara angry?",Modus Ponens,Yes
+"If Paul is angry, then Eve is lazy. Paul is angry. Is Eve lazy?",Modus Ponens,Yes
+"If Mona is tall, then Uma is honest. Mona is tall. Is Uma honest?",Modus Ponens,Yes
+"If Xander is calm, then Diana is gentle. Xander is calm. Is Diana gentle?",Modus Ponens,Yes
+"If Paul is rude, then Sam is honest. Paul is rude. Is Sam honest?",Modus Ponens,Yes
+"If Paul is curious, then Leo is happy. Paul is curious. Is Leo happy?",Modus Ponens,Yes
+"If Hank is clever, then Charlie is quiet. Hank is clever. Is Charlie quiet?",Modus Ponens,Yes
+"If Jack is short, then Yara is shy. Jack is short. Is Yara shy?",Modus Ponens,Yes
+"If Victor is calm, then Leo is loud. Victor is calm. Is Leo loud?",Modus Ponens,Yes
+"If Sam is rude, then Ivy is gentle. Sam is rude. Is Ivy gentle?",Modus Ponens,Yes
+"If Paul is angry, then Leo is lazy. Paul is angry. Is Leo lazy?",Modus Ponens,Yes
+"If Frank is calm, then Zane is angry. Frank is calm. Is Zane angry?",Modus Ponens,Yes
+"If Mona is quiet, then Charlie is polite. Mona is quiet. Is Charlie polite?",Modus Ponens,Yes
+"If Bob is happy, then Uma is proud. Bob is happy. Is Uma proud?",Modus Ponens,Yes
+"If Eve is brave, then Hank is kind. Eve is brave. Is Hank kind?",Modus Ponens,Yes
+"If Paul is honest, then Quinn is gentle. Paul is honest. Is Quinn gentle?",Modus Ponens,Yes
+"If Grace is loud, then Uma is short. Grace is loud. Is Uma short?",Modus Ponens,Yes
+"If Paul is tall, then Quinn is smart. Paul is tall. Is Quinn smart?",Modus Ponens,Yes
+"If Alice is calm, then Rita is loud. Alice is calm. Is Rita loud?",Modus Ponens,Yes
+"If Leo is smart, then Wendy is brave. Leo is smart. Is Wendy brave?",Modus Ponens,Yes
+"If Kara is smart, then Leo is clever. Kara is smart. Is Leo clever?",Modus Ponens,Yes
+"If Ivy is kind, then Mona is smart. Ivy is kind. Is Mona smart?",Modus Ponens,Yes
+"If Tina is gentle, then Yara is polite. Tina is gentle. Is Yara polite?",Modus Ponens,Yes
+"If Paul is brave, then Zane is tall. Paul is brave. Is Zane tall?",Modus Ponens,Yes
+"If Quinn is clever, then Rita is gentle. Quinn is clever. Is Rita gentle?",Modus Ponens,Yes
+"If Leo is brave, then Yara is calm. Leo is brave. Is Yara calm?",Modus Ponens,Yes
+"If Paul is tall, then Tina is happy. Paul is tall. Is Tina happy?",Modus Ponens,Yes
+"If Paul is lazy, then Victor is angry. Paul is lazy. Is Victor angry?",Modus Ponens,Yes
+"If Kara is angry, then Diana is honest. Kara is angry. Is Diana honest?",Modus Ponens,Yes
+"If Charlie is calm, then Wendy is curious. Charlie is calm. Is Wendy curious?",Modus Ponens,Yes
+"If Diana is sad, then Paul is happy. Diana is sad. Is Paul happy?",Modus Ponens,Yes
+"If Paul is brave, then Zane is quiet. Paul is brave. Is Zane quiet?",Modus Ponens,Yes
+"If Hank is rude, then Zane is clever. Hank is rude. Is Zane clever?",Modus Ponens,Yes
+"If Oscar is honest, then Leo is brave. Oscar is honest. Is Leo brave?",Modus Ponens,Yes
+"If Mona is brave, then Yara is honest. Mona is brave. Is Yara honest?",Modus Ponens,Yes
+"If Bob is quiet, then Zane is sad. Bob is quiet. Is Zane sad?",Modus Ponens,Yes
+"If Leo is polite, then Eve is shy. Leo is polite. Is Eve shy?",Modus Ponens,Yes
+"If Kara is smart, then Paul is kind. Kara is smart. Is Paul kind?",Modus Ponens,Yes
+"If Charlie is proud, then Bob is brave. Charlie is proud. Is Bob brave?",Modus Ponens,Yes
+"If Jack is polite, then Hank is short. Jack is polite. Is Hank short?",Modus Ponens,Yes
+"If Jack is happy, then Yara is calm. Jack is happy. Is Yara calm?",Modus Ponens,Yes
+"If Uma is loud, then Bob is honest. Uma is loud. Is Bob honest?",Modus Ponens,Yes
+"If Quinn is loud, then Nina is proud. Quinn is loud. Is Nina proud?",Modus Ponens,Yes
+"If Kara is quiet, then Grace is loud. Kara is quiet. Is Grace loud?",Modus Ponens,Yes
+"If Hank is rude, then Wendy is clever. Hank is rude. Is Wendy clever?",Modus Ponens,Yes
+"If Ivy is gentle, then Eve is tall. Ivy is gentle. Is Eve tall?",Modus Ponens,Yes
+"If Hank is happy, then Charlie is curious. Hank is happy. Is Charlie curious?",Modus Ponens,Yes
+"If Xander is quiet, then Zane is shy. Xander is quiet. Is Zane shy?",Modus Ponens,Yes
+"If Grace is polite, then Wendy is smart. Grace is polite. Is Wendy smart?",Modus Ponens,Yes
+"If Paul is sad, then Uma is rude. Paul is sad. Is Uma rude?",Modus Ponens,Yes
+"If Diana is rude, then Rita is sad. Diana is rude. Is Rita sad?",Modus Ponens,Yes
+"If Zane is short, then Charlie is shy. Zane is short. Is Charlie shy?",Modus Ponens,Yes
+"If Jack is curious, then Sam is happy. Jack is curious. Is Sam happy?",Modus Ponens,Yes
+"If Wendy is brave, then Uma is honest. Wendy is brave. Is Uma honest?",Modus Ponens,Yes
+"If Rita is smart, then Jack is calm. Rita is smart. Is Jack calm?",Modus Ponens,Yes
+"If Leo is smart, then Frank is lazy. Leo is smart. Is Frank lazy?",Modus Ponens,Yes
+"If Eve is happy, then Yara is rude. Eve is happy. Is Yara rude?",Modus Ponens,Yes
+"If Alice is tall, then Hank is angry. Alice is tall. Is Hank angry?",Modus Ponens,Yes
+"If Paul is polite, then Victor is sad. Paul is polite. Is Victor sad?",Modus Ponens,Yes
+"If Zane is loud, then Tina is gentle. Zane is loud. Is Tina gentle?",Modus Ponens,Yes
+"If Victor is smart, then Charlie is loud. Victor is smart. Is Charlie loud?",Modus Ponens,Yes
+"If Jack is angry, then Bob is smart. Jack is angry. Is Bob smart?",Modus Ponens,Yes
+"If Paul is gentle, then Ivy is rude. Paul is gentle. Is Ivy rude?",Modus Ponens,Yes
+"If Alice is kind, then Sam is curious. Alice is kind. Is Sam curious?",Modus Ponens,Yes
+"If Wendy is quiet, then Ivy is gentle. Wendy is quiet. Is Ivy gentle?",Modus Ponens,Yes
+"If Alice is curious, then Hank is proud. Alice is curious. Is Hank proud?",Modus Ponens,Yes
+"If Sam is clever, then Xander is kind. Sam is clever. Is Xander kind?",Modus Ponens,Yes
+"If Victor is brave, then Hank is gentle. Victor is brave. Is Hank gentle?",Modus Ponens,Yes
+"If Eve is proud, then Hank is smart. Eve is proud. Is Hank smart?",Modus Ponens,Yes
+"If Bob is brave, then Mona is kind. Bob is brave. Is Mona kind?",Modus Ponens,Yes
+"If Charlie is angry, then Rita is polite. Charlie is angry. Is Rita polite?",Modus Ponens,Yes
+"If Diana is lazy, then Hank is clever. Diana is lazy. Is Hank clever?",Modus Ponens,Yes
+"If Diana is lazy, then Bob is clever. Diana is lazy. Is Bob clever?",Modus Ponens,Yes
+"If Eve is loud, then Sam is proud. Eve is loud. Is Sam proud?",Modus Ponens,Yes
+"If Kara is rude, then Victor is proud. Kara is rude. Is Victor proud?",Modus Ponens,Yes
+"If Sam is short, then Tina is lazy. Sam is short. Is Tina lazy?",Modus Ponens,Yes
+"If Ivy is proud, then Sam is polite. Ivy is proud. Is Sam polite?",Modus Ponens,Yes
+"If Uma is honest, then Kara is polite. Uma is honest. Is Kara polite?",Modus Ponens,Yes
+"If Eve is rude, then Grace is tall. Eve is rude. Is Grace tall?",Modus Ponens,Yes
+"If Kara is honest, then Eve is kind. Kara is honest. Is Eve kind?",Modus Ponens,Yes
+"If Mona is calm, then Alice is sad. Mona is calm. Is Alice sad?",Modus Ponens,Yes
+"If Ivy is brave, then Nina is clever. Ivy is brave. Is Nina clever?",Modus Ponens,Yes
+"If Paul is clever, then Diana is curious. Paul is clever. Is Diana curious?",Modus Ponens,Yes
+"If Victor is loud, then Bob is tall. Victor is loud. Is Bob tall?",Modus Ponens,Yes
+"If Leo is angry, then Oscar is sad. Leo is angry. Is Oscar sad?",Modus Ponens,Yes
+"If Wendy is polite, then Oscar is lazy. Wendy is polite. Is Oscar lazy?",Modus Ponens,Yes
+"If Hank is shy, then Tina is calm. Hank is shy. Is Tina calm?",Modus Ponens,Yes
+"If Nina is polite, then Rita is honest. Nina is polite. Is Rita honest?",Modus Ponens,Yes
+"If Eve is brave, then Hank is loud. Eve is brave. Is Hank loud?",Modus Ponens,Yes
+"If Alice is honest, then Zane is rude. Alice is honest. Is Zane rude?",Modus Ponens,Yes
+"If Rita is loud, then Kara is calm. Rita is loud. Is Kara calm?",Modus Ponens,Yes
+"If Quinn is tall, then Sam is curious. Quinn is tall. Is Sam curious?",Modus Ponens,Yes
+"If Jack is short, then Xander is angry. Jack is short. Is Xander angry?",Modus Ponens,Yes
+"If Xander is loud, then Bob is rude. Xander is loud. Is Bob rude?",Modus Ponens,Yes
+"If Rita is loud, then Sam is sad. Rita is loud. Is Sam sad?",Modus Ponens,Yes
+"If Frank is tall, then Paul is happy. Frank is tall. Is Paul happy?",Modus Ponens,Yes
+"If Yara is quiet, then Diana is honest. Yara is quiet. Is Diana honest?",Modus Ponens,Yes
+"If Ivy is curious, then Quinn is lazy. Ivy is curious. Is Quinn lazy?",Modus Ponens,Yes
+"If Eve is angry, then Frank is rude. Eve is angry. Is Frank rude?",Modus Ponens,Yes
+"If Zane is smart, then Mona is sad. Zane is smart. Is Mona sad?",Modus Ponens,Yes
+"If Sam is honest, then Victor is kind. Sam is honest. Is Victor kind?",Modus Ponens,Yes
+"If Sam is smart, then Bob is shy. Sam is smart. Is Bob shy?",Modus Ponens,Yes
+"If Eve is happy, then Kara is kind. Eve is happy. Is Kara kind?",Modus Ponens,Yes
+"If Kara is angry, then Tina is kind. Kara is angry. Is Tina kind?",Modus Ponens,Yes
+"If Charlie is happy, then Sam is calm. Charlie is happy. Is Sam calm?",Modus Ponens,Yes
+"If Nina is quiet, then Paul is clever. Nina is quiet. Is Paul clever?",Modus Ponens,Yes
+"If Quinn is curious, then Diana is sad. Quinn is curious. Is Diana sad?",Modus Ponens,Yes
+"If Hank is smart, then Xander is loud. Hank is smart. Is Xander loud?",Modus Ponens,Yes
+"If Nina is gentle, then Alice is happy. Nina is gentle. Is Alice happy?",Modus Ponens,Yes
+"If Sam is loud, then Nina is angry. Sam is loud. Is Nina angry?",Modus Ponens,Yes
+"If Grace is loud, then Diana is tall. Grace is loud. Is Diana tall?",Modus Ponens,Yes
+"If Eve is kind, then Xander is smart. Eve is kind. Is Xander smart?",Modus Ponens,Yes
+"If Ivy is honest, then Alice is loud. Ivy is honest. Is Alice loud?",Modus Ponens,Yes
+"If Grace is rude, then Eve is proud. Grace is rude. Is Eve proud?",Modus Ponens,Yes
+"If Leo is brave, then Kara is kind. Leo is brave. Is Kara kind?",Modus Ponens,Yes
+"If Ivy is honest, then Alice is smart. Ivy is honest. Is Alice smart?",Modus Ponens,Yes
+"If Diana is proud, then Mona is gentle. Diana is proud. Is Mona gentle?",Modus Ponens,Yes
+"If Ivy is proud, then Sam is rude. Ivy is proud. Is Sam rude?",Modus Ponens,Yes
+"If Mona is angry, then Jack is happy. Mona is angry. Is Jack happy?",Modus Ponens,Yes
+"If Grace is polite, then Uma is calm. Grace is polite. Is Uma calm?",Modus Ponens,Yes
+"If Bob is gentle, then Zane is angry. Bob is gentle. Is Zane angry?",Modus Ponens,Yes
+"If Rita is calm, then Wendy is clever. Rita is calm. Is Wendy clever?",Modus Ponens,Yes
+"If Rita is polite, then Xander is short. Rita is polite. Is Xander short?",Modus Ponens,Yes
+"If Leo is tall, then Wendy is curious. Leo is tall. Is Wendy curious?",Modus Ponens,Yes
+"If Victor is brave, then Ivy is proud. Victor is brave. Is Ivy proud?",Modus Ponens,Yes
+"If Xander is proud, then Frank is curious. Xander is proud. Is Frank curious?",Modus Ponens,Yes
+"If Wendy is curious, then Ivy is smart. Wendy is curious. Is Ivy smart?",Modus Ponens,Yes
+"If Ivy is brave, then Grace is happy. Ivy is brave. Is Grace happy?",Modus Ponens,Yes
+"If Tina is sad, then Zane is clever. Tina is sad. Is Zane clever?",Modus Ponens,Yes
+"If Oscar is proud, then Quinn is lazy. Oscar is proud. Is Quinn lazy?",Modus Ponens,Yes
+"If Charlie is angry, then Nina is clever. Charlie is angry. Is Nina clever?",Modus Ponens,Yes
+"If Rita is calm, then Grace is shy. Rita is calm. Is Grace shy?",Modus Ponens,Yes
+"If Kara is lazy, then Frank is shy. Kara is lazy. Is Frank shy?",Modus Ponens,Yes
+"If Eve is curious, then Victor is brave. Eve is curious. Is Victor brave?",Modus Ponens,Yes
+"If Quinn is loud, then Oscar is sad. Quinn is loud. Is Oscar sad?",Modus Ponens,Yes
+"If Victor is proud, then Tina is honest. Victor is proud. Is Tina honest?",Modus Ponens,Yes
+"If Wendy is calm, then Diana is rude. Wendy is calm. Is Diana rude?",Modus Ponens,Yes
+"If Rita is shy, then Xander is kind. Rita is shy. Is Xander kind?",Modus Ponens,Yes
+"If Mona is kind, then Quinn is gentle. Mona is kind. Is Quinn gentle?",Modus Ponens,Yes
+"If Hank is tall, then Paul is polite. Hank is tall. Is Paul polite?",Modus Ponens,Yes
+"If Xander is quiet, then Oscar is angry. Xander is quiet. Is Oscar angry?",Modus Ponens,Yes
+"If Uma is quiet, then Quinn is brave. Uma is quiet. Is Quinn brave?",Modus Ponens,Yes
+"If Xander is shy, then Alice is polite. Xander is shy. Is Alice polite?",Modus Ponens,Yes
+"If Wendy is calm, then Grace is gentle. Wendy is calm. Is Grace gentle?",Modus Ponens,Yes
+"If Eve is rude, then Victor is proud. Eve is rude. Is Victor proud?",Modus Ponens,Yes
+"If Eve is loud, then Frank is kind. Eve is loud. Is Frank kind?",Modus Ponens,Yes
+"If Mona is loud, then Yara is quiet. Mona is loud. Is Yara quiet?",Modus Ponens,Yes
+"If Jack is curious, then Uma is lazy. Jack is curious. Is Uma lazy?",Modus Ponens,Yes
+"If Paul is curious, then Xander is gentle. Paul is curious. Is Xander gentle?",Modus Ponens,Yes
+"If Sam is clever, then Oscar is happy. Sam is clever. Is Oscar happy?",Modus Ponens,Yes
+"If Alice is shy, then Mona is sad. Alice is shy. Is Mona sad?",Modus Ponens,Yes
+"If Xander is brave, then Mona is lazy. Xander is brave. Is Mona lazy?",Modus Ponens,Yes
+"If Oscar is polite, then Xander is loud. Oscar is polite. Is Xander loud?",Modus Ponens,Yes
+"If Victor is smart, then Alice is angry. Victor is smart. Is Alice angry?",Modus Ponens,Yes
+"If Nina is sad, then Hank is shy. Nina is sad. Is Hank shy?",Modus Ponens,Yes
+"If Yara is kind, then Jack is calm. Yara is kind. Is Jack calm?",Modus Ponens,Yes
+"If Bob is kind, then Uma is happy. Bob is kind. Is Uma happy?",Modus Ponens,Yes
+"If Rita is curious, then Xander is loud. Rita is curious. Is Xander loud?",Modus Ponens,Yes
+"If Xander is polite, then Wendy is honest. Xander is polite. Is Wendy honest?",Modus Ponens,Yes
+"If Yara is rude, then Ivy is honest. Yara is rude. Is Ivy honest?",Modus Ponens,Yes
+"If Paul is kind, then Wendy is proud. Paul is kind. Is Wendy proud?",Modus Ponens,Yes
+"If Leo is kind, then Frank is brave. Leo is kind. Is Frank brave?",Modus Ponens,Yes
+"If Eve is proud, then Quinn is short. Eve is proud. Is Quinn short?",Modus Ponens,Yes
+"If Uma is curious, then Charlie is happy. Uma is curious. Is Charlie happy?",Modus Ponens,Yes
+"If Frank is honest, then Eve is brave. Frank is honest. Is Eve brave?",Modus Ponens,Yes
+"If Sam is lazy, then Zane is tall. Sam is lazy. Is Zane tall?",Modus Ponens,Yes
+"If Leo is angry, then Sam is gentle. Leo is angry. Is Sam gentle?",Modus Ponens,Yes
+"If Zane is angry, then Paul is short. Zane is angry. Is Paul short?",Modus Ponens,Yes
+"If Kara is proud, then Xander is lazy. Kara is proud. Is Xander lazy?",Modus Ponens,Yes
+"If Uma is shy, then Wendy is clever. Uma is shy. Is Wendy clever?",Modus Ponens,Yes
+"If Victor is quiet, then Eve is clever. Victor is quiet. Is Eve clever?",Modus Ponens,Yes
+"If Bob is angry, then Uma is proud. Bob is angry. Is Uma proud?",Modus Ponens,Yes
+"If Nina is shy, then Eve is tall. Nina is shy. Is Eve tall?",Modus Ponens,Yes
+"If Frank is short, then Alice is angry. Frank is short. Is Alice angry?",Modus Ponens,Yes
+"If Ivy is angry, then Sam is quiet. Ivy is angry. Is Sam quiet?",Modus Ponens,Yes
+"If Kara is curious, then Xander is angry. Kara is curious. Is Xander angry?",Modus Ponens,Yes
+"If Oscar is gentle, then Nina is clever. Oscar is gentle. Is Nina clever?",Modus Ponens,Yes
+"If Wendy is curious, then Xander is honest. Wendy is curious. Is Xander honest?",Modus Ponens,Yes
+"If Kara is sad, then Alice is clever. Kara is sad. Is Alice clever?",Modus Ponens,Yes
+"If Nina is smart, then Xander is proud. Nina is smart. Is Xander proud?",Modus Ponens,Yes
+"If Paul is tall, then Uma is clever. Paul is tall. Is Uma clever?",Modus Ponens,Yes
+"If Eve is polite, then Paul is lazy. Eve is polite. Is Paul lazy?",Modus Ponens,Yes
+"If Diana is kind, then Alice is loud. Diana is kind. Is Alice loud?",Modus Ponens,Yes
+"If Victor is shy, then Tina is quiet. Victor is shy. Is Tina quiet?",Modus Ponens,Yes
+"If Zane is tall, then Diana is short. Zane is tall. Is Diana short?",Modus Ponens,Yes
+"If Sam is polite, then Uma is angry. Sam is polite. Is Uma angry?",Modus Ponens,Yes
+"If Jack is calm, then Nina is loud. Jack is calm. Is Nina loud?",Modus Ponens,Yes
+"If Leo is loud, then Jack is gentle. Leo is loud. Is Jack gentle?",Modus Ponens,Yes
+"If Hank is honest, then Sam is loud. Hank is honest. Is Sam loud?",Modus Ponens,Yes
+"If Oscar is honest, then Diana is polite. Oscar is honest. Is Diana polite?",Modus Ponens,Yes
+"If Rita is proud, then Nina is loud. Rita is proud. Is Nina loud?",Modus Ponens,Yes
+"If Ivy is tall, then Zane is calm. Ivy is tall. Is Zane calm?",Modus Ponens,Yes
+"If Eve is shy, then Xander is sad. Eve is shy. Is Xander sad?",Modus Ponens,Yes
+"If Eve is rude, then Frank is happy. Eve is rude. Is Frank happy?",Modus Ponens,Yes
+"If Ivy is rude, then Tina is shy. Ivy is rude. Is Tina shy?",Modus Ponens,Yes
+"If Xander is proud, then Charlie is calm. Xander is proud. Is Charlie calm?",Modus Ponens,Yes
+"If Sam is kind, then Uma is happy. Sam is kind. Is Uma happy?",Modus Ponens,Yes
+"If Rita is lazy, then Paul is short. Rita is lazy. Is Paul short?",Modus Ponens,Yes
+"If Alice is happy, then Diana is smart. Alice is happy. Is Diana smart?",Modus Ponens,Yes
+"If Yara is shy, then Zane is gentle. Yara is shy. Is Zane gentle?",Modus Ponens,Yes
+"If Frank is shy, then Bob is curious. Frank is shy. Is Bob curious?",Modus Ponens,Yes
+"If Bob is polite, then Zane is proud. Bob is polite. Is Zane proud?",Modus Ponens,Yes
+"If Oscar is lazy, then Diana is gentle. Oscar is lazy. Is Diana gentle?",Modus Ponens,Yes
+"If Diana is calm, then Leo is brave. Diana is calm. Is Leo brave?",Modus Ponens,Yes
+"If Bob is brave, then Rita is tall. Bob is brave. Is Rita tall?",Modus Ponens,Yes
+"If Wendy is polite, then Zane is gentle. Wendy is polite. Is Zane gentle?",Modus Ponens,Yes
+"If Xander is smart, then Rita is lazy. Xander is smart. Is Rita lazy?",Modus Ponens,Yes
+"If Kara is proud, then Eve is calm. Kara is proud. Is Eve calm?",Modus Ponens,Yes
+"If Charlie is smart, then Uma is short. Charlie is smart. Is Uma short?",Modus Ponens,Yes
+"If Rita is curious, then Frank is gentle. Rita is curious. Is Frank gentle?",Modus Ponens,Yes
+"If Bob is happy, then Charlie is short. Bob is happy. Is Charlie short?",Modus Ponens,Yes
+"If Wendy is clever, then Bob is brave. Wendy is clever. Is Bob brave?",Modus Ponens,Yes
+"If Uma is smart, then Tina is brave. Uma is smart. Is Tina brave?",Modus Ponens,Yes
+"If Nina is quiet, then Hank is rude. Nina is quiet. Is Hank rude?",Modus Ponens,Yes
+"If Mona is quiet, then Charlie is happy. Mona is quiet. Is Charlie happy?",Modus Ponens,Yes
+"If Jack is shy, then Zane is tall. Jack is shy. Is Zane tall?",Modus Ponens,Yes
+"If Yara is rude, then Frank is short. Yara is rude. Is Frank short?",Modus Ponens,Yes
+"If Alice is gentle, then Charlie is quiet. Alice is gentle. Is Charlie quiet?",Modus Ponens,Yes
+"If Uma is quiet, then Ivy is calm. Uma is quiet. Is Ivy calm?",Modus Ponens,Yes
+"If Sam is loud, then Zane is short. Sam is loud. Is Zane short?",Modus Ponens,Yes
+"If Quinn is sad, then Mona is angry. Quinn is sad. Is Mona angry?",Modus Ponens,Yes
+"If Eve is quiet, then Tina is rude. Eve is quiet. Is Tina rude?",Modus Ponens,Yes
+"If Frank is smart, then Rita is calm. Frank is smart. Is Rita calm?",Modus Ponens,Yes
+"If Bob is tall, then Kara is curious. Bob is tall. Is Kara curious?",Modus Ponens,Yes
+"If Leo is gentle, then Mona is kind. Leo is gentle. Is Mona kind?",Modus Ponens,Yes
+"If Mona is proud, then Victor is angry. Mona is proud. Is Victor angry?",Modus Ponens,Yes
+"If Kara is short, then Quinn is brave. Kara is short. Is Quinn brave?",Modus Ponens,Yes
+"If Paul is calm, then Hank is sad. Paul is calm. Is Hank sad?",Modus Ponens,Yes
+"If Jack is quiet, then Quinn is loud. Jack is quiet. Is Quinn loud?",Modus Ponens,Yes
+"If Frank is tall, then Uma is quiet. Frank is tall. Is Uma quiet?",Modus Ponens,Yes
+"If Tina is proud, then Uma is clever. Tina is proud. Is Uma clever?",Modus Ponens,Yes
+"If Paul is curious, then Quinn is calm. Paul is curious. Is Quinn calm?",Modus Ponens,Yes
+"If Eve is calm, then Victor is smart. Eve is calm. Is Victor smart?",Modus Ponens,Yes
+"If Paul is curious, then Wendy is loud. Paul is curious. Is Wendy loud?",Modus Ponens,Yes
+"If Eve is proud, then Nina is short. Eve is proud. Is Nina short?",Modus Ponens,Yes
+"If Xander is polite, then Mona is shy. Xander is polite. Is Mona shy?",Modus Ponens,Yes
+"If Eve is shy, then Grace is quiet. Eve is shy. Is Grace quiet?",Modus Ponens,Yes
+"If Uma is sad, then Grace is kind. Uma is sad. Is Grace kind?",Modus Ponens,Yes
+"If Alice is short, then Bob is kind. Alice is short. Is Bob kind?",Modus Ponens,Yes
+"If Ivy is smart, then Uma is lazy. Ivy is smart. Is Uma lazy?",Modus Ponens,Yes
+"If Ivy is quiet, then Xander is honest. Ivy is quiet. Is Xander honest?",Modus Ponens,Yes
+"If Nina is brave, then Leo is angry. Nina is brave. Is Leo angry?",Modus Ponens,Yes
+"If Charlie is curious, then Diana is quiet. Charlie is curious. Is Diana quiet?",Modus Ponens,Yes
+"If Zane is curious, then Uma is rude. Zane is curious. Is Uma rude?",Modus Ponens,Yes
+"If Uma is happy, then Bob is loud. Uma is happy. Is Bob loud?",Modus Ponens,Yes
+"If Ivy is loud, then Alice is gentle. Ivy is loud. Is Alice gentle?",Modus Ponens,Yes
+"If Nina is curious, then Frank is kind. Nina is curious. Is Frank kind?",Modus Ponens,Yes
+"If Ivy is loud, then Leo is gentle. Ivy is loud. Is Leo gentle?",Modus Ponens,Yes
+"If Wendy is gentle, then Jack is clever. Wendy is gentle. Is Jack clever?",Modus Ponens,Yes
+"If Xander is smart, then Mona is quiet. Xander is smart. Is Mona quiet?",Modus Ponens,Yes
+"If Wendy is gentle, then Sam is sad. Wendy is gentle. Is Sam sad?",Modus Ponens,Yes
+"If Bob is brave, then Charlie is shy. Bob is brave. Is Charlie shy?",Modus Ponens,Yes
+"If Charlie is gentle, then Jack is curious. Charlie is gentle. Is Jack curious?",Modus Ponens,Yes
+"If Ivy is tall, then Nina is honest. Ivy is tall. Is Nina honest?",Modus Ponens,Yes
+"If Rita is shy, then Diana is proud. Rita is shy. Is Diana proud?",Modus Ponens,Yes
+"If Rita is brave, then Sam is smart. Rita is brave. Is Sam smart?",Modus Ponens,Yes
+"If Charlie is tall, then Wendy is honest. Charlie is tall. Is Wendy honest?",Modus Ponens,Yes
+"If Wendy is tall, then Xander is kind. Wendy is tall. Is Xander kind?",Modus Ponens,Yes
+"If Alice is curious, then Rita is polite. Alice is curious. Is Rita polite?",Modus Ponens,Yes
+"If Diana is smart, then Quinn is angry. Diana is smart. Is Quinn angry?",Modus Ponens,Yes
+"If Rita is rude, then Xander is curious. Rita is rude. Is Xander curious?",Modus Ponens,Yes
+"If Xander is happy, then Oscar is shy. Xander is happy. Is Oscar shy?",Modus Ponens,Yes
+"If Eve is angry, then Nina is proud. Eve is angry. Is Nina proud?",Modus Ponens,Yes
+"If Grace is angry, then Mona is tall. Grace is angry. Is Mona tall?",Modus Ponens,Yes
+"If Kara is short, then Zane is proud. Kara is short. Is Zane proud?",Modus Ponens,Yes
+"If Rita is clever, then Hank is brave. Rita is clever. Is Hank brave?",Modus Ponens,Yes
+"If Tina is short, then Hank is shy. Tina is short. Is Hank shy?",Modus Ponens,Yes
+"If Bob is calm, then Alice is gentle. Bob is calm. Is Alice gentle?",Modus Ponens,Yes
+"If Tina is kind, then Leo is quiet. Tina is kind. Is Leo quiet?",Modus Ponens,Yes
+"If Tina is polite, then Oscar is lazy. Tina is polite. Is Oscar lazy?",Modus Ponens,Yes
+"If Mona is quiet, then Yara is loud. Mona is quiet. Is Yara loud?",Modus Ponens,Yes
+"If Grace is brave, then Charlie is tall. Grace is brave. Is Charlie tall?",Modus Ponens,Yes
+"If Yara is kind, then Hank is gentle. Yara is kind. Is Hank gentle?",Modus Ponens,Yes
+"If Charlie is calm, then Zane is angry. Charlie is calm. Is Zane angry?",Modus Ponens,Yes
+"If Uma is happy, then Sam is rude. Uma is happy. Is Sam rude?",Modus Ponens,Yes
+"If Zane is sad, then Mona is clever. Zane is sad. Is Mona clever?",Modus Ponens,Yes
+"If Paul is shy, then Kara is smart. Paul is shy. Is Kara smart?",Modus Ponens,Yes
+"If Wendy is clever, then Zane is tall. Wendy is clever. Is Zane tall?",Modus Ponens,Yes
+"If Tina is smart, then Ivy is short. Tina is smart. Is Ivy short?",Modus Ponens,Yes
+"If Ivy is honest, then Zane is brave. Ivy is honest. Is Zane brave?",Modus Ponens,Yes
+"If Kara is honest, then Bob is calm. Kara is honest. Is Bob calm?",Modus Ponens,Yes
+"If Tina is short, then Paul is tall. Tina is short. Is Paul tall?",Modus Ponens,Yes
+"If Ivy is tall, then Hank is brave. Ivy is tall. Is Hank brave?",Modus Ponens,Yes
+"If Ivy is clever, then Hank is tall. Ivy is clever. Is Hank tall?",Modus Ponens,Yes
+"If Alice is clever, then Quinn is tall. Alice is clever. Is Quinn tall?",Modus Ponens,Yes
+"If Xander is shy, then Quinn is tall. Xander is shy. Is Quinn tall?",Modus Ponens,Yes
+"If Victor is shy, then Uma is brave. Victor is shy. Is Uma brave?",Modus Ponens,Yes
+"If Quinn is honest, then Ivy is polite. Quinn is honest. Is Ivy polite?",Modus Ponens,Yes
+"If Sam is sad, then Zane is quiet. Sam is sad. Is Zane quiet?",Modus Ponens,Yes
+"If Victor is sad, then Nina is tall. Victor is sad. Is Nina tall?",Modus Ponens,Yes
+"If Oscar is gentle, then Wendy is happy. Oscar is gentle. Is Wendy happy?",Modus Ponens,Yes
+"If Leo is happy, then Xander is short. Leo is happy. Is Xander short?",Modus Ponens,Yes
+"If Rita is sad, then Quinn is clever. Rita is sad. Is Quinn clever?",Modus Ponens,Yes
+"If Xander is brave, then Ivy is clever. Xander is brave. Is Ivy clever?",Modus Ponens,Yes
+"If Alice is curious, then Grace is rude. Alice is curious. Is Grace rude?",Modus Ponens,Yes
+"If Bob is sad, then Paul is calm. Bob is sad. Is Paul calm?",Modus Ponens,Yes
+"If Sam is polite, then Yara is tall. Sam is polite. Is Yara tall?",Modus Ponens,Yes
+"If Frank is tall, then Tina is clever. Frank is tall. Is Tina clever?",Modus Ponens,Yes
+"If Mona is short, then Jack is gentle. Mona is short. Is Jack gentle?",Modus Ponens,Yes
+"If Oscar is brave, then Mona is polite. Oscar is brave. Is Mona polite?",Modus Ponens,Yes
+"If Uma is happy, then Mona is proud. Uma is happy. Is Mona proud?",Modus Ponens,Yes
+"If Kara is clever, then Victor is calm. Kara is clever. Is Victor calm?",Modus Ponens,Yes
+"If Mona is kind, then Zane is honest. Mona is kind. Is Zane honest?",Modus Ponens,Yes
+"If Mona is quiet, then Victor is short. Mona is quiet. Is Victor short?",Modus Ponens,Yes
+"If Alice is lazy, then Eve is tall. Alice is lazy. Is Eve tall?",Modus Ponens,Yes
+"If Victor is proud, then Zane is happy. Victor is proud. Is Zane happy?",Modus Ponens,Yes
+"If Wendy is honest, then Grace is calm. Wendy is honest. Is Grace calm?",Modus Ponens,Yes
+"If Ivy is honest, then Diana is short. Ivy is honest. Is Diana short?",Modus Ponens,Yes
+"If Rita is calm, then Tina is kind. Rita is calm. Is Tina kind?",Modus Ponens,Yes
+"If Uma is brave, then Eve is smart. Uma is brave. Is Eve smart?",Modus Ponens,Yes
+"If Rita is shy, then Mona is calm. Rita is shy. Is Mona calm?",Modus Ponens,Yes
+"If Kara is tall, then Alice is polite. Kara is tall. Is Alice polite?",Modus Ponens,Yes
+"If Charlie is curious, then Paul is smart. Charlie is curious. Is Paul smart?",Modus Ponens,Yes
+"If Yara is rude, then Leo is quiet. Yara is rude. Is Leo quiet?",Modus Ponens,Yes
+"If Hank is smart, then Yara is rude. Hank is smart. Is Yara rude?",Modus Ponens,Yes
+"If Leo is lazy, then Wendy is brave. Leo is lazy. Is Wendy brave?",Modus Ponens,Yes
+"If Bob is shy, then Wendy is gentle. Bob is shy. Is Wendy gentle?",Modus Ponens,Yes
+"If Zane is polite, then Tina is clever. Zane is polite. Is Tina clever?",Modus Ponens,Yes
+"If Victor is sad, then Ivy is curious. Victor is sad. Is Ivy curious?",Modus Ponens,Yes
+"If Uma is polite, then Yara is curious. Uma is polite. Is Yara curious?",Modus Ponens,Yes
+"If Uma is angry, then Eve is kind. Uma is angry. Is Eve kind?",Modus Ponens,Yes
+"If Quinn is sad, then Diana is brave. Quinn is sad. Is Diana brave?",Modus Ponens,Yes
+"If Quinn is angry, then Rita is shy. Quinn is angry. Is Rita shy?",Modus Ponens,Yes
+"If Zane is loud, then Oscar is smart. Zane is loud. Is Oscar smart?",Modus Ponens,Yes
+"If Quinn is sad, then Uma is short. Quinn is sad. Is Uma short?",Modus Ponens,Yes
+"If Ivy is curious, then Victor is tall. Ivy is curious. Is Victor tall?",Modus Ponens,Yes
+"If Hank is calm, then Diana is clever. Hank is calm. Is Diana clever?",Modus Ponens,Yes
+"If Victor is kind, then Ivy is lazy. Victor is kind. Is Ivy lazy?",Modus Ponens,Yes
+"If Paul is smart, then Alice is loud. Paul is smart. Is Alice loud?",Modus Ponens,Yes
+"If Eve is loud, then Wendy is short. Eve is loud. Is Wendy short?",Modus Ponens,Yes
+"If Alice is polite, then Quinn is angry. Alice is polite. Is Quinn angry?",Modus Ponens,Yes
+"If Paul is clever, then Kara is proud. Paul is clever. Is Kara proud?",Modus Ponens,Yes
+"If Kara is tall, then Rita is sad. Kara is tall. Is Rita sad?",Modus Ponens,Yes
+"If Uma is quiet, then Zane is smart. Uma is quiet. Is Zane smart?",Modus Ponens,Yes
+"If Charlie is loud, then Wendy is proud. Charlie is loud. Is Wendy proud?",Modus Ponens,Yes
+"If Nina is short, then Sam is sad. Nina is short. Is Sam sad?",Modus Ponens,Yes
+"If Charlie is polite, then Tina is happy. Charlie is polite. Is Tina happy?",Modus Ponens,Yes
+"If Charlie is quiet, then Oscar is brave. Charlie is quiet. Is Oscar brave?",Modus Ponens,Yes
+"If Rita is happy, then Wendy is rude. Rita is happy. Is Wendy rude?",Modus Ponens,Yes
+"If Paul is calm, then Ivy is gentle. Paul is calm. Is Ivy gentle?",Modus Ponens,Yes
+"If Sam is loud, then Grace is honest. Sam is loud. Is Grace honest?",Modus Ponens,Yes
+"If Hank is proud, then Leo is calm. Hank is proud. Is Leo calm?",Modus Ponens,Yes
+"If Oscar is happy, then Alice is shy. Oscar is happy. Is Alice shy?",Modus Ponens,Yes
+"If Leo is shy, then Diana is smart. Leo is shy. Is Diana smart?",Modus Ponens,Yes
+"If Paul is polite, then Quinn is honest. Paul is polite. Is Quinn honest?",Modus Ponens,Yes
+"If Zane is quiet, then Kara is short. Zane is quiet. Is Kara short?",Modus Ponens,Yes
+"If Alice is quiet, then Hank is clever. Alice is quiet. Is Hank clever?",Modus Ponens,Yes
+"If Yara is honest, then Sam is tall. Yara is honest. Is Sam tall?",Modus Ponens,Yes
+"If Bob is kind, then Uma is quiet. Bob is kind. Is Uma quiet?",Modus Ponens,Yes
+"If Tina is lazy, then Victor is angry. Tina is lazy. Is Victor angry?",Modus Ponens,Yes
+"If Uma is angry, then Tina is curious. Uma is angry. Is Tina curious?",Modus Ponens,Yes
+"If Diana is loud, then Yara is polite. Diana is loud. Is Yara polite?",Modus Ponens,Yes
+"If Charlie is loud, then Oscar is tall. Charlie is loud. Is Oscar tall?",Modus Ponens,Yes
+"If Tina is calm, then Wendy is clever. Tina is calm. Is Wendy clever?",Modus Ponens,Yes
+"If Jack is smart, then Zane is polite. Jack is smart. Is Zane polite?",Modus Ponens,Yes
+"If Yara is tall, then Ivy is rude. Yara is tall. Is Ivy rude?",Modus Ponens,Yes
+"If Quinn is lazy, then Rita is kind. Quinn is lazy. Is Rita kind?",Modus Ponens,Yes
+"If Leo is loud, then Frank is curious. Leo is loud. Is Frank curious?",Modus Ponens,Yes
+"If Tina is tall, then Wendy is proud. Tina is tall. Is Wendy proud?",Modus Ponens,Yes
+"If Victor is calm, then Wendy is tall. Victor is calm. Is Wendy tall?",Modus Ponens,Yes
+"If Paul is quiet, then Frank is kind. Paul is quiet. Is Frank kind?",Modus Ponens,Yes
+"If Kara is polite, then Zane is curious. Kara is polite. Is Zane curious?",Modus Ponens,Yes
+"If Rita is gentle, then Quinn is shy. Rita is gentle. Is Quinn shy?",Modus Ponens,Yes
+"If Ivy is proud, then Bob is happy. Ivy is proud. Is Bob happy?",Modus Ponens,Yes
+"If Victor is rude, then Wendy is curious. Victor is rude. Is Wendy curious?",Modus Ponens,Yes
+"If Sam is lazy, then Oscar is quiet. Sam is lazy. Is Oscar quiet?",Modus Ponens,Yes
+"If Charlie is happy, then Rita is gentle. Charlie is happy. Is Rita gentle?",Modus Ponens,Yes
+"If Victor is quiet, then Alice is clever. Victor is quiet. Is Alice clever?",Modus Ponens,Yes
+"If Mona is polite, then Frank is proud. Mona is polite. Is Frank proud?",Modus Ponens,Yes
+"If Grace is lazy, then Jack is smart. Grace is lazy. Is Jack smart?",Modus Ponens,Yes
+"If Uma is sad, then Eve is polite. Uma is sad. Is Eve polite?",Modus Ponens,Yes
+"If Jack is angry, then Sam is curious. Jack is angry. Is Sam curious?",Modus Ponens,Yes
+"If Jack is shy, then Paul is angry. Jack is shy. Is Paul angry?",Modus Ponens,Yes
+"If Rita is honest, then Mona is lazy. Rita is honest. Is Mona lazy?",Modus Ponens,Yes
+"If Jack is gentle, then Paul is lazy. Jack is gentle. Is Paul lazy?",Modus Ponens,Yes
+"If Frank is happy, then Hank is sad. Frank is happy. Is Hank sad?",Modus Ponens,Yes
+"If Grace is calm, then Quinn is loud. Grace is calm. Is Quinn loud?",Modus Ponens,Yes
+"If Eve is kind, then Paul is lazy. Eve is kind. Is Paul lazy?",Modus Ponens,Yes
+"If Kara is honest, then Frank is short. Kara is honest. Is Frank short?",Modus Ponens,Yes
+"If Xander is lazy, then Sam is tall. Xander is lazy. Is Sam tall?",Modus Ponens,Yes
+"If Sam is calm, then Uma is quiet. Sam is calm. Is Uma quiet?",Modus Ponens,Yes
+"If Rita is loud, then Leo is calm. Rita is loud. Is Leo calm?",Modus Ponens,Yes
+"If Jack is loud, then Diana is curious. Jack is loud. Is Diana curious?",Modus Ponens,Yes
+"If Jack is honest, then Nina is lazy. Jack is honest. Is Nina lazy?",Modus Ponens,Yes
+"If Uma is clever, then Eve is loud. Uma is clever. Is Eve loud?",Modus Ponens,Yes
+"If Yara is tall, then Diana is short. Yara is tall. Is Diana short?",Modus Ponens,Yes
+"If Uma is kind, then Zane is tall. Uma is kind. Is Zane tall?",Modus Ponens,Yes
+"If Nina is short, then Ivy is polite. Nina is short. Is Ivy polite?",Modus Ponens,Yes
+"If Wendy is happy, then Mona is shy. Wendy is happy. Is Mona shy?",Modus Ponens,Yes
+"If Quinn is rude, then Victor is short. Quinn is rude. Is Victor short?",Modus Ponens,Yes
+"If Ivy is polite, then Kara is calm. Ivy is polite. Is Kara calm?",Modus Ponens,Yes
+"If Xander is short, then Jack is brave. Xander is short. Is Jack brave?",Modus Ponens,Yes
+"If Wendy is polite, then Sam is rude. Wendy is polite. Is Sam rude?",Modus Ponens,Yes
+"If Tina is angry, then Victor is brave. Tina is angry. Is Victor brave?",Modus Ponens,Yes
+"If Mona is loud, then Nina is lazy. Mona is loud. Is Nina lazy?",Modus Ponens,Yes
+"If Oscar is rude, then Leo is polite. Oscar is rude. Is Leo polite?",Modus Ponens,Yes
+"If Wendy is gentle, then Charlie is clever. Wendy is gentle. Is Charlie clever?",Modus Ponens,Yes
+"If Frank is rude, then Ivy is quiet. Frank is rude. Is Ivy quiet?",Modus Ponens,Yes
+"If Tina is kind, then Nina is angry. Tina is kind. Is Nina angry?",Modus Ponens,Yes
+"If Wendy is calm, then Zane is sad. Wendy is calm. Is Zane sad?",Modus Ponens,Yes
+"If Yara is quiet, then Hank is tall. Yara is quiet. Is Hank tall?",Modus Ponens,Yes
+"If Ivy is smart, then Mona is gentle. Ivy is smart. Is Mona gentle?",Modus Ponens,Yes
+"If Xander is smart, then Eve is quiet. Xander is smart. Is Eve quiet?",Modus Ponens,Yes
+"If Grace is quiet, then Tina is sad. Grace is quiet. Is Tina sad?",Modus Ponens,Yes
+"If Rita is brave, then Uma is calm. Rita is brave. Is Uma calm?",Modus Ponens,Yes
+"If Quinn is clever, then Oscar is happy. Quinn is clever. Is Oscar happy?",Modus Ponens,Yes
+"If Yara is polite, then Grace is sad. Yara is polite. Is Grace sad?",Modus Ponens,Yes
+"If Eve is quiet, then Bob is tall. Eve is quiet. Is Bob tall?",Modus Ponens,Yes
+"If Sam is angry, then Nina is kind. Sam is angry. Is Nina kind?",Modus Ponens,Yes
+"If Tina is gentle, then Mona is kind. Tina is gentle. Is Mona kind?",Modus Ponens,Yes
+"If Hank is shy, then Quinn is lazy. Hank is shy. Is Quinn lazy?",Modus Ponens,Yes
+"If Zane is angry, then Nina is shy. Zane is angry. Is Nina shy?",Modus Ponens,Yes
+"If Uma is clever, then Wendy is proud. Uma is clever. Is Wendy proud?",Modus Ponens,Yes
+"If Kara is proud, then Diana is quiet. Kara is proud. Is Diana quiet?",Modus Ponens,Yes
+"If Tina is tall, then Victor is curious. Tina is tall. Is Victor curious?",Modus Ponens,Yes
+"If Jack is tall, then Mona is polite. Jack is tall. Is Mona polite?",Modus Ponens,Yes
+"If Oscar is short, then Tina is angry. Oscar is short. Is Tina angry?",Modus Ponens,Yes
+"If Bob is calm, then Grace is rude. Bob is calm. Is Grace rude?",Modus Ponens,Yes
+"If Victor is proud, then Rita is shy. Victor is proud. Is Rita shy?",Modus Ponens,Yes
+"If Jack is happy, then Victor is angry. Jack is happy. Is Victor angry?",Modus Ponens,Yes
+"If Jack is lazy, then Yara is sad. Jack is lazy. Is Yara sad?",Modus Ponens,Yes
+"If Hank is shy, then Nina is smart. Hank is shy. Is Nina smart?",Modus Ponens,Yes
+"If Uma is polite, then Quinn is sad. Uma is polite. Is Quinn sad?",Modus Ponens,Yes
+"If Frank is shy, then Rita is tall. Frank is shy. Is Rita tall?",Modus Ponens,Yes
+"If Mona is kind, then Paul is brave. Mona is kind. Is Paul brave?",Modus Ponens,Yes
+"If Kara is tall, then Jack is gentle. Kara is tall. Is Jack gentle?",Modus Ponens,Yes
+"If Grace is gentle, then Diana is proud. Grace is gentle. Is Diana proud?",Modus Ponens,Yes
+"If Quinn is happy, then Tina is proud. Quinn is happy. Is Tina proud?",Modus Ponens,Yes
+"If Bob is curious, then Paul is happy. Bob is curious. Is Paul happy?",Modus Ponens,Yes
+"If Zane is tall, then Oscar is happy. Zane is tall. Is Oscar happy?",Modus Ponens,Yes
+"If Zane is sad, then Bob is curious. Zane is sad. Is Bob curious?",Modus Ponens,Yes
+"If Victor is brave, then Oscar is smart. Victor is brave. Is Oscar smart?",Modus Ponens,Yes
+"If Ivy is sad, then Mona is honest. Ivy is sad. Is Mona honest?",Modus Ponens,Yes
+"If Kara is tall, then Xander is honest. Kara is tall. Is Xander honest?",Modus Ponens,Yes
+"If Xander is happy, then Charlie is proud. Xander is happy. Is Charlie proud?",Modus Ponens,Yes
+"If Nina is happy, then Diana is polite. Nina is happy. Is Diana polite?",Modus Ponens,Yes
+"If Mona is smart, then Zane is tall. Mona is smart. Is Zane tall?",Modus Ponens,Yes
+"If Charlie is curious, then Paul is loud. Charlie is curious. Is Paul loud?",Modus Ponens,Yes
+"If Victor is loud, then Mona is tall. Victor is loud. Is Mona tall?",Modus Ponens,Yes
+"If Quinn is loud, then Eve is shy. Quinn is loud. Is Eve shy?",Modus Ponens,Yes
+"If Hank is calm, then Eve is clever. Hank is calm. Is Eve clever?",Modus Ponens,Yes
+"If Nina is curious, then Quinn is tall. Nina is curious. Is Quinn tall?",Modus Ponens,Yes
+"If Eve is sad, then Bob is angry. Eve is sad. Is Bob angry?",Modus Ponens,Yes
+"If Rita is tall, then Leo is clever. Rita is tall. Is Leo clever?",Modus Ponens,Yes
+"If Yara is kind, then Leo is sad. Yara is kind. Is Leo sad?",Modus Ponens,Yes
+"If Jack is lazy, then Nina is calm. Jack is lazy. Is Nina calm?",Modus Ponens,Yes
+"If Hank is shy, then Ivy is polite. Hank is shy. Is Ivy polite?",Modus Ponens,Yes
+"If Victor is quiet, then Nina is kind. Victor is quiet. Is Nina kind?",Modus Ponens,Yes
+"If Hank is tall, then Bob is angry. Hank is tall. Is Bob angry?",Modus Ponens,Yes
+"If Bob is angry, then Rita is proud. Bob is angry. Is Rita proud?",Modus Ponens,Yes
+"If Hank is smart, then Eve is happy. Hank is smart. Is Eve happy?",Modus Ponens,Yes
+"If Uma is angry, then Wendy is short. Uma is angry. Is Wendy short?",Modus Ponens,Yes
+"If Sam is proud, then Jack is happy. Sam is proud. Is Jack happy?",Modus Ponens,Yes
+"If Leo is clever, then Wendy is sad. Leo is clever. Is Wendy sad?",Modus Ponens,Yes
+"If Paul is tall, then Wendy is angry. Paul is tall. Is Wendy angry?",Modus Ponens,Yes
+"If Nina is lazy, then Victor is tall. Nina is lazy. Is Victor tall?",Modus Ponens,Yes
+"If Bob is quiet, then Kara is sad. Bob is quiet. Is Kara sad?",Modus Ponens,Yes
+"If Jack is gentle, then Alice is polite. Jack is gentle. Is Alice polite?",Modus Ponens,Yes
+"If Sam is lazy, then Charlie is polite. Sam is lazy. Is Charlie polite?",Modus Ponens,Yes
+"If Kara is tall, then Oscar is clever. Kara is tall. Is Oscar clever?",Modus Ponens,Yes
+"If Ivy is gentle, then Zane is quiet. Ivy is gentle. Is Zane quiet?",Modus Ponens,Yes
+"If Sam is proud, then Rita is calm. Sam is proud. Is Rita calm?",Modus Ponens,Yes
+"If Mona is kind, then Rita is brave. Mona is kind. Is Rita brave?",Modus Ponens,Yes
+"If Grace is happy, then Diana is proud. Diana is not proud. Is Grace not happy?",Modus Tollens,Yes
+"If Yara is angry, then Kara is rude. Kara is not rude. Is Yara not angry?",Modus Tollens,Yes
+"If Oscar is clever, then Jack is sad. Jack is not sad. Is Oscar not clever?",Modus Tollens,Yes
+"If Quinn is clever, then Tina is loud. Tina is not loud. Is Quinn not clever?",Modus Tollens,Yes
+"If Alice is calm, then Frank is proud. Frank is not proud. Is Alice not calm?",Modus Tollens,Yes
+"If Eve is kind, then Grace is curious. Grace is not curious. Is Eve not kind?",Modus Tollens,Yes
+"If Tina is rude, then Nina is happy. Nina is not happy. Is Tina not rude?",Modus Tollens,Yes
+"If Xander is gentle, then Nina is clever. Nina is not clever. Is Xander not gentle?",Modus Tollens,Yes
+"If Rita is quiet, then Nina is happy. Nina is not happy. Is Rita not quiet?",Modus Tollens,Yes
+"If Yara is curious, then Kara is polite. Kara is not polite. Is Yara not curious?",Modus Tollens,Yes
+"If Quinn is brave, then Zane is angry. Zane is not angry. Is Quinn not brave?",Modus Tollens,Yes
+"If Xander is shy, then Oscar is lazy. Oscar is not lazy. Is Xander not shy?",Modus Tollens,Yes
+"If Hank is rude, then Victor is tall. Victor is not tall. Is Hank not rude?",Modus Tollens,Yes
+"If Paul is gentle, then Alice is brave. Alice is not brave. Is Paul not gentle?",Modus Tollens,Yes
+"If Jack is polite, then Diana is honest. Diana is not honest. Is Jack not polite?",Modus Tollens,Yes
+"If Quinn is sad, then Zane is lazy. Zane is not lazy. Is Quinn not sad?",Modus Tollens,Yes
+"If Diana is brave, then Nina is honest. Nina is not honest. Is Diana not brave?",Modus Tollens,Yes
+"If Mona is proud, then Eve is loud. Eve is not loud. Is Mona not proud?",Modus Tollens,Yes
+"If Leo is kind, then Charlie is proud. Charlie is not proud. Is Leo not kind?",Modus Tollens,Yes
+"If Uma is gentle, then Charlie is loud. Charlie is not loud. Is Uma not gentle?",Modus Tollens,Yes
+"If Tina is polite, then Bob is rude. Bob is not rude. Is Tina not polite?",Modus Tollens,Yes
+"If Frank is rude, then Hank is polite. Hank is not polite. Is Frank not rude?",Modus Tollens,Yes
+"If Grace is honest, then Tina is gentle. Tina is not gentle. Is Grace not honest?",Modus Tollens,Yes
+"If Kara is kind, then Paul is quiet. Paul is not quiet. Is Kara not kind?",Modus Tollens,Yes
+"If Rita is smart, then Xander is curious. Xander is not curious. Is Rita not smart?",Modus Tollens,Yes
+"If Diana is sad, then Leo is gentle. Leo is not gentle. Is Diana not sad?",Modus Tollens,Yes
+"If Rita is clever, then Ivy is short. Ivy is not short. Is Rita not clever?",Modus Tollens,Yes
+"If Hank is gentle, then Ivy is happy. Ivy is not happy. Is Hank not gentle?",Modus Tollens,Yes
+"If Bob is kind, then Eve is polite. Eve is not polite. Is Bob not kind?",Modus Tollens,Yes
+"If Yara is brave, then Zane is proud. Zane is not proud. Is Yara not brave?",Modus Tollens,Yes
+"If Alice is tall, then Grace is curious. Grace is not curious. Is Alice not tall?",Modus Tollens,Yes
+"If Alice is honest, then Hank is tall. Hank is not tall. Is Alice not honest?",Modus Tollens,Yes
+"If Tina is rude, then Nina is gentle. Nina is not gentle. Is Tina not rude?",Modus Tollens,Yes
+"If Eve is short, then Uma is sad. Uma is not sad. Is Eve not short?",Modus Tollens,Yes
+"If Grace is happy, then Xander is quiet. Xander is not quiet. Is Grace not happy?",Modus Tollens,Yes
+"If Yara is lazy, then Oscar is brave. Oscar is not brave. Is Yara not lazy?",Modus Tollens,Yes
+"If Yara is brave, then Frank is shy. Frank is not shy. Is Yara not brave?",Modus Tollens,Yes
+"If Kara is happy, then Grace is calm. Grace is not calm. Is Kara not happy?",Modus Tollens,Yes
+"If Grace is short, then Alice is tall. Alice is not tall. Is Grace not short?",Modus Tollens,Yes
+"If Rita is smart, then Eve is kind. Eve is not kind. Is Rita not smart?",Modus Tollens,Yes
+"If Alice is shy, then Victor is proud. Victor is not proud. Is Alice not shy?",Modus Tollens,Yes
+"If Zane is loud, then Ivy is rude. Ivy is not rude. Is Zane not loud?",Modus Tollens,Yes
+"If Zane is clever, then Mona is curious. Mona is not curious. Is Zane not clever?",Modus Tollens,Yes
+"If Kara is clever, then Oscar is rude. Oscar is not rude. Is Kara not clever?",Modus Tollens,Yes
+"If Paul is gentle, then Diana is short. Diana is not short. Is Paul not gentle?",Modus Tollens,Yes
+"If Zane is honest, then Oscar is angry. Oscar is not angry. Is Zane not honest?",Modus Tollens,Yes
+"If Oscar is calm, then Uma is short. Uma is not short. Is Oscar not calm?",Modus Tollens,Yes
+"If Mona is lazy, then Frank is shy. Frank is not shy. Is Mona not lazy?",Modus Tollens,Yes
+"If Eve is sad, then Zane is tall. Zane is not tall. Is Eve not sad?",Modus Tollens,Yes
+"If Victor is calm, then Paul is sad. Paul is not sad. Is Victor not calm?",Modus Tollens,Yes
+"If Yara is sad, then Tina is short. Tina is not short. Is Yara not sad?",Modus Tollens,Yes
+"If Uma is kind, then Victor is honest. Victor is not honest. Is Uma not kind?",Modus Tollens,Yes
+"If Zane is lazy, then Eve is smart. Eve is not smart. Is Zane not lazy?",Modus Tollens,Yes
+"If Kara is smart, then Victor is honest. Victor is not honest. Is Kara not smart?",Modus Tollens,Yes
+"If Paul is proud, then Victor is kind. Victor is not kind. Is Paul not proud?",Modus Tollens,Yes
+"If Charlie is rude, then Hank is kind. Hank is not kind. Is Charlie not rude?",Modus Tollens,Yes
+"If Mona is smart, then Hank is curious. Hank is not curious. Is Mona not smart?",Modus Tollens,Yes
+"If Yara is angry, then Frank is polite. Frank is not polite. Is Yara not angry?",Modus Tollens,Yes
+"If Grace is rude, then Victor is short. Victor is not short. Is Grace not rude?",Modus Tollens,Yes
+"If Nina is clever, then Zane is gentle. Zane is not gentle. Is Nina not clever?",Modus Tollens,Yes
+"If Hank is polite, then Leo is tall. Leo is not tall. Is Hank not polite?",Modus Tollens,Yes
+"If Frank is quiet, then Victor is proud. Victor is not proud. Is Frank not quiet?",Modus Tollens,Yes
+"If Oscar is gentle, then Xander is clever. Xander is not clever. Is Oscar not gentle?",Modus Tollens,Yes
+"If Uma is smart, then Jack is loud. Jack is not loud. Is Uma not smart?",Modus Tollens,Yes
+"If Tina is sad, then Xander is polite. Xander is not polite. Is Tina not sad?",Modus Tollens,Yes
+"If Zane is honest, then Rita is sad. Rita is not sad. Is Zane not honest?",Modus Tollens,Yes
+"If Ivy is smart, then Kara is calm. Kara is not calm. Is Ivy not smart?",Modus Tollens,Yes
+"If Jack is angry, then Nina is curious. Nina is not curious. Is Jack not angry?",Modus Tollens,Yes
+"If Zane is polite, then Mona is kind. Mona is not kind. Is Zane not polite?",Modus Tollens,Yes
+"If Kara is tall, then Uma is loud. Uma is not loud. Is Kara not tall?",Modus Tollens,Yes
+"If Victor is polite, then Tina is honest. Tina is not honest. Is Victor not polite?",Modus Tollens,Yes
+"If Wendy is lazy, then Leo is shy. Leo is not shy. Is Wendy not lazy?",Modus Tollens,Yes
+"If Ivy is angry, then Hank is sad. Hank is not sad. Is Ivy not angry?",Modus Tollens,Yes
+"If Rita is shy, then Xander is honest. Xander is not honest. Is Rita not shy?",Modus Tollens,Yes
+"If Wendy is honest, then Nina is sad. Nina is not sad. Is Wendy not honest?",Modus Tollens,Yes
+"If Hank is sad, then Uma is proud. Uma is not proud. Is Hank not sad?",Modus Tollens,Yes
+"If Kara is curious, then Sam is brave. Sam is not brave. Is Kara not curious?",Modus Tollens,Yes
+"If Ivy is clever, then Eve is lazy. Eve is not lazy. Is Ivy not clever?",Modus Tollens,Yes
+"If Oscar is happy, then Grace is smart. Grace is not smart. Is Oscar not happy?",Modus Tollens,Yes
+"If Uma is proud, then Kara is smart. Kara is not smart. Is Uma not proud?",Modus Tollens,Yes
+"If Ivy is happy, then Wendy is angry. Wendy is not angry. Is Ivy not happy?",Modus Tollens,Yes
+"If Hank is kind, then Zane is brave. Zane is not brave. Is Hank not kind?",Modus Tollens,Yes
+"If Tina is honest, then Hank is angry. Hank is not angry. Is Tina not honest?",Modus Tollens,Yes
+"If Nina is brave, then Uma is kind. Uma is not kind. Is Nina not brave?",Modus Tollens,Yes
+"If Sam is tall, then Jack is lazy. Jack is not lazy. Is Sam not tall?",Modus Tollens,Yes
+"If Tina is gentle, then Alice is proud. Alice is not proud. Is Tina not gentle?",Modus Tollens,Yes
+"If Alice is polite, then Jack is gentle. Jack is not gentle. Is Alice not polite?",Modus Tollens,Yes
+"If Jack is short, then Alice is shy. Alice is not shy. Is Jack not short?",Modus Tollens,Yes
+"If Grace is tall, then Bob is angry. Bob is not angry. Is Grace not tall?",Modus Tollens,Yes
+"If Oscar is honest, then Xander is rude. Xander is not rude. Is Oscar not honest?",Modus Tollens,Yes
+"If Sam is lazy, then Frank is short. Frank is not short. Is Sam not lazy?",Modus Tollens,Yes
+"If Mona is proud, then Grace is polite. Grace is not polite. Is Mona not proud?",Modus Tollens,Yes
+"If Alice is clever, then Quinn is honest. Quinn is not honest. Is Alice not clever?",Modus Tollens,Yes
+"If Grace is rude, then Ivy is sad. Ivy is not sad. Is Grace not rude?",Modus Tollens,Yes
+"If Rita is tall, then Nina is clever. Nina is not clever. Is Rita not tall?",Modus Tollens,Yes
+"If Xander is rude, then Diana is angry. Diana is not angry. Is Xander not rude?",Modus Tollens,Yes
+"If Xander is gentle, then Rita is clever. Rita is not clever. Is Xander not gentle?",Modus Tollens,Yes
+"If Nina is smart, then Leo is lazy. Leo is not lazy. Is Nina not smart?",Modus Tollens,Yes
+"If Victor is quiet, then Frank is brave. Frank is not brave. Is Victor not quiet?",Modus Tollens,Yes
+"If Alice is short, then Uma is calm. Uma is not calm. Is Alice not short?",Modus Tollens,Yes
+"If Alice is loud, then Rita is clever. Rita is not clever. Is Alice not loud?",Modus Tollens,Yes
+"If Hank is curious, then Tina is clever. Tina is not clever. Is Hank not curious?",Modus Tollens,Yes
+"If Hank is clever, then Paul is loud. Paul is not loud. Is Hank not clever?",Modus Tollens,Yes
+"If Leo is short, then Charlie is calm. Charlie is not calm. Is Leo not short?",Modus Tollens,Yes
+"If Diana is polite, then Jack is brave. Jack is not brave. Is Diana not polite?",Modus Tollens,Yes
+"If Hank is happy, then Victor is gentle. Victor is not gentle. Is Hank not happy?",Modus Tollens,Yes
+"If Quinn is kind, then Mona is polite. Mona is not polite. Is Quinn not kind?",Modus Tollens,Yes
+"If Mona is quiet, then Oscar is lazy. Oscar is not lazy. Is Mona not quiet?",Modus Tollens,Yes
+"If Oscar is kind, then Victor is shy. Victor is not shy. Is Oscar not kind?",Modus Tollens,Yes
+"If Tina is shy, then Wendy is angry. Wendy is not angry. Is Tina not shy?",Modus Tollens,Yes
+"If Kara is kind, then Eve is proud. Eve is not proud. Is Kara not kind?",Modus Tollens,Yes
+"If Sam is proud, then Ivy is lazy. Ivy is not lazy. Is Sam not proud?",Modus Tollens,Yes
+"If Rita is clever, then Paul is happy. Paul is not happy. Is Rita not clever?",Modus Tollens,Yes
+"If Uma is lazy, then Alice is rude. Alice is not rude. Is Uma not lazy?",Modus Tollens,Yes
+"If Quinn is happy, then Ivy is calm. Ivy is not calm. Is Quinn not happy?",Modus Tollens,Yes
+"If Xander is rude, then Charlie is honest. Charlie is not honest. Is Xander not rude?",Modus Tollens,Yes
+"If Uma is shy, then Mona is clever. Mona is not clever. Is Uma not shy?",Modus Tollens,Yes
+"If Jack is gentle, then Alice is brave. Alice is not brave. Is Jack not gentle?",Modus Tollens,Yes
+"If Quinn is smart, then Frank is kind. Frank is not kind. Is Quinn not smart?",Modus Tollens,Yes
+"If Xander is honest, then Grace is quiet. Grace is not quiet. Is Xander not honest?",Modus Tollens,Yes
+"If Charlie is calm, then Eve is shy. Eve is not shy. Is Charlie not calm?",Modus Tollens,Yes
+"If Uma is rude, then Rita is honest. Rita is not honest. Is Uma not rude?",Modus Tollens,Yes
+"If Oscar is kind, then Eve is rude. Eve is not rude. Is Oscar not kind?",Modus Tollens,Yes
+"If Kara is short, then Oscar is smart. Oscar is not smart. Is Kara not short?",Modus Tollens,Yes
+"If Nina is honest, then Alice is kind. Alice is not kind. Is Nina not honest?",Modus Tollens,Yes
+"If Quinn is honest, then Victor is lazy. Victor is not lazy. Is Quinn not honest?",Modus Tollens,Yes
+"If Leo is tall, then Oscar is proud. Oscar is not proud. Is Leo not tall?",Modus Tollens,Yes
+"If Diana is polite, then Tina is lazy. Tina is not lazy. Is Diana not polite?",Modus Tollens,Yes
+"If Kara is gentle, then Sam is brave. Sam is not brave. Is Kara not gentle?",Modus Tollens,Yes
+"If Grace is happy, then Ivy is angry. Ivy is not angry. Is Grace not happy?",Modus Tollens,Yes
+"If Kara is quiet, then Eve is brave. Eve is not brave. Is Kara not quiet?",Modus Tollens,Yes
+"If Diana is shy, then Uma is quiet. Uma is not quiet. Is Diana not shy?",Modus Tollens,Yes
+"If Diana is happy, then Paul is lazy. Paul is not lazy. Is Diana not happy?",Modus Tollens,Yes
+"If Tina is calm, then Nina is happy. Nina is not happy. Is Tina not calm?",Modus Tollens,Yes
+"If Alice is short, then Quinn is clever. Quinn is not clever. Is Alice not short?",Modus Tollens,Yes
+"If Uma is smart, then Diana is curious. Diana is not curious. Is Uma not smart?",Modus Tollens,Yes
+"If Victor is shy, then Ivy is proud. Ivy is not proud. Is Victor not shy?",Modus Tollens,Yes
+"If Ivy is brave, then Paul is shy. Paul is not shy. Is Ivy not brave?",Modus Tollens,Yes
+"If Charlie is proud, then Mona is smart. Mona is not smart. Is Charlie not proud?",Modus Tollens,Yes
+"If Frank is happy, then Hank is kind. Hank is not kind. Is Frank not happy?",Modus Tollens,Yes
+"If Quinn is calm, then Rita is loud. Rita is not loud. Is Quinn not calm?",Modus Tollens,Yes
+"If Eve is short, then Frank is polite. Frank is not polite. Is Eve not short?",Modus Tollens,Yes
+"If Tina is polite, then Victor is kind. Victor is not kind. Is Tina not polite?",Modus Tollens,Yes
+"If Zane is polite, then Eve is short. Eve is not short. Is Zane not polite?",Modus Tollens,Yes
+"If Nina is clever, then Diana is sad. Diana is not sad. Is Nina not clever?",Modus Tollens,Yes
+"If Wendy is smart, then Xander is angry. Xander is not angry. Is Wendy not smart?",Modus Tollens,Yes
+"If Xander is loud, then Victor is honest. Victor is not honest. Is Xander not loud?",Modus Tollens,Yes
+"If Alice is angry, then Xander is happy. Xander is not happy. Is Alice not angry?",Modus Tollens,Yes
+"If Frank is rude, then Charlie is proud. Charlie is not proud. Is Frank not rude?",Modus Tollens,Yes
+"If Diana is curious, then Leo is angry. Leo is not angry. Is Diana not curious?",Modus Tollens,Yes
+"If Hank is tall, then Yara is angry. Yara is not angry. Is Hank not tall?",Modus Tollens,Yes
+"If Eve is proud, then Frank is calm. Frank is not calm. Is Eve not proud?",Modus Tollens,Yes
+"If Eve is calm, then Oscar is angry. Oscar is not angry. Is Eve not calm?",Modus Tollens,Yes
+"If Alice is polite, then Leo is gentle. Leo is not gentle. Is Alice not polite?",Modus Tollens,Yes
+"If Quinn is angry, then Xander is smart. Xander is not smart. Is Quinn not angry?",Modus Tollens,Yes
+"If Diana is shy, then Bob is clever. Bob is not clever. Is Diana not shy?",Modus Tollens,Yes
+"If Grace is lazy, then Yara is shy. Yara is not shy. Is Grace not lazy?",Modus Tollens,Yes
+"If Victor is quiet, then Leo is tall. Leo is not tall. Is Victor not quiet?",Modus Tollens,Yes
+"If Kara is quiet, then Ivy is proud. Ivy is not proud. Is Kara not quiet?",Modus Tollens,Yes
+"If Ivy is clever, then Nina is brave. Nina is not brave. Is Ivy not clever?",Modus Tollens,Yes
+"If Uma is happy, then Alice is lazy. Alice is not lazy. Is Uma not happy?",Modus Tollens,Yes
+"If Rita is kind, then Charlie is smart. Charlie is not smart. Is Rita not kind?",Modus Tollens,Yes
+"If Tina is calm, then Quinn is loud. Quinn is not loud. Is Tina not calm?",Modus Tollens,Yes
+"If Quinn is rude, then Bob is brave. Bob is not brave. Is Quinn not rude?",Modus Tollens,Yes
+"If Kara is quiet, then Xander is clever. Xander is not clever. Is Kara not quiet?",Modus Tollens,Yes
+"If Frank is gentle, then Zane is lazy. Zane is not lazy. Is Frank not gentle?",Modus Tollens,Yes
+"If Xander is shy, then Bob is sad. Bob is not sad. Is Xander not shy?",Modus Tollens,Yes
+"If Alice is sad, then Sam is kind. Sam is not kind. Is Alice not sad?",Modus Tollens,Yes
+"If Paul is clever, then Hank is brave. Hank is not brave. Is Paul not clever?",Modus Tollens,Yes
+"If Frank is honest, then Grace is angry. Grace is not angry. Is Frank not honest?",Modus Tollens,Yes
+"If Uma is brave, then Grace is short. Grace is not short. Is Uma not brave?",Modus Tollens,Yes
+"If Frank is short, then Charlie is gentle. Charlie is not gentle. Is Frank not short?",Modus Tollens,Yes
+"If Bob is smart, then Nina is shy. Nina is not shy. Is Bob not smart?",Modus Tollens,Yes
+"If Xander is proud, then Tina is calm. Tina is not calm. Is Xander not proud?",Modus Tollens,Yes
+"If Grace is curious, then Rita is sad. Rita is not sad. Is Grace not curious?",Modus Tollens,Yes
+"If Alice is lazy, then Frank is honest. Frank is not honest. Is Alice not lazy?",Modus Tollens,Yes
+"If Zane is calm, then Nina is short. Nina is not short. Is Zane not calm?",Modus Tollens,Yes
+"If Oscar is smart, then Charlie is rude. Charlie is not rude. Is Oscar not smart?",Modus Tollens,Yes
+"If Alice is honest, then Wendy is angry. Wendy is not angry. Is Alice not honest?",Modus Tollens,Yes
+"If Jack is brave, then Quinn is calm. Quinn is not calm. Is Jack not brave?",Modus Tollens,Yes
+"If Rita is proud, then Eve is loud. Eve is not loud. Is Rita not proud?",Modus Tollens,Yes
+"If Alice is tall, then Frank is clever. Frank is not clever. Is Alice not tall?",Modus Tollens,Yes
+"If Victor is short, then Sam is calm. Sam is not calm. Is Victor not short?",Modus Tollens,Yes
+"If Sam is kind, then Uma is shy. Uma is not shy. Is Sam not kind?",Modus Tollens,Yes
+"If Quinn is happy, then Nina is honest. Nina is not honest. Is Quinn not happy?",Modus Tollens,Yes
+"If Zane is curious, then Alice is short. Alice is not short. Is Zane not curious?",Modus Tollens,Yes
+"If Nina is lazy, then Victor is proud. Victor is not proud. Is Nina not lazy?",Modus Tollens,Yes
+"If Yara is proud, then Wendy is loud. Wendy is not loud. Is Yara not proud?",Modus Tollens,Yes
+"If Victor is happy, then Nina is gentle. Nina is not gentle. Is Victor not happy?",Modus Tollens,Yes
+"If Charlie is sad, then Eve is tall. Eve is not tall. Is Charlie not sad?",Modus Tollens,Yes
+"If Alice is happy, then Bob is curious. Bob is not curious. Is Alice not happy?",Modus Tollens,Yes
+"If Oscar is happy, then Leo is kind. Leo is not kind. Is Oscar not happy?",Modus Tollens,Yes
+"If Eve is calm, then Ivy is rude. Ivy is not rude. Is Eve not calm?",Modus Tollens,Yes
+"If Paul is smart, then Xander is shy. Xander is not shy. Is Paul not smart?",Modus Tollens,Yes
+"If Alice is gentle, then Wendy is angry. Wendy is not angry. Is Alice not gentle?",Modus Tollens,Yes
+"If Zane is quiet, then Grace is clever. Grace is not clever. Is Zane not quiet?",Modus Tollens,Yes
+"If Yara is curious, then Sam is angry. Sam is not angry. Is Yara not curious?",Modus Tollens,Yes
+"If Wendy is sad, then Kara is polite. Kara is not polite. Is Wendy not sad?",Modus Tollens,Yes
+"If Tina is lazy, then Uma is happy. Uma is not happy. Is Tina not lazy?",Modus Tollens,Yes
+"If Diana is smart, then Leo is angry. Leo is not angry. Is Diana not smart?",Modus Tollens,Yes
+"If Paul is rude, then Ivy is lazy. Ivy is not lazy. Is Paul not rude?",Modus Tollens,Yes
+"If Alice is happy, then Yara is curious. Yara is not curious. Is Alice not happy?",Modus Tollens,Yes
+"If Eve is shy, then Quinn is happy. Quinn is not happy. Is Eve not shy?",Modus Tollens,Yes
+"If Hank is quiet, then Uma is calm. Uma is not calm. Is Hank not quiet?",Modus Tollens,Yes
+"If Nina is clever, then Sam is polite. Sam is not polite. Is Nina not clever?",Modus Tollens,Yes
+"If Zane is angry, then Grace is sad. Grace is not sad. Is Zane not angry?",Modus Tollens,Yes
+"If Hank is brave, then Wendy is calm. Wendy is not calm. Is Hank not brave?",Modus Tollens,Yes
+"If Wendy is clever, then Kara is lazy. Kara is not lazy. Is Wendy not clever?",Modus Tollens,Yes
+"If Zane is rude, then Hank is quiet. Hank is not quiet. Is Zane not rude?",Modus Tollens,Yes
+"If Zane is shy, then Oscar is honest. Oscar is not honest. Is Zane not shy?",Modus Tollens,Yes
+"If Quinn is tall, then Zane is angry. Zane is not angry. Is Quinn not tall?",Modus Tollens,Yes
+"If Yara is sad, then Sam is smart. Sam is not smart. Is Yara not sad?",Modus Tollens,Yes
+"If Oscar is lazy, then Eve is proud. Eve is not proud. Is Oscar not lazy?",Modus Tollens,Yes
+"If Leo is lazy, then Victor is kind. Victor is not kind. Is Leo not lazy?",Modus Tollens,Yes
+"If Rita is shy, then Jack is happy. Jack is not happy. Is Rita not shy?",Modus Tollens,Yes
+"If Grace is polite, then Eve is sad. Eve is not sad. Is Grace not polite?",Modus Tollens,Yes
+"If Oscar is smart, then Alice is polite. Alice is not polite. Is Oscar not smart?",Modus Tollens,Yes
+"If Zane is lazy, then Frank is gentle. Frank is not gentle. Is Zane not lazy?",Modus Tollens,Yes
+"If Zane is kind, then Mona is short. Mona is not short. Is Zane not kind?",Modus Tollens,Yes
+"If Rita is calm, then Victor is tall. Victor is not tall. Is Rita not calm?",Modus Tollens,Yes
+"If Diana is shy, then Tina is clever. Tina is not clever. Is Diana not shy?",Modus Tollens,Yes
+"If Xander is shy, then Jack is loud. Jack is not loud. Is Xander not shy?",Modus Tollens,Yes
+"If Paul is proud, then Tina is tall. Tina is not tall. Is Paul not proud?",Modus Tollens,Yes
+"If Uma is loud, then Tina is kind. Tina is not kind. Is Uma not loud?",Modus Tollens,Yes
+"If Alice is loud, then Victor is sad. Victor is not sad. Is Alice not loud?",Modus Tollens,Yes
+"If Kara is rude, then Oscar is honest. Oscar is not honest. Is Kara not rude?",Modus Tollens,Yes
+"If Sam is kind, then Kara is honest. Kara is not honest. Is Sam not kind?",Modus Tollens,Yes
+"If Oscar is loud, then Ivy is tall. Ivy is not tall. Is Oscar not loud?",Modus Tollens,Yes
+"If Bob is shy, then Ivy is lazy. Ivy is not lazy. Is Bob not shy?",Modus Tollens,Yes
+"If Ivy is short, then Sam is brave. Sam is not brave. Is Ivy not short?",Modus Tollens,Yes
+"If Diana is happy, then Hank is angry. Hank is not angry. Is Diana not happy?",Modus Tollens,Yes
+"If Paul is calm, then Rita is proud. Rita is not proud. Is Paul not calm?",Modus Tollens,Yes
+"If Leo is honest, then Zane is quiet. Zane is not quiet. Is Leo not honest?",Modus Tollens,Yes
+"If Diana is rude, then Quinn is brave. Quinn is not brave. Is Diana not rude?",Modus Tollens,Yes
+"If Mona is tall, then Uma is smart. Uma is not smart. Is Mona not tall?",Modus Tollens,Yes
+"If Paul is proud, then Grace is rude. Grace is not rude. Is Paul not proud?",Modus Tollens,Yes
+"If Nina is calm, then Rita is shy. Rita is not shy. Is Nina not calm?",Modus Tollens,Yes
+"If Victor is loud, then Leo is clever. Leo is not clever. Is Victor not loud?",Modus Tollens,Yes
+"If Oscar is gentle, then Mona is honest. Mona is not honest. Is Oscar not gentle?",Modus Tollens,Yes
+"If Ivy is quiet, then Sam is clever. Sam is not clever. Is Ivy not quiet?",Modus Tollens,Yes
+"If Charlie is quiet, then Wendy is honest. Wendy is not honest. Is Charlie not quiet?",Modus Tollens,Yes
+"If Bob is calm, then Kara is shy. Kara is not shy. Is Bob not calm?",Modus Tollens,Yes
+"If Hank is rude, then Nina is curious. Nina is not curious. Is Hank not rude?",Modus Tollens,Yes
+"If Leo is kind, then Yara is sad. Yara is not sad. Is Leo not kind?",Modus Tollens,Yes
+"If Grace is sad, then Victor is tall. Victor is not tall. Is Grace not sad?",Modus Tollens,Yes
+"If Nina is smart, then Tina is shy. Tina is not shy. Is Nina not smart?",Modus Tollens,Yes
+"If Diana is short, then Yara is happy. Yara is not happy. Is Diana not short?",Modus Tollens,Yes
+"If Charlie is angry, then Wendy is rude. Wendy is not rude. Is Charlie not angry?",Modus Tollens,Yes
+"If Tina is tall, then Eve is happy. Eve is not happy. Is Tina not tall?",Modus Tollens,Yes
+"If Diana is happy, then Yara is curious. Yara is not curious. Is Diana not happy?",Modus Tollens,Yes
+"If Charlie is happy, then Frank is tall. Frank is not tall. Is Charlie not happy?",Modus Tollens,Yes
+"If Mona is honest, then Diana is rude. Diana is not rude. Is Mona not honest?",Modus Tollens,Yes
+"If Eve is smart, then Tina is tall. Tina is not tall. Is Eve not smart?",Modus Tollens,Yes
+"If Xander is curious, then Kara is short. Kara is not short. Is Xander not curious?",Modus Tollens,Yes
+"If Sam is shy, then Leo is brave. Leo is not brave. Is Sam not shy?",Modus Tollens,Yes
+"If Uma is curious, then Rita is polite. Rita is not polite. Is Uma not curious?",Modus Tollens,Yes
+"If Quinn is angry, then Ivy is loud. Ivy is not loud. Is Quinn not angry?",Modus Tollens,Yes
+"If Diana is kind, then Eve is polite. Eve is not polite. Is Diana not kind?",Modus Tollens,Yes
+"If Zane is gentle, then Rita is brave. Rita is not brave. Is Zane not gentle?",Modus Tollens,Yes
+"If Zane is brave, then Leo is tall. Leo is not tall. Is Zane not brave?",Modus Tollens,Yes
+"If Frank is sad, then Mona is tall. Mona is not tall. Is Frank not sad?",Modus Tollens,Yes
+"If Oscar is short, then Wendy is gentle. Wendy is not gentle. Is Oscar not short?",Modus Tollens,Yes
+"If Charlie is curious, then Yara is smart. Yara is not smart. Is Charlie not curious?",Modus Tollens,Yes
+"If Leo is clever, then Tina is tall. Tina is not tall. Is Leo not clever?",Modus Tollens,Yes
+"If Yara is clever, then Alice is quiet. Alice is not quiet. Is Yara not clever?",Modus Tollens,Yes
+"If Nina is proud, then Zane is clever. Zane is not clever. Is Nina not proud?",Modus Tollens,Yes
+"If Kara is curious, then Yara is polite. Yara is not polite. Is Kara not curious?",Modus Tollens,Yes
+"If Yara is brave, then Paul is shy. Paul is not shy. Is Yara not brave?",Modus Tollens,Yes
+"If Eve is short, then Hank is loud. Hank is not loud. Is Eve not short?",Modus Tollens,Yes
+"If Leo is tall, then Jack is curious. Jack is not curious. Is Leo not tall?",Modus Tollens,Yes
+"If Zane is calm, then Frank is kind. Frank is not kind. Is Zane not calm?",Modus Tollens,Yes
+"If Alice is honest, then Ivy is clever. Ivy is not clever. Is Alice not honest?",Modus Tollens,Yes
+"If Grace is quiet, then Paul is honest. Paul is not honest. Is Grace not quiet?",Modus Tollens,Yes
+"If Charlie is quiet, then Diana is curious. Diana is not curious. Is Charlie not quiet?",Modus Tollens,Yes
+"If Sam is sad, then Hank is gentle. Hank is not gentle. Is Sam not sad?",Modus Tollens,Yes
+"If Alice is short, then Quinn is brave. Quinn is not brave. Is Alice not short?",Modus Tollens,Yes
+"If Wendy is short, then Uma is rude. Uma is not rude. Is Wendy not short?",Modus Tollens,Yes
+"If Diana is curious, then Quinn is smart. Quinn is not smart. Is Diana not curious?",Modus Tollens,Yes
+"If Diana is tall, then Mona is quiet. Mona is not quiet. Is Diana not tall?",Modus Tollens,Yes
+"If Paul is tall, then Quinn is calm. Quinn is not calm. Is Paul not tall?",Modus Tollens,Yes
+"If Grace is happy, then Diana is brave. Diana is not brave. Is Grace not happy?",Modus Tollens,Yes
+"If Yara is happy, then Grace is angry. Grace is not angry. Is Yara not happy?",Modus Tollens,Yes
+"If Jack is loud, then Leo is curious. Leo is not curious. Is Jack not loud?",Modus Tollens,Yes
+"If Oscar is smart, then Eve is honest. Eve is not honest. Is Oscar not smart?",Modus Tollens,Yes
+"If Yara is kind, then Frank is lazy. Frank is not lazy. Is Yara not kind?",Modus Tollens,Yes
+"If Ivy is angry, then Grace is calm. Grace is not calm. Is Ivy not angry?",Modus Tollens,Yes
+"If Alice is tall, then Eve is short. Eve is not short. Is Alice not tall?",Modus Tollens,Yes
+"If Wendy is lazy, then Diana is rude. Diana is not rude. Is Wendy not lazy?",Modus Tollens,Yes
+"If Tina is clever, then Victor is quiet. Victor is not quiet. Is Tina not clever?",Modus Tollens,Yes
+"If Alice is tall, then Mona is polite. Mona is not polite. Is Alice not tall?",Modus Tollens,Yes
+"If Paul is calm, then Frank is proud. Frank is not proud. Is Paul not calm?",Modus Tollens,Yes
+"If Nina is shy, then Paul is clever. Paul is not clever. Is Nina not shy?",Modus Tollens,Yes
+"If Xander is brave, then Charlie is smart. Charlie is not smart. Is Xander not brave?",Modus Tollens,Yes
+"If Ivy is proud, then Diana is honest. Diana is not honest. Is Ivy not proud?",Modus Tollens,Yes
+"If Oscar is clever, then Leo is curious. Leo is not curious. Is Oscar not clever?",Modus Tollens,Yes
+"If Jack is shy, then Victor is proud. Victor is not proud. Is Jack not shy?",Modus Tollens,Yes
+"If Oscar is lazy, then Zane is gentle. Zane is not gentle. Is Oscar not lazy?",Modus Tollens,Yes
+"If Alice is quiet, then Yara is polite. Yara is not polite. Is Alice not quiet?",Modus Tollens,Yes
+"If Tina is smart, then Hank is honest. Hank is not honest. Is Tina not smart?",Modus Tollens,Yes
+"If Diana is smart, then Frank is loud. Frank is not loud. Is Diana not smart?",Modus Tollens,Yes
+"If Bob is quiet, then Frank is gentle. Frank is not gentle. Is Bob not quiet?",Modus Tollens,Yes
+"If Sam is honest, then Uma is tall. Uma is not tall. Is Sam not honest?",Modus Tollens,Yes
+"If Grace is quiet, then Yara is happy. Yara is not happy. Is Grace not quiet?",Modus Tollens,Yes
+"If Uma is gentle, then Eve is rude. Eve is not rude. Is Uma not gentle?",Modus Tollens,Yes
+"If Frank is quiet, then Sam is brave. Sam is not brave. Is Frank not quiet?",Modus Tollens,Yes
+"If Bob is angry, then Uma is smart. Uma is not smart. Is Bob not angry?",Modus Tollens,Yes
+"If Yara is tall, then Victor is honest. Victor is not honest. Is Yara not tall?",Modus Tollens,Yes
+"If Jack is shy, then Diana is honest. Diana is not honest. Is Jack not shy?",Modus Tollens,Yes
+"If Wendy is rude, then Leo is sad. Leo is not sad. Is Wendy not rude?",Modus Tollens,Yes
+"If Grace is kind, then Frank is lazy. Frank is not lazy. Is Grace not kind?",Modus Tollens,Yes
+"If Ivy is proud, then Jack is polite. Jack is not polite. Is Ivy not proud?",Modus Tollens,Yes
+"If Uma is short, then Eve is quiet. Eve is not quiet. Is Uma not short?",Modus Tollens,Yes
+"If Nina is short, then Eve is rude. Eve is not rude. Is Nina not short?",Modus Tollens,Yes
+"If Bob is brave, then Hank is proud. Hank is not proud. Is Bob not brave?",Modus Tollens,Yes
+"If Kara is loud, then Tina is curious. Tina is not curious. Is Kara not loud?",Modus Tollens,Yes
+"If Jack is curious, then Rita is polite. Rita is not polite. Is Jack not curious?",Modus Tollens,Yes
+"If Kara is honest, then Yara is lazy. Yara is not lazy. Is Kara not honest?",Modus Tollens,Yes
+"If Zane is shy, then Diana is lazy. Diana is not lazy. Is Zane not shy?",Modus Tollens,Yes
+"If Kara is proud, then Victor is sad. Victor is not sad. Is Kara not proud?",Modus Tollens,Yes
+"If Jack is brave, then Uma is rude. Uma is not rude. Is Jack not brave?",Modus Tollens,Yes
+"If Mona is happy, then Jack is short. Jack is not short. Is Mona not happy?",Modus Tollens,Yes
+"If Paul is lazy, then Leo is proud. Leo is not proud. Is Paul not lazy?",Modus Tollens,Yes
+"If Diana is brave, then Hank is calm. Hank is not calm. Is Diana not brave?",Modus Tollens,Yes
+"If Sam is gentle, then Jack is tall. Jack is not tall. Is Sam not gentle?",Modus Tollens,Yes
+"If Quinn is kind, then Eve is angry. Eve is not angry. Is Quinn not kind?",Modus Tollens,Yes
+"If Grace is honest, then Tina is tall. Tina is not tall. Is Grace not honest?",Modus Tollens,Yes
+"If Oscar is honest, then Jack is quiet. Jack is not quiet. Is Oscar not honest?",Modus Tollens,Yes
+"If Kara is loud, then Quinn is curious. Quinn is not curious. Is Kara not loud?",Modus Tollens,Yes
+"If Hank is quiet, then Oscar is calm. Oscar is not calm. Is Hank not quiet?",Modus Tollens,Yes
+"If Uma is angry, then Hank is clever. Hank is not clever. Is Uma not angry?",Modus Tollens,Yes
+"If Eve is angry, then Alice is happy. Alice is not happy. Is Eve not angry?",Modus Tollens,Yes
+"If Wendy is happy, then Victor is honest. Victor is not honest. Is Wendy not happy?",Modus Tollens,Yes
+"If Mona is clever, then Grace is curious. Grace is not curious. Is Mona not clever?",Modus Tollens,Yes
+"If Kara is kind, then Victor is honest. Victor is not honest. Is Kara not kind?",Modus Tollens,Yes
+"If Jack is gentle, then Uma is sad. Uma is not sad. Is Jack not gentle?",Modus Tollens,Yes
+"If Grace is quiet, then Bob is rude. Bob is not rude. Is Grace not quiet?",Modus Tollens,Yes
+"If Kara is short, then Grace is tall. Grace is not tall. Is Kara not short?",Modus Tollens,Yes
+"If Yara is tall, then Quinn is angry. Quinn is not angry. Is Yara not tall?",Modus Tollens,Yes
+"If Mona is tall, then Grace is kind. Grace is not kind. Is Mona not tall?",Modus Tollens,Yes
+"If Wendy is curious, then Ivy is brave. Ivy is not brave. Is Wendy not curious?",Modus Tollens,Yes
+"If Xander is clever, then Charlie is tall. Charlie is not tall. Is Xander not clever?",Modus Tollens,Yes
+"If Kara is brave, then Mona is short. Mona is not short. Is Kara not brave?",Modus Tollens,Yes
+"If Frank is polite, then Bob is gentle. Bob is not gentle. Is Frank not polite?",Modus Tollens,Yes
+"If Leo is loud, then Diana is quiet. Diana is not quiet. Is Leo not loud?",Modus Tollens,Yes
+"If Leo is short, then Mona is brave. Mona is not brave. Is Leo not short?",Modus Tollens,Yes
+"If Diana is tall, then Nina is proud. Nina is not proud. Is Diana not tall?",Modus Tollens,Yes
+"If Zane is shy, then Sam is proud. Sam is not proud. Is Zane not shy?",Modus Tollens,Yes
+"If Charlie is short, then Leo is angry. Leo is not angry. Is Charlie not short?",Modus Tollens,Yes
+"If Alice is quiet, then Jack is brave. Jack is not brave. Is Alice not quiet?",Modus Tollens,Yes
+"If Grace is clever, then Hank is honest. Hank is not honest. Is Grace not clever?",Modus Tollens,Yes
+"If Ivy is short, then Zane is proud. Zane is not proud. Is Ivy not short?",Modus Tollens,Yes
+"If Alice is polite, then Nina is kind. Nina is not kind. Is Alice not polite?",Modus Tollens,Yes
+"If Sam is quiet, then Zane is calm. Zane is not calm. Is Sam not quiet?",Modus Tollens,Yes
+"If Ivy is proud, then Leo is brave. Leo is not brave. Is Ivy not proud?",Modus Tollens,Yes
+"If Oscar is lazy, then Quinn is proud. Quinn is not proud. Is Oscar not lazy?",Modus Tollens,Yes
+"If Wendy is smart, then Quinn is brave. Quinn is not brave. Is Wendy not smart?",Modus Tollens,Yes
+"If Paul is gentle, then Quinn is calm. Quinn is not calm. Is Paul not gentle?",Modus Tollens,Yes
+"If Charlie is clever, then Mona is gentle. Mona is not gentle. Is Charlie not clever?",Modus Tollens,Yes
+"If Hank is quiet, then Zane is calm. Zane is not calm. Is Hank not quiet?",Modus Tollens,Yes
+"If Hank is happy, then Quinn is smart. Quinn is not smart. Is Hank not happy?",Modus Tollens,Yes
+"If Kara is polite, then Uma is brave. Uma is not brave. Is Kara not polite?",Modus Tollens,Yes
+"If Diana is clever, then Bob is shy. Bob is not shy. Is Diana not clever?",Modus Tollens,Yes
+"If Eve is curious, then Alice is brave. Alice is not brave. Is Eve not curious?",Modus Tollens,Yes
+"If Charlie is loud, then Rita is shy. Rita is not shy. Is Charlie not loud?",Modus Tollens,Yes
+"If Tina is quiet, then Quinn is polite. Quinn is not polite. Is Tina not quiet?",Modus Tollens,Yes
+"If Jack is rude, then Quinn is gentle. Quinn is not gentle. Is Jack not rude?",Modus Tollens,Yes
+"If Eve is kind, then Leo is calm. Leo is not calm. Is Eve not kind?",Modus Tollens,Yes
+"If Alice is gentle, then Jack is polite. Jack is not polite. Is Alice not gentle?",Modus Tollens,Yes
+"If Uma is proud, then Frank is gentle. Frank is not gentle. Is Uma not proud?",Modus Tollens,Yes
+"If Jack is gentle, then Alice is loud. Alice is not loud. Is Jack not gentle?",Modus Tollens,Yes
+"If Xander is calm, then Eve is tall. Eve is not tall. Is Xander not calm?",Modus Tollens,Yes
+"If Leo is short, then Rita is sad. Rita is not sad. Is Leo not short?",Modus Tollens,Yes
+"If Leo is angry, then Bob is lazy. Bob is not lazy. Is Leo not angry?",Modus Tollens,Yes
+"If Leo is short, then Tina is angry. Tina is not angry. Is Leo not short?",Modus Tollens,Yes
+"If Tina is shy, then Hank is lazy. Hank is not lazy. Is Tina not shy?",Modus Tollens,Yes
+"If Hank is calm, then Bob is sad. Bob is not sad. Is Hank not calm?",Modus Tollens,Yes
+"If Frank is proud, then Quinn is happy. Quinn is not happy. Is Frank not proud?",Modus Tollens,Yes
+"If Victor is calm, then Zane is honest. Zane is not honest. Is Victor not calm?",Modus Tollens,Yes
+"If Grace is angry, then Nina is smart. Nina is not smart. Is Grace not angry?",Modus Tollens,Yes
+"If Mona is curious, then Tina is short. Tina is not short. Is Mona not curious?",Modus Tollens,Yes
+"If Leo is quiet, then Eve is polite. Eve is not polite. Is Leo not quiet?",Modus Tollens,Yes
+"If Leo is short, then Oscar is angry. Oscar is not angry. Is Leo not short?",Modus Tollens,Yes
+"If Mona is calm, then Rita is polite. Rita is not polite. Is Mona not calm?",Modus Tollens,Yes
+"If Frank is honest, then Ivy is gentle. Ivy is not gentle. Is Frank not honest?",Modus Tollens,Yes
+"If Eve is lazy, then Sam is smart. Sam is not smart. Is Eve not lazy?",Modus Tollens,Yes
+"If Ivy is happy, then Rita is proud. Rita is not proud. Is Ivy not happy?",Modus Tollens,Yes
+"If Uma is proud, then Hank is angry. Hank is not angry. Is Uma not proud?",Modus Tollens,Yes
+"If Jack is proud, then Uma is polite. Uma is not polite. Is Jack not proud?",Modus Tollens,Yes
+"If Rita is calm, then Charlie is kind. Charlie is not kind. Is Rita not calm?",Modus Tollens,Yes
+"If Eve is tall, then Frank is sad. Frank is not sad. Is Eve not tall?",Modus Tollens,Yes
+"If Leo is quiet, then Eve is shy. Eve is not shy. Is Leo not quiet?",Modus Tollens,Yes
+"If Kara is short, then Oscar is sad. Oscar is not sad. Is Kara not short?",Modus Tollens,Yes
+"If Eve is kind, then Mona is rude. Mona is not rude. Is Eve not kind?",Modus Tollens,Yes
+"If Sam is honest, then Paul is quiet. Paul is not quiet. Is Sam not honest?",Modus Tollens,Yes
+"If Jack is happy, then Grace is calm. Grace is not calm. Is Jack not happy?",Modus Tollens,Yes
+"If Uma is short, then Kara is quiet. Kara is not quiet. Is Uma not short?",Modus Tollens,Yes
+"If Rita is shy, then Ivy is honest. Ivy is not honest. Is Rita not shy?",Modus Tollens,Yes
+"If Eve is angry, then Zane is polite. Zane is not polite. Is Eve not angry?",Modus Tollens,Yes
+"If Rita is lazy, then Quinn is sad. Quinn is not sad. Is Rita not lazy?",Modus Tollens,Yes
+"If Nina is gentle, then Leo is smart. Leo is not smart. Is Nina not gentle?",Modus Tollens,Yes
+"If Eve is honest, then Oscar is angry. Oscar is not angry. Is Eve not honest?",Modus Tollens,Yes
+"If Jack is lazy, then Charlie is shy. Charlie is not shy. Is Jack not lazy?",Modus Tollens,Yes
+"If Diana is tall, then Sam is brave. Sam is not brave. Is Diana not tall?",Modus Tollens,Yes
+"If Kara is angry, then Charlie is honest. Charlie is not honest. Is Kara not angry?",Modus Tollens,Yes
+"If Victor is kind, then Ivy is gentle. Ivy is not gentle. Is Victor not kind?",Modus Tollens,Yes
+"If Tina is tall, then Mona is calm. Mona is not calm. Is Tina not tall?",Modus Tollens,Yes
+"If Uma is kind, then Grace is honest. Grace is not honest. Is Uma not kind?",Modus Tollens,Yes
+"If Bob is gentle, then Nina is smart. Nina is not smart. Is Bob not gentle?",Modus Tollens,Yes
+"If Eve is gentle, then Rita is rude. Rita is not rude. Is Eve not gentle?",Modus Tollens,Yes
+"If Jack is tall, then Oscar is smart. Oscar is not smart. Is Jack not tall?",Modus Tollens,Yes
+"If Hank is lazy, then Bob is calm. Bob is not calm. Is Hank not lazy?",Modus Tollens,Yes
+"If Oscar is short, then Bob is smart. Bob is not smart. Is Oscar not short?",Modus Tollens,Yes
+"If Diana is clever, then Bob is kind. Bob is not kind. Is Diana not clever?",Modus Tollens,Yes
+"If Zane is rude, then Nina is proud. Nina is not proud. Is Zane not rude?",Modus Tollens,Yes
+"If Hank is tall, then Ivy is gentle. Ivy is not gentle. Is Hank not tall?",Modus Tollens,Yes
+"If Leo is gentle, then Victor is clever. Victor is not clever. Is Leo not gentle?",Modus Tollens,Yes
+"If Nina is loud, then Xander is calm. Xander is not calm. Is Nina not loud?",Modus Tollens,Yes
+"If Kara is quiet, then Sam is smart. Sam is not smart. Is Kara not quiet?",Modus Tollens,Yes
+"If Xander is proud, then Mona is quiet. Mona is not quiet. Is Xander not proud?",Modus Tollens,Yes
+"If Grace is happy, then Rita is tall. Rita is not tall. Is Grace not happy?",Modus Tollens,Yes
+"If Quinn is lazy, then Yara is loud. Yara is not loud. Is Quinn not lazy?",Modus Tollens,Yes
+"If Quinn is gentle, then Hank is angry. Hank is not angry. Is Quinn not gentle?",Modus Tollens,Yes
+"If Victor is gentle, then Xander is lazy. Xander is not lazy. Is Victor not gentle?",Modus Tollens,Yes
+"If Alice is smart, then Kara is loud. Kara is not loud. Is Alice not smart?",Modus Tollens,Yes
+"If Paul is gentle, then Grace is clever. Grace is not clever. Is Paul not gentle?",Modus Tollens,Yes
+"If Bob is angry, then Grace is short. Grace is not short. Is Bob not angry?",Modus Tollens,Yes
+"If Uma is smart, then Kara is honest. Kara is not honest. Is Uma not smart?",Modus Tollens,Yes
+"If Paul is kind, then Nina is lazy. Nina is not lazy. Is Paul not kind?",Modus Tollens,Yes
+"If Hank is polite, then Grace is honest. Grace is not honest. Is Hank not polite?",Modus Tollens,Yes
+"If Charlie is polite, then Yara is rude. Yara is not rude. Is Charlie not polite?",Modus Tollens,Yes
+"If Charlie is curious, then Zane is calm. Zane is not calm. Is Charlie not curious?",Modus Tollens,Yes
+"If Nina is tall, then Sam is calm. Sam is not calm. Is Nina not tall?",Modus Tollens,Yes
+"If Zane is calm, then Leo is curious. Leo is not curious. Is Zane not calm?",Modus Tollens,Yes
+"If Alice is proud, then Eve is tall. Eve is not tall. Is Alice not proud?",Modus Tollens,Yes
+"If Diana is tall, then Ivy is quiet. Ivy is not quiet. Is Diana not tall?",Modus Tollens,Yes
+"If Tina is tall, then Charlie is clever. Charlie is not clever. Is Tina not tall?",Modus Tollens,Yes
+"If Alice is clever, then Xander is tall. Xander is not tall. Is Alice not clever?",Modus Tollens,Yes
+"If Yara is quiet, then Alice is smart. Alice is not smart. Is Yara not quiet?",Modus Tollens,Yes
+"If Oscar is shy, then Charlie is calm. Charlie is not calm. Is Oscar not shy?",Modus Tollens,Yes
+"If Frank is lazy, then Jack is curious. Jack is not curious. Is Frank not lazy?",Modus Tollens,Yes
+"If Oscar is proud, then Hank is tall. Hank is not tall. Is Oscar not proud?",Modus Tollens,Yes
+"If Quinn is clever, then Victor is happy. Victor is not happy. Is Quinn not clever?",Modus Tollens,Yes
+"If Alice is tall, then Eve is gentle. Eve is not gentle. Is Alice not tall?",Modus Tollens,Yes
+"If Frank is gentle, then Kara is short. Kara is not short. Is Frank not gentle?",Modus Tollens,Yes
+"If Diana is brave, then Quinn is proud. Quinn is not proud. Is Diana not brave?",Modus Tollens,Yes
+"If Victor is clever, then Quinn is polite. Quinn is not polite. Is Victor not clever?",Modus Tollens,Yes
+"If Quinn is kind, then Victor is quiet. Victor is not quiet. Is Quinn not kind?",Modus Tollens,Yes
+"If Oscar is tall, then Zane is rude. Zane is not rude. Is Oscar not tall?",Modus Tollens,Yes
+"If Yara is curious, then Bob is tall. Bob is not tall. Is Yara not curious?",Modus Tollens,Yes
+"If Tina is honest, then Rita is clever. Rita is not clever. Is Tina not honest?",Modus Tollens,Yes
+"If Kara is polite, then Rita is calm. Rita is not calm. Is Kara not polite?",Modus Tollens,Yes
+"If Sam is curious, then Bob is happy. Bob is not happy. Is Sam not curious?",Modus Tollens,Yes
+"If Quinn is curious, then Diana is polite. Diana is not polite. Is Quinn not curious?",Modus Tollens,Yes
+"If Ivy is gentle, then Wendy is brave. Wendy is not brave. Is Ivy not gentle?",Modus Tollens,Yes
+"If Diana is angry, then Victor is smart. Victor is not smart. Is Diana not angry?",Modus Tollens,Yes
+"If Paul is gentle, then Zane is smart. Zane is not smart. Is Paul not gentle?",Modus Tollens,Yes
+"If Zane is calm, then Jack is tall. Jack is not tall. Is Zane not calm?",Modus Tollens,Yes
+"If Rita is shy, then Paul is clever. Paul is not clever. Is Rita not shy?",Modus Tollens,Yes
+"If Charlie is rude, then Eve is curious. Eve is not curious. Is Charlie not rude?",Modus Tollens,Yes
+"If Wendy is happy, then Tina is angry. Tina is not angry. Is Wendy not happy?",Modus Tollens,Yes
+"If Mona is shy, then Uma is honest. Uma is not honest. Is Mona not shy?",Modus Tollens,Yes
+"If Leo is curious, then Diana is loud. Diana is not loud. Is Leo not curious?",Modus Tollens,Yes
+"If Ivy is kind, then Diana is lazy. Diana is not lazy. Is Ivy not kind?",Modus Tollens,Yes
+"If Sam is proud, then Quinn is angry. Quinn is not angry. Is Sam not proud?",Modus Tollens,Yes
+"If Kara is loud, then Paul is rude. Paul is not rude. Is Kara not loud?",Modus Tollens,Yes
+"If Grace is quiet, then Paul is brave. Paul is not brave. Is Grace not quiet?",Modus Tollens,Yes
+"If Oscar is proud, then Uma is rude. Uma is not rude. Is Oscar not proud?",Modus Tollens,Yes
+"If Rita is kind, then Quinn is calm. Quinn is not calm. Is Rita not kind?",Modus Tollens,Yes
+"If Wendy is smart, then Mona is loud. Mona is not loud. Is Wendy not smart?",Modus Tollens,Yes
+"If Oscar is polite, then Kara is happy. Kara is not happy. Is Oscar not polite?",Modus Tollens,Yes
+"If Alice is rude, then Uma is curious. Uma is not curious. Is Alice not rude?",Modus Tollens,Yes
+"If Zane is curious, then Wendy is honest. Wendy is not honest. Is Zane not curious?",Modus Tollens,Yes
+"If Quinn is honest, then Paul is proud. Paul is not proud. Is Quinn not honest?",Modus Tollens,Yes
+"If Nina is lazy, then Quinn is proud. Quinn is not proud. Is Nina not lazy?",Modus Tollens,Yes
+"If Bob is happy, then Xander is calm. Xander is not calm. Is Bob not happy?",Modus Tollens,Yes
+"If Charlie is kind, then Sam is sad. Sam is not sad. Is Charlie not kind?",Modus Tollens,Yes
+"If Leo is sad, then Hank is angry. Hank is not angry. Is Leo not sad?",Modus Tollens,Yes
+"If Grace is brave, then Mona is quiet. Mona is not quiet. Is Grace not brave?",Modus Tollens,Yes
+"If Charlie is shy, then Mona is sad. Mona is not sad. Is Charlie not shy?",Modus Tollens,Yes
+"If Tina is kind, then Rita is short. Rita is not short. Is Tina not kind?",Modus Tollens,Yes
+"If Charlie is short, then Yara is polite. Yara is not polite. Is Charlie not short?",Modus Tollens,Yes
+"If Oscar is tall, then Quinn is angry. Quinn is not angry. Is Oscar not tall?",Modus Tollens,Yes
+"If Quinn is loud, then Frank is tall. Frank is not tall. Is Quinn not loud?",Modus Tollens,Yes
+"If Hank is shy, then Frank is proud. Frank is not proud. Is Hank not shy?",Modus Tollens,Yes
+"If Sam is rude, then Ivy is short. Ivy is not short. Is Sam not rude?",Modus Tollens,Yes
+"If Rita is brave, then Grace is honest. Grace is not honest. Is Rita not brave?",Modus Tollens,Yes
+"If Uma is gentle, then Bob is kind. Bob is not kind. Is Uma not gentle?",Modus Tollens,Yes
+"If Alice is honest, then Victor is short. Victor is not short. Is Alice not honest?",Modus Tollens,Yes
+"If Bob is proud, then Tina is calm. Tina is not calm. Is Bob not proud?",Modus Tollens,Yes
+"If Bob is sad, then Quinn is gentle. Quinn is not gentle. Is Bob not sad?",Modus Tollens,Yes
+"If Leo is brave, then Ivy is shy. Ivy is not shy. Is Leo not brave?",Modus Tollens,Yes
+"If Diana is smart, then Alice is angry. Alice is not angry. Is Diana not smart?",Modus Tollens,Yes
+"If Uma is honest, then Jack is proud. Jack is not proud. Is Uma not honest?",Modus Tollens,Yes
+"If Grace is shy, then Zane is loud. Zane is not loud. Is Grace not shy?",Modus Tollens,Yes
+"If Grace is calm, then Eve is curious. Eve is not curious. Is Grace not calm?",Modus Tollens,Yes
+"If Paul is brave, then Leo is kind. Leo is not kind. Is Paul not brave?",Modus Tollens,Yes
+"If Uma is angry, then Alice is gentle. Alice is not gentle. Is Uma not angry?",Modus Tollens,Yes
+"If Xander is quiet, then Grace is smart. Grace is not smart. Is Xander not quiet?",Modus Tollens,Yes
+"If Sam is loud, then Xander is kind. Xander is not kind. Is Sam not loud?",Modus Tollens,Yes
+"If Yara is sad, then Bob is loud. Bob is not loud. Is Yara not sad?",Modus Tollens,Yes
+"If Sam is loud, then Tina is clever. Tina is clever. Is Sam loud?",Affirming the Consequent,No
+"If Jack is short, then Kara is rude. Kara is rude. Is Jack short?",Affirming the Consequent,No
+"If Sam is loud, then Oscar is angry. Oscar is angry. Is Sam loud?",Affirming the Consequent,No
+"If Jack is curious, then Frank is sad. Frank is sad. Is Jack curious?",Affirming the Consequent,No
+"If Diana is tall, then Eve is loud. Eve is loud. Is Diana tall?",Affirming the Consequent,No
+"If Leo is quiet, then Diana is clever. Diana is clever. Is Leo quiet?",Affirming the Consequent,No
+"If Hank is happy, then Leo is angry. Leo is angry. Is Hank happy?",Affirming the Consequent,No
+"If Victor is brave, then Hank is clever. Hank is clever. Is Victor brave?",Affirming the Consequent,No
+"If Yara is rude, then Sam is brave. Sam is brave. Is Yara rude?",Affirming the Consequent,No
+"If Quinn is tall, then Jack is polite. Jack is polite. Is Quinn tall?",Affirming the Consequent,No
+"If Frank is gentle, then Eve is tall. Eve is tall. Is Frank gentle?",Affirming the Consequent,No
+"If Uma is clever, then Zane is tall. Zane is tall. Is Uma clever?",Affirming the Consequent,No
+"If Eve is short, then Alice is honest. Alice is honest. Is Eve short?",Affirming the Consequent,No
+"If Zane is rude, then Paul is brave. Paul is brave. Is Zane rude?",Affirming the Consequent,No
+"If Hank is angry, then Jack is kind. Jack is kind. Is Hank angry?",Affirming the Consequent,No
+"If Quinn is curious, then Victor is lazy. Victor is lazy. Is Quinn curious?",Affirming the Consequent,No
+"If Alice is tall, then Sam is kind. Sam is kind. Is Alice tall?",Affirming the Consequent,No
+"If Uma is angry, then Hank is honest. Hank is honest. Is Uma angry?",Affirming the Consequent,No
+"If Uma is loud, then Hank is polite. Hank is polite. Is Uma loud?",Affirming the Consequent,No
+"If Kara is loud, then Paul is proud. Paul is proud. Is Kara loud?",Affirming the Consequent,No
+"If Xander is brave, then Quinn is short. Quinn is short. Is Xander brave?",Affirming the Consequent,No
+"If Sam is proud, then Paul is loud. Paul is loud. Is Sam proud?",Affirming the Consequent,No
+"If Charlie is happy, then Xander is kind. Xander is kind. Is Charlie happy?",Affirming the Consequent,No
+"If Bob is sad, then Wendy is angry. Wendy is angry. Is Bob sad?",Affirming the Consequent,No
+"If Charlie is polite, then Nina is tall. Nina is tall. Is Charlie polite?",Affirming the Consequent,No
+"If Zane is clever, then Hank is brave. Hank is brave. Is Zane clever?",Affirming the Consequent,No
+"If Wendy is happy, then Diana is angry. Diana is angry. Is Wendy happy?",Affirming the Consequent,No
+"If Bob is happy, then Paul is clever. Paul is clever. Is Bob happy?",Affirming the Consequent,No
+"If Grace is short, then Kara is honest. Kara is honest. Is Grace short?",Affirming the Consequent,No
+"If Charlie is kind, then Leo is loud. Leo is loud. Is Charlie kind?",Affirming the Consequent,No
+"If Grace is proud, then Sam is rude. Sam is rude. Is Grace proud?",Affirming the Consequent,No
+"If Leo is kind, then Ivy is quiet. Ivy is quiet. Is Leo kind?",Affirming the Consequent,No
+"If Victor is quiet, then Oscar is shy. Oscar is shy. Is Victor quiet?",Affirming the Consequent,No
+"If Ivy is loud, then Tina is angry. Tina is angry. Is Ivy loud?",Affirming the Consequent,No
+"If Xander is shy, then Rita is lazy. Rita is lazy. Is Xander shy?",Affirming the Consequent,No
+"If Alice is lazy, then Wendy is loud. Wendy is loud. Is Alice lazy?",Affirming the Consequent,No
+"If Jack is loud, then Grace is angry. Grace is angry. Is Jack loud?",Affirming the Consequent,No
+"If Eve is proud, then Leo is shy. Leo is shy. Is Eve proud?",Affirming the Consequent,No
+"If Hank is honest, then Wendy is quiet. Wendy is quiet. Is Hank honest?",Affirming the Consequent,No
+"If Yara is proud, then Quinn is happy. Quinn is happy. Is Yara proud?",Affirming the Consequent,No
+"If Charlie is angry, then Tina is quiet. Tina is quiet. Is Charlie angry?",Affirming the Consequent,No
+"If Jack is brave, then Quinn is angry. Quinn is angry. Is Jack brave?",Affirming the Consequent,No
+"If Ivy is kind, then Bob is brave. Bob is brave. Is Ivy kind?",Affirming the Consequent,No
+"If Victor is kind, then Wendy is honest. Wendy is honest. Is Victor kind?",Affirming the Consequent,No
+"If Leo is polite, then Oscar is short. Oscar is short. Is Leo polite?",Affirming the Consequent,No
+"If Victor is calm, then Eve is shy. Eve is shy. Is Victor calm?",Affirming the Consequent,No
+"If Oscar is shy, then Charlie is smart. Charlie is smart. Is Oscar shy?",Affirming the Consequent,No
+"If Uma is honest, then Mona is rude. Mona is rude. Is Uma honest?",Affirming the Consequent,No
+"If Leo is proud, then Yara is smart. Yara is smart. Is Leo proud?",Affirming the Consequent,No
+"If Eve is curious, then Rita is proud. Rita is proud. Is Eve curious?",Affirming the Consequent,No
+"If Uma is curious, then Ivy is polite. Ivy is polite. Is Uma curious?",Affirming the Consequent,No
+"If Tina is tall, then Grace is calm. Grace is calm. Is Tina tall?",Affirming the Consequent,No
+"If Quinn is short, then Victor is rude. Victor is rude. Is Quinn short?",Affirming the Consequent,No
+"If Kara is proud, then Bob is curious. Bob is curious. Is Kara proud?",Affirming the Consequent,No
+"If Yara is lazy, then Wendy is curious. Wendy is curious. Is Yara lazy?",Affirming the Consequent,No
+"If Nina is brave, then Sam is happy. Sam is happy. Is Nina brave?",Affirming the Consequent,No
+"If Rita is honest, then Sam is calm. Sam is calm. Is Rita honest?",Affirming the Consequent,No
+"If Zane is polite, then Bob is angry. Bob is angry. Is Zane polite?",Affirming the Consequent,No
+"If Hank is brave, then Uma is tall. Uma is tall. Is Hank brave?",Affirming the Consequent,No
+"If Jack is lazy, then Oscar is brave. Oscar is brave. Is Jack lazy?",Affirming the Consequent,No
+"If Quinn is curious, then Sam is shy. Sam is shy. Is Quinn curious?",Affirming the Consequent,No
+"If Nina is quiet, then Alice is tall. Alice is tall. Is Nina quiet?",Affirming the Consequent,No
+"If Jack is shy, then Frank is clever. Frank is clever. Is Jack shy?",Affirming the Consequent,No
+"If Eve is happy, then Uma is lazy. Uma is lazy. Is Eve happy?",Affirming the Consequent,No
+"If Oscar is clever, then Sam is gentle. Sam is gentle. Is Oscar clever?",Affirming the Consequent,No
+"If Yara is short, then Nina is proud. Nina is proud. Is Yara short?",Affirming the Consequent,No
+"If Diana is honest, then Charlie is quiet. Charlie is quiet. Is Diana honest?",Affirming the Consequent,No
+"If Quinn is calm, then Rita is smart. Rita is smart. Is Quinn calm?",Affirming the Consequent,No
+"If Frank is smart, then Xander is sad. Xander is sad. Is Frank smart?",Affirming the Consequent,No
+"If Wendy is honest, then Uma is happy. Uma is happy. Is Wendy honest?",Affirming the Consequent,No
+"If Tina is happy, then Rita is loud. Rita is loud. Is Tina happy?",Affirming the Consequent,No
+"If Nina is rude, then Quinn is quiet. Quinn is quiet. Is Nina rude?",Affirming the Consequent,No
+"If Leo is loud, then Zane is clever. Zane is clever. Is Leo loud?",Affirming the Consequent,No
+"If Xander is shy, then Leo is tall. Leo is tall. Is Xander shy?",Affirming the Consequent,No
+"If Victor is clever, then Leo is proud. Leo is proud. Is Victor clever?",Affirming the Consequent,No
+"If Victor is proud, then Nina is gentle. Nina is gentle. Is Victor proud?",Affirming the Consequent,No
+"If Yara is polite, then Grace is rude. Grace is rude. Is Yara polite?",Affirming the Consequent,No
+"If Charlie is curious, then Quinn is polite. Quinn is polite. Is Charlie curious?",Affirming the Consequent,No
+"If Yara is shy, then Quinn is tall. Quinn is tall. Is Yara shy?",Affirming the Consequent,No
+"If Alice is happy, then Bob is rude. Bob is rude. Is Alice happy?",Affirming the Consequent,No
+"If Kara is tall, then Oscar is smart. Oscar is smart. Is Kara tall?",Affirming the Consequent,No
+"If Zane is shy, then Kara is quiet. Kara is quiet. Is Zane shy?",Affirming the Consequent,No
+"If Tina is clever, then Kara is kind. Kara is kind. Is Tina clever?",Affirming the Consequent,No
+"If Nina is shy, then Zane is tall. Zane is tall. Is Nina shy?",Affirming the Consequent,No
+"If Tina is brave, then Frank is calm. Frank is calm. Is Tina brave?",Affirming the Consequent,No
+"If Ivy is happy, then Oscar is sad. Oscar is sad. Is Ivy happy?",Affirming the Consequent,No
+"If Xander is rude, then Quinn is clever. Quinn is clever. Is Xander rude?",Affirming the Consequent,No
+"If Rita is curious, then Jack is quiet. Jack is quiet. Is Rita curious?",Affirming the Consequent,No
+"If Eve is calm, then Frank is proud. Frank is proud. Is Eve calm?",Affirming the Consequent,No
+"If Xander is gentle, then Diana is loud. Diana is loud. Is Xander gentle?",Affirming the Consequent,No
+"If Victor is quiet, then Wendy is gentle. Wendy is gentle. Is Victor quiet?",Affirming the Consequent,No
+"If Wendy is happy, then Quinn is kind. Quinn is kind. Is Wendy happy?",Affirming the Consequent,No
+"If Yara is quiet, then Hank is proud. Hank is proud. Is Yara quiet?",Affirming the Consequent,No
+"If Wendy is sad, then Alice is short. Alice is short. Is Wendy sad?",Affirming the Consequent,No
+"If Mona is polite, then Charlie is kind. Charlie is kind. Is Mona polite?",Affirming the Consequent,No
+"If Grace is gentle, then Uma is proud. Uma is proud. Is Grace gentle?",Affirming the Consequent,No
+"If Paul is clever, then Ivy is loud. Ivy is loud. Is Paul clever?",Affirming the Consequent,No
+"If Eve is smart, then Zane is sad. Zane is sad. Is Eve smart?",Affirming the Consequent,No
+"If Charlie is brave, then Rita is clever. Rita is clever. Is Charlie brave?",Affirming the Consequent,No
+"If Victor is tall, then Alice is rude. Alice is rude. Is Victor tall?",Affirming the Consequent,No
+"If Quinn is happy, then Mona is tall. Mona is tall. Is Quinn happy?",Affirming the Consequent,No
+"If Xander is rude, then Paul is shy. Paul is shy. Is Xander rude?",Affirming the Consequent,No
+"If Nina is curious, then Frank is polite. Frank is polite. Is Nina curious?",Affirming the Consequent,No
+"If Hank is happy, then Sam is lazy. Sam is lazy. Is Hank happy?",Affirming the Consequent,No
+"If Alice is curious, then Oscar is sad. Oscar is sad. Is Alice curious?",Affirming the Consequent,No
+"If Wendy is honest, then Uma is clever. Uma is clever. Is Wendy honest?",Affirming the Consequent,No
+"If Quinn is angry, then Oscar is lazy. Oscar is lazy. Is Quinn angry?",Affirming the Consequent,No
+"If Wendy is loud, then Kara is short. Kara is short. Is Wendy loud?",Affirming the Consequent,No
+"If Paul is rude, then Alice is quiet. Alice is quiet. Is Paul rude?",Affirming the Consequent,No
+"If Leo is loud, then Paul is sad. Paul is sad. Is Leo loud?",Affirming the Consequent,No
+"If Jack is smart, then Rita is curious. Rita is curious. Is Jack smart?",Affirming the Consequent,No
+"If Rita is polite, then Grace is tall. Grace is tall. Is Rita polite?",Affirming the Consequent,No
+"If Quinn is shy, then Nina is calm. Nina is calm. Is Quinn shy?",Affirming the Consequent,No
+"If Grace is shy, then Paul is clever. Paul is clever. Is Grace shy?",Affirming the Consequent,No
+"If Kara is brave, then Mona is clever. Mona is clever. Is Kara brave?",Affirming the Consequent,No
+"If Mona is gentle, then Ivy is lazy. Ivy is lazy. Is Mona gentle?",Affirming the Consequent,No
+"If Victor is kind, then Sam is smart. Sam is smart. Is Victor kind?",Affirming the Consequent,No
+"If Bob is short, then Hank is happy. Hank is happy. Is Bob short?",Affirming the Consequent,No
+"If Zane is lazy, then Leo is kind. Leo is kind. Is Zane lazy?",Affirming the Consequent,No
+"If Tina is shy, then Eve is quiet. Eve is quiet. Is Tina shy?",Affirming the Consequent,No
+"If Ivy is shy, then Jack is kind. Jack is kind. Is Ivy shy?",Affirming the Consequent,No
+"If Yara is lazy, then Alice is honest. Alice is honest. Is Yara lazy?",Affirming the Consequent,No
+"If Tina is brave, then Nina is sad. Nina is sad. Is Tina brave?",Affirming the Consequent,No
+"If Wendy is sad, then Alice is proud. Alice is proud. Is Wendy sad?",Affirming the Consequent,No
+"If Eve is quiet, then Kara is rude. Kara is rude. Is Eve quiet?",Affirming the Consequent,No
+"If Frank is short, then Wendy is honest. Wendy is honest. Is Frank short?",Affirming the Consequent,No
+"If Zane is sad, then Tina is proud. Tina is proud. Is Zane sad?",Affirming the Consequent,No
+"If Mona is happy, then Grace is calm. Grace is calm. Is Mona happy?",Affirming the Consequent,No
+"If Ivy is loud, then Mona is sad. Mona is sad. Is Ivy loud?",Affirming the Consequent,No
+"If Yara is short, then Oscar is happy. Oscar is happy. Is Yara short?",Affirming the Consequent,No
+"If Uma is shy, then Frank is gentle. Frank is gentle. Is Uma shy?",Affirming the Consequent,No
+"If Rita is short, then Zane is tall. Zane is tall. Is Rita short?",Affirming the Consequent,No
+"If Eve is polite, then Leo is honest. Leo is honest. Is Eve polite?",Affirming the Consequent,No
+"If Sam is brave, then Kara is calm. Kara is calm. Is Sam brave?",Affirming the Consequent,No
+"If Xander is tall, then Bob is rude. Bob is rude. Is Xander tall?",Affirming the Consequent,No
+"If Xander is polite, then Ivy is loud. Ivy is loud. Is Xander polite?",Affirming the Consequent,No
+"If Mona is honest, then Oscar is brave. Oscar is brave. Is Mona honest?",Affirming the Consequent,No
+"If Leo is short, then Ivy is lazy. Ivy is lazy. Is Leo short?",Affirming the Consequent,No
+"If Tina is angry, then Bob is honest. Bob is honest. Is Tina angry?",Affirming the Consequent,No
+"If Sam is smart, then Nina is short. Nina is short. Is Sam smart?",Affirming the Consequent,No
+"If Nina is quiet, then Quinn is honest. Quinn is honest. Is Nina quiet?",Affirming the Consequent,No
+"If Grace is angry, then Eve is tall. Eve is tall. Is Grace angry?",Affirming the Consequent,No
+"If Ivy is lazy, then Frank is proud. Frank is proud. Is Ivy lazy?",Affirming the Consequent,No
+"If Diana is honest, then Frank is angry. Frank is angry. Is Diana honest?",Affirming the Consequent,No
+"If Rita is gentle, then Kara is brave. Kara is brave. Is Rita gentle?",Affirming the Consequent,No
+"If Charlie is proud, then Tina is clever. Tina is clever. Is Charlie proud?",Affirming the Consequent,No
+"If Eve is gentle, then Diana is proud. Diana is proud. Is Eve gentle?",Affirming the Consequent,No
+"If Tina is lazy, then Jack is kind. Jack is kind. Is Tina lazy?",Affirming the Consequent,No
+"If Bob is polite, then Leo is sad. Leo is sad. Is Bob polite?",Affirming the Consequent,No
+"If Nina is gentle, then Rita is brave. Rita is brave. Is Nina gentle?",Affirming the Consequent,No
+"If Jack is kind, then Kara is curious. Kara is curious. Is Jack kind?",Affirming the Consequent,No
+"If Eve is shy, then Oscar is quiet. Oscar is quiet. Is Eve shy?",Affirming the Consequent,No
+"If Oscar is happy, then Quinn is short. Quinn is short. Is Oscar happy?",Affirming the Consequent,No
+"If Alice is clever, then Paul is proud. Paul is proud. Is Alice clever?",Affirming the Consequent,No
+"If Grace is proud, then Sam is polite. Sam is polite. Is Grace proud?",Affirming the Consequent,No
+"If Charlie is tall, then Kara is proud. Kara is proud. Is Charlie tall?",Affirming the Consequent,No
+"If Wendy is proud, then Mona is calm. Mona is calm. Is Wendy proud?",Affirming the Consequent,No
+"If Tina is short, then Uma is curious. Uma is curious. Is Tina short?",Affirming the Consequent,No
+"If Hank is quiet, then Rita is tall. Rita is tall. Is Hank quiet?",Affirming the Consequent,No
+"If Hank is quiet, then Ivy is clever. Ivy is clever. Is Hank quiet?",Affirming the Consequent,No
+"If Yara is kind, then Mona is smart. Mona is smart. Is Yara kind?",Affirming the Consequent,No
+"If Mona is loud, then Jack is proud. Jack is proud. Is Mona loud?",Affirming the Consequent,No
+"If Mona is gentle, then Yara is proud. Yara is proud. Is Mona gentle?",Affirming the Consequent,No
+"If Ivy is brave, then Grace is angry. Grace is angry. Is Ivy brave?",Affirming the Consequent,No
+"If Tina is polite, then Wendy is rude. Wendy is rude. Is Tina polite?",Affirming the Consequent,No
+"If Charlie is angry, then Sam is sad. Sam is sad. Is Charlie angry?",Affirming the Consequent,No
+"If Bob is happy, then Rita is kind. Rita is kind. Is Bob happy?",Affirming the Consequent,No
+"If Diana is happy, then Kara is brave. Kara is brave. Is Diana happy?",Affirming the Consequent,No
+"If Charlie is kind, then Paul is polite. Paul is polite. Is Charlie kind?",Affirming the Consequent,No
+"If Leo is proud, then Charlie is honest. Charlie is honest. Is Leo proud?",Affirming the Consequent,No
+"If Paul is polite, then Hank is tall. Hank is tall. Is Paul polite?",Affirming the Consequent,No
+"If Bob is kind, then Wendy is quiet. Wendy is quiet. Is Bob kind?",Affirming the Consequent,No
+"If Jack is quiet, then Victor is honest. Victor is honest. Is Jack quiet?",Affirming the Consequent,No
+"If Charlie is sad, then Eve is kind. Eve is kind. Is Charlie sad?",Affirming the Consequent,No
+"If Rita is calm, then Nina is tall. Nina is tall. Is Rita calm?",Affirming the Consequent,No
+"If Bob is honest, then Wendy is curious. Wendy is curious. Is Bob honest?",Affirming the Consequent,No
+"If Hank is sad, then Mona is honest. Mona is honest. Is Hank sad?",Affirming the Consequent,No
+"If Bob is rude, then Eve is honest. Eve is honest. Is Bob rude?",Affirming the Consequent,No
+"If Kara is lazy, then Zane is curious. Zane is curious. Is Kara lazy?",Affirming the Consequent,No
+"If Leo is rude, then Bob is clever. Bob is clever. Is Leo rude?",Affirming the Consequent,No
+"If Xander is rude, then Hank is proud. Hank is proud. Is Xander rude?",Affirming the Consequent,No
+"If Leo is happy, then Frank is shy. Frank is shy. Is Leo happy?",Affirming the Consequent,No
+"If Quinn is rude, then Kara is smart. Kara is smart. Is Quinn rude?",Affirming the Consequent,No
+"If Uma is brave, then Paul is quiet. Paul is quiet. Is Uma brave?",Affirming the Consequent,No
+"If Tina is shy, then Zane is clever. Zane is clever. Is Tina shy?",Affirming the Consequent,No
+"If Paul is sad, then Jack is lazy. Jack is lazy. Is Paul sad?",Affirming the Consequent,No
+"If Victor is angry, then Eve is curious. Eve is curious. Is Victor angry?",Affirming the Consequent,No
+"If Oscar is clever, then Yara is angry. Yara is angry. Is Oscar clever?",Affirming the Consequent,No
+"If Rita is happy, then Grace is short. Grace is short. Is Rita happy?",Affirming the Consequent,No
+"If Mona is angry, then Diana is quiet. Diana is quiet. Is Mona angry?",Affirming the Consequent,No
+"If Hank is shy, then Eve is quiet. Eve is quiet. Is Hank shy?",Affirming the Consequent,No
+"If Xander is curious, then Yara is short. Yara is short. Is Xander curious?",Affirming the Consequent,No
+"If Oscar is sad, then Rita is loud. Rita is loud. Is Oscar sad?",Affirming the Consequent,No
+"If Mona is happy, then Frank is angry. Frank is angry. Is Mona happy?",Affirming the Consequent,No
+"If Alice is sad, then Tina is polite. Tina is polite. Is Alice sad?",Affirming the Consequent,No
+"If Mona is lazy, then Diana is quiet. Diana is quiet. Is Mona lazy?",Affirming the Consequent,No
+"If Bob is quiet, then Hank is shy. Hank is shy. Is Bob quiet?",Affirming the Consequent,No
+"If Nina is loud, then Mona is proud. Mona is proud. Is Nina loud?",Affirming the Consequent,No
+"If Bob is calm, then Mona is loud. Mona is loud. Is Bob calm?",Affirming the Consequent,No
+"If Zane is gentle, then Bob is sad. Bob is sad. Is Zane gentle?",Affirming the Consequent,No
+"If Charlie is quiet, then Frank is clever. Frank is clever. Is Charlie quiet?",Affirming the Consequent,No
+"If Leo is smart, then Yara is calm. Yara is calm. Is Leo smart?",Affirming the Consequent,No
+"If Eve is kind, then Uma is calm. Uma is calm. Is Eve kind?",Affirming the Consequent,No
+"If Hank is clever, then Ivy is quiet. Ivy is quiet. Is Hank clever?",Affirming the Consequent,No
+"If Nina is happy, then Victor is proud. Victor is proud. Is Nina happy?",Affirming the Consequent,No
+"If Jack is calm, then Grace is short. Grace is short. Is Jack calm?",Affirming the Consequent,No
+"If Mona is angry, then Sam is short. Sam is short. Is Mona angry?",Affirming the Consequent,No
+"If Charlie is lazy, then Rita is proud. Rita is proud. Is Charlie lazy?",Affirming the Consequent,No
+"If Frank is rude, then Oscar is short. Oscar is short. Is Frank rude?",Affirming the Consequent,No
+"If Uma is short, then Kara is calm. Kara is calm. Is Uma short?",Affirming the Consequent,No
+"If Jack is smart, then Wendy is proud. Wendy is proud. Is Jack smart?",Affirming the Consequent,No
+"If Charlie is loud, then Jack is shy. Jack is shy. Is Charlie loud?",Affirming the Consequent,No
+"If Oscar is happy, then Alice is polite. Alice is polite. Is Oscar happy?",Affirming the Consequent,No
+"If Alice is tall, then Uma is honest. Uma is honest. Is Alice tall?",Affirming the Consequent,No
+"If Zane is smart, then Victor is loud. Victor is loud. Is Zane smart?",Affirming the Consequent,No
+"If Grace is polite, then Nina is loud. Nina is loud. Is Grace polite?",Affirming the Consequent,No
+"If Sam is clever, then Victor is lazy. Victor is lazy. Is Sam clever?",Affirming the Consequent,No
+"If Sam is happy, then Uma is proud. Uma is proud. Is Sam happy?",Affirming the Consequent,No
+"If Bob is shy, then Alice is rude. Alice is rude. Is Bob shy?",Affirming the Consequent,No
+"If Leo is rude, then Frank is smart. Frank is smart. Is Leo rude?",Affirming the Consequent,No
+"If Mona is rude, then Oscar is angry. Oscar is angry. Is Mona rude?",Affirming the Consequent,No
+"If Quinn is clever, then Yara is gentle. Yara is gentle. Is Quinn clever?",Affirming the Consequent,No
+"If Diana is calm, then Oscar is loud. Oscar is loud. Is Diana calm?",Affirming the Consequent,No
+"If Nina is quiet, then Ivy is proud. Ivy is proud. Is Nina quiet?",Affirming the Consequent,No
+"If Yara is calm, then Victor is tall. Victor is tall. Is Yara calm?",Affirming the Consequent,No
+"If Yara is gentle, then Sam is happy. Sam is happy. Is Yara gentle?",Affirming the Consequent,No
+"If Leo is brave, then Jack is shy. Jack is shy. Is Leo brave?",Affirming the Consequent,No
+"If Ivy is polite, then Diana is clever. Diana is clever. Is Ivy polite?",Affirming the Consequent,No
+"If Paul is smart, then Eve is honest. Eve is honest. Is Paul smart?",Affirming the Consequent,No
+"If Uma is calm, then Kara is smart. Kara is smart. Is Uma calm?",Affirming the Consequent,No
+"If Sam is loud, then Wendy is clever. Wendy is clever. Is Sam loud?",Affirming the Consequent,No
+"If Mona is lazy, then Eve is smart. Eve is smart. Is Mona lazy?",Affirming the Consequent,No
+"If Uma is lazy, then Hank is rude. Hank is rude. Is Uma lazy?",Affirming the Consequent,No
+"If Zane is curious, then Leo is shy. Leo is shy. Is Zane curious?",Affirming the Consequent,No
+"If Victor is happy, then Frank is polite. Frank is polite. Is Victor happy?",Affirming the Consequent,No
+"If Victor is calm, then Diana is lazy. Diana is lazy. Is Victor calm?",Affirming the Consequent,No
+"If Oscar is proud, then Victor is shy. Victor is shy. Is Oscar proud?",Affirming the Consequent,No
+"If Wendy is gentle, then Ivy is lazy. Ivy is lazy. Is Wendy gentle?",Affirming the Consequent,No
+"If Quinn is tall, then Victor is shy. Victor is shy. Is Quinn tall?",Affirming the Consequent,No
+"If Hank is short, then Yara is tall. Yara is tall. Is Hank short?",Affirming the Consequent,No
+"If Eve is tall, then Charlie is proud. Charlie is proud. Is Eve tall?",Affirming the Consequent,No
+"If Uma is smart, then Zane is brave. Zane is brave. Is Uma smart?",Affirming the Consequent,No
+"If Xander is loud, then Victor is tall. Victor is tall. Is Xander loud?",Affirming the Consequent,No
+"If Quinn is smart, then Yara is brave. Yara is brave. Is Quinn smart?",Affirming the Consequent,No
+"If Yara is gentle, then Mona is rude. Mona is rude. Is Yara gentle?",Affirming the Consequent,No
+"If Zane is proud, then Uma is kind. Uma is kind. Is Zane proud?",Affirming the Consequent,No
+"If Paul is quiet, then Kara is honest. Kara is honest. Is Paul quiet?",Affirming the Consequent,No
+"If Uma is curious, then Hank is lazy. Hank is lazy. Is Uma curious?",Affirming the Consequent,No
+"If Oscar is brave, then Diana is rude. Diana is rude. Is Oscar brave?",Affirming the Consequent,No
+"If Bob is calm, then Oscar is smart. Oscar is smart. Is Bob calm?",Affirming the Consequent,No
+"If Eve is polite, then Alice is rude. Alice is rude. Is Eve polite?",Affirming the Consequent,No
+"If Grace is short, then Sam is smart. Sam is smart. Is Grace short?",Affirming the Consequent,No
+"If Tina is polite, then Jack is curious. Jack is curious. Is Tina polite?",Affirming the Consequent,No
+"If Rita is rude, then Charlie is clever. Charlie is clever. Is Rita rude?",Affirming the Consequent,No
+"If Grace is clever, then Nina is smart. Nina is smart. Is Grace clever?",Affirming the Consequent,No
+"If Diana is loud, then Sam is happy. Sam is happy. Is Diana loud?",Affirming the Consequent,No
+"If Jack is shy, then Grace is proud. Grace is proud. Is Jack shy?",Affirming the Consequent,No
+"If Victor is honest, then Wendy is angry. Wendy is angry. Is Victor honest?",Affirming the Consequent,No
+"If Leo is clever, then Diana is kind. Diana is kind. Is Leo clever?",Affirming the Consequent,No
+"If Hank is happy, then Bob is polite. Bob is polite. Is Hank happy?",Affirming the Consequent,No
+"If Uma is tall, then Paul is short. Paul is short. Is Uma tall?",Affirming the Consequent,No
+"If Diana is curious, then Grace is angry. Grace is angry. Is Diana curious?",Affirming the Consequent,No
+"If Rita is short, then Frank is tall. Frank is tall. Is Rita short?",Affirming the Consequent,No
+"If Paul is curious, then Quinn is clever. Quinn is clever. Is Paul curious?",Affirming the Consequent,No
+"If Grace is curious, then Leo is clever. Leo is clever. Is Grace curious?",Affirming the Consequent,No
+"If Uma is smart, then Tina is shy. Tina is shy. Is Uma smart?",Affirming the Consequent,No
+"If Tina is calm, then Ivy is lazy. Ivy is lazy. Is Tina calm?",Affirming the Consequent,No
+"If Charlie is honest, then Victor is brave. Victor is brave. Is Charlie honest?",Affirming the Consequent,No
+"If Charlie is brave, then Nina is gentle. Nina is gentle. Is Charlie brave?",Affirming the Consequent,No
+"If Nina is quiet, then Rita is calm. Rita is calm. Is Nina quiet?",Affirming the Consequent,No
+"If Frank is happy, then Wendy is brave. Wendy is brave. Is Frank happy?",Affirming the Consequent,No
+"If Grace is angry, then Leo is happy. Leo is happy. Is Grace angry?",Affirming the Consequent,No
+"If Alice is sad, then Oscar is happy. Oscar is happy. Is Alice sad?",Affirming the Consequent,No
+"If Ivy is lazy, then Alice is proud. Alice is proud. Is Ivy lazy?",Affirming the Consequent,No
+"If Leo is tall, then Quinn is quiet. Quinn is quiet. Is Leo tall?",Affirming the Consequent,No
+"If Diana is honest, then Charlie is loud. Charlie is loud. Is Diana honest?",Affirming the Consequent,No
+"If Alice is curious, then Nina is gentle. Nina is gentle. Is Alice curious?",Affirming the Consequent,No
+"If Tina is loud, then Rita is proud. Rita is proud. Is Tina loud?",Affirming the Consequent,No
+"If Leo is brave, then Quinn is clever. Quinn is clever. Is Leo brave?",Affirming the Consequent,No
+"If Jack is happy, then Victor is smart. Victor is smart. Is Jack happy?",Affirming the Consequent,No
+"If Eve is clever, then Alice is proud. Alice is proud. Is Eve clever?",Affirming the Consequent,No
+"If Xander is honest, then Frank is loud. Frank is loud. Is Xander honest?",Affirming the Consequent,No
+"If Mona is rude, then Rita is loud. Rita is loud. Is Mona rude?",Affirming the Consequent,No
+"If Jack is smart, then Ivy is angry. Ivy is angry. Is Jack smart?",Affirming the Consequent,No
+"If Hank is proud, then Grace is sad. Grace is sad. Is Hank proud?",Affirming the Consequent,No
+"If Wendy is tall, then Leo is kind. Leo is kind. Is Wendy tall?",Affirming the Consequent,No
+"If Zane is sad, then Quinn is gentle. Quinn is gentle. Is Zane sad?",Affirming the Consequent,No
+"If Uma is quiet, then Diana is tall. Diana is tall. Is Uma quiet?",Affirming the Consequent,No
+"If Xander is honest, then Yara is gentle. Yara is gentle. Is Xander honest?",Affirming the Consequent,No
+"If Paul is rude, then Alice is short. Alice is short. Is Paul rude?",Affirming the Consequent,No
+"If Sam is quiet, then Zane is calm. Zane is calm. Is Sam quiet?",Affirming the Consequent,No
+"If Leo is kind, then Hank is clever. Hank is clever. Is Leo kind?",Affirming the Consequent,No
+"If Jack is shy, then Ivy is quiet. Ivy is quiet. Is Jack shy?",Affirming the Consequent,No
+"If Wendy is kind, then Eve is honest. Eve is honest. Is Wendy kind?",Affirming the Consequent,No
+"If Ivy is angry, then Diana is calm. Diana is calm. Is Ivy angry?",Affirming the Consequent,No
+"If Frank is polite, then Ivy is gentle. Ivy is gentle. Is Frank polite?",Affirming the Consequent,No
+"If Victor is proud, then Kara is honest. Kara is honest. Is Victor proud?",Affirming the Consequent,No
+"If Uma is shy, then Kara is quiet. Kara is quiet. Is Uma shy?",Affirming the Consequent,No
+"If Zane is calm, then Wendy is honest. Wendy is honest. Is Zane calm?",Affirming the Consequent,No
+"If Paul is smart, then Oscar is happy. Oscar is happy. Is Paul smart?",Affirming the Consequent,No
+"If Eve is sad, then Quinn is short. Quinn is short. Is Eve sad?",Affirming the Consequent,No
+"If Nina is tall, then Eve is loud. Eve is loud. Is Nina tall?",Affirming the Consequent,No
+"If Paul is curious, then Ivy is rude. Ivy is rude. Is Paul curious?",Affirming the Consequent,No
+"If Xander is polite, then Zane is brave. Zane is brave. Is Xander polite?",Affirming the Consequent,No
+"If Nina is kind, then Charlie is sad. Charlie is sad. Is Nina kind?",Affirming the Consequent,No
+"If Hank is rude, then Tina is gentle. Tina is gentle. Is Hank rude?",Affirming the Consequent,No
+"If Sam is calm, then Victor is proud. Victor is proud. Is Sam calm?",Affirming the Consequent,No
+"If Grace is shy, then Charlie is clever. Charlie is clever. Is Grace shy?",Affirming the Consequent,No
+"If Alice is sad, then Kara is brave. Kara is brave. Is Alice sad?",Affirming the Consequent,No
+"If Quinn is proud, then Hank is curious. Hank is curious. Is Quinn proud?",Affirming the Consequent,No
+"If Wendy is clever, then Eve is happy. Eve is happy. Is Wendy clever?",Affirming the Consequent,No
+"If Victor is rude, then Wendy is lazy. Wendy is lazy. Is Victor rude?",Affirming the Consequent,No
+"If Paul is curious, then Kara is smart. Kara is smart. Is Paul curious?",Affirming the Consequent,No
+"If Ivy is calm, then Victor is loud. Victor is loud. Is Ivy calm?",Affirming the Consequent,No
+"If Yara is calm, then Eve is quiet. Eve is quiet. Is Yara calm?",Affirming the Consequent,No
+"If Nina is gentle, then Charlie is short. Charlie is short. Is Nina gentle?",Affirming the Consequent,No
+"If Yara is tall, then Wendy is gentle. Wendy is gentle. Is Yara tall?",Affirming the Consequent,No
+"If Rita is brave, then Quinn is calm. Quinn is calm. Is Rita brave?",Affirming the Consequent,No
+"If Xander is loud, then Charlie is kind. Charlie is kind. Is Xander loud?",Affirming the Consequent,No
+"If Grace is rude, then Paul is happy. Paul is happy. Is Grace rude?",Affirming the Consequent,No
+"If Grace is shy, then Yara is proud. Yara is proud. Is Grace shy?",Affirming the Consequent,No
+"If Ivy is smart, then Mona is lazy. Mona is lazy. Is Ivy smart?",Affirming the Consequent,No
+"If Zane is short, then Uma is quiet. Uma is quiet. Is Zane short?",Affirming the Consequent,No
+"If Rita is happy, then Ivy is honest. Ivy is honest. Is Rita happy?",Affirming the Consequent,No
+"If Tina is gentle, then Paul is angry. Paul is angry. Is Tina gentle?",Affirming the Consequent,No
+"If Nina is sad, then Quinn is gentle. Quinn is gentle. Is Nina sad?",Affirming the Consequent,No
+"If Uma is smart, then Sam is short. Sam is short. Is Uma smart?",Affirming the Consequent,No
+"If Oscar is proud, then Uma is happy. Uma is happy. Is Oscar proud?",Affirming the Consequent,No
+"If Jack is loud, then Leo is rude. Leo is rude. Is Jack loud?",Affirming the Consequent,No
+"If Uma is clever, then Sam is calm. Sam is calm. Is Uma clever?",Affirming the Consequent,No
+"If Uma is sad, then Zane is tall. Zane is tall. Is Uma sad?",Affirming the Consequent,No
+"If Hank is proud, then Xander is rude. Xander is rude. Is Hank proud?",Affirming the Consequent,No
+"If Uma is honest, then Ivy is quiet. Ivy is quiet. Is Uma honest?",Affirming the Consequent,No
+"If Wendy is rude, then Diana is loud. Diana is loud. Is Wendy rude?",Affirming the Consequent,No
+"If Nina is lazy, then Yara is angry. Yara is angry. Is Nina lazy?",Affirming the Consequent,No
+"If Quinn is clever, then Sam is happy. Sam is happy. Is Quinn clever?",Affirming the Consequent,No
+"If Xander is sad, then Leo is short. Leo is short. Is Xander sad?",Affirming the Consequent,No
+"If Oscar is brave, then Jack is proud. Jack is proud. Is Oscar brave?",Affirming the Consequent,No
+"If Sam is sad, then Kara is proud. Kara is proud. Is Sam sad?",Affirming the Consequent,No
+"If Frank is proud, then Hank is short. Hank is short. Is Frank proud?",Affirming the Consequent,No
+"If Victor is rude, then Uma is quiet. Uma is quiet. Is Victor rude?",Affirming the Consequent,No
+"If Hank is sad, then Sam is happy. Sam is happy. Is Hank sad?",Affirming the Consequent,No
+"If Jack is rude, then Oscar is sad. Oscar is sad. Is Jack rude?",Affirming the Consequent,No
+"If Rita is curious, then Xander is polite. Xander is polite. Is Rita curious?",Affirming the Consequent,No
+"If Ivy is calm, then Kara is smart. Kara is smart. Is Ivy calm?",Affirming the Consequent,No
+"If Oscar is sad, then Hank is angry. Hank is angry. Is Oscar sad?",Affirming the Consequent,No
+"If Xander is curious, then Hank is quiet. Hank is quiet. Is Xander curious?",Affirming the Consequent,No
+"If Xander is smart, then Nina is kind. Nina is kind. Is Xander smart?",Affirming the Consequent,No
+"If Tina is proud, then Mona is short. Mona is short. Is Tina proud?",Affirming the Consequent,No
+"If Tina is happy, then Sam is clever. Sam is clever. Is Tina happy?",Affirming the Consequent,No
+"If Grace is kind, then Quinn is brave. Quinn is brave. Is Grace kind?",Affirming the Consequent,No
+"If Jack is smart, then Tina is happy. Tina is happy. Is Jack smart?",Affirming the Consequent,No
+"If Kara is brave, then Quinn is proud. Quinn is proud. Is Kara brave?",Affirming the Consequent,No
+"If Bob is sad, then Xander is tall. Xander is tall. Is Bob sad?",Affirming the Consequent,No
+"If Mona is brave, then Hank is loud. Hank is loud. Is Mona brave?",Affirming the Consequent,No
+"If Kara is brave, then Uma is short. Uma is short. Is Kara brave?",Affirming the Consequent,No
+"If Nina is gentle, then Bob is calm. Bob is calm. Is Nina gentle?",Affirming the Consequent,No
+"If Frank is sad, then Wendy is short. Wendy is short. Is Frank sad?",Affirming the Consequent,No
+"If Grace is sad, then Tina is loud. Tina is loud. Is Grace sad?",Affirming the Consequent,No
+"If Paul is loud, then Alice is short. Alice is short. Is Paul loud?",Affirming the Consequent,No
+"If Sam is gentle, then Grace is honest. Grace is honest. Is Sam gentle?",Affirming the Consequent,No
+"If Quinn is shy, then Victor is short. Victor is short. Is Quinn shy?",Affirming the Consequent,No
+"If Eve is proud, then Xander is shy. Xander is shy. Is Eve proud?",Affirming the Consequent,No
+"If Quinn is curious, then Mona is rude. Mona is rude. Is Quinn curious?",Affirming the Consequent,No
+"If Tina is gentle, then Yara is honest. Yara is honest. Is Tina gentle?",Affirming the Consequent,No
+"If Charlie is happy, then Sam is kind. Sam is kind. Is Charlie happy?",Affirming the Consequent,No
+"If Mona is short, then Rita is loud. Rita is loud. Is Mona short?",Affirming the Consequent,No
+"If Eve is smart, then Alice is proud. Alice is proud. Is Eve smart?",Affirming the Consequent,No
+"If Xander is curious, then Bob is happy. Bob is happy. Is Xander curious?",Affirming the Consequent,No
+"If Hank is happy, then Xander is loud. Xander is loud. Is Hank happy?",Affirming the Consequent,No
+"If Uma is rude, then Yara is kind. Yara is kind. Is Uma rude?",Affirming the Consequent,No
+"If Rita is short, then Jack is loud. Jack is loud. Is Rita short?",Affirming the Consequent,No
+"If Bob is rude, then Mona is gentle. Mona is gentle. Is Bob rude?",Affirming the Consequent,No
+"If Uma is kind, then Quinn is rude. Quinn is rude. Is Uma kind?",Affirming the Consequent,No
+"If Wendy is kind, then Tina is gentle. Tina is gentle. Is Wendy kind?",Affirming the Consequent,No
+"If Eve is honest, then Diana is sad. Diana is sad. Is Eve honest?",Affirming the Consequent,No
+"If Hank is smart, then Sam is angry. Sam is angry. Is Hank smart?",Affirming the Consequent,No
+"If Tina is short, then Nina is polite. Nina is polite. Is Tina short?",Affirming the Consequent,No
+"If Bob is sad, then Yara is short. Yara is short. Is Bob sad?",Affirming the Consequent,No
+"If Paul is angry, then Eve is calm. Eve is calm. Is Paul angry?",Affirming the Consequent,No
+"If Zane is lazy, then Frank is kind. Frank is kind. Is Zane lazy?",Affirming the Consequent,No
+"If Mona is proud, then Oscar is tall. Oscar is tall. Is Mona proud?",Affirming the Consequent,No
+"If Kara is smart, then Victor is sad. Victor is sad. Is Kara smart?",Affirming the Consequent,No
+"If Bob is polite, then Xander is angry. Xander is angry. Is Bob polite?",Affirming the Consequent,No
+"If Eve is shy, then Paul is happy. Paul is happy. Is Eve shy?",Affirming the Consequent,No
+"If Paul is short, then Diana is quiet. Diana is quiet. Is Paul short?",Affirming the Consequent,No
+"If Hank is polite, then Quinn is honest. Quinn is honest. Is Hank polite?",Affirming the Consequent,No
+"If Xander is loud, then Nina is quiet. Nina is quiet. Is Xander loud?",Affirming the Consequent,No
+"If Quinn is tall, then Grace is curious. Grace is curious. Is Quinn tall?",Affirming the Consequent,No
+"If Ivy is curious, then Mona is clever. Mona is clever. Is Ivy curious?",Affirming the Consequent,No
+"If Kara is sad, then Sam is clever. Sam is clever. Is Kara sad?",Affirming the Consequent,No
+"If Kara is curious, then Quinn is angry. Quinn is angry. Is Kara curious?",Affirming the Consequent,No
+"If Tina is kind, then Yara is curious. Yara is curious. Is Tina kind?",Affirming the Consequent,No
+"If Oscar is lazy, then Frank is kind. Frank is kind. Is Oscar lazy?",Affirming the Consequent,No
+"If Nina is proud, then Grace is lazy. Grace is lazy. Is Nina proud?",Affirming the Consequent,No
+"If Alice is honest, then Bob is angry. Bob is angry. Is Alice honest?",Affirming the Consequent,No
+"If Leo is tall, then Zane is sad. Zane is sad. Is Leo tall?",Affirming the Consequent,No
+"If Uma is honest, then Jack is polite. Jack is polite. Is Uma honest?",Affirming the Consequent,No
+"If Grace is proud, then Victor is quiet. Victor is quiet. Is Grace proud?",Affirming the Consequent,No
+"If Mona is happy, then Diana is polite. Diana is polite. Is Mona happy?",Affirming the Consequent,No
+"If Paul is short, then Grace is lazy. Grace is lazy. Is Paul short?",Affirming the Consequent,No
+"If Bob is sad, then Wendy is lazy. Wendy is lazy. Is Bob sad?",Affirming the Consequent,No
+"If Mona is calm, then Diana is gentle. Diana is gentle. Is Mona calm?",Affirming the Consequent,No
+"If Quinn is shy, then Uma is calm. Uma is calm. Is Quinn shy?",Affirming the Consequent,No
+"If Paul is proud, then Nina is gentle. Nina is gentle. Is Paul proud?",Affirming the Consequent,No
+"If Alice is curious, then Diana is rude. Diana is rude. Is Alice curious?",Affirming the Consequent,No
+"If Leo is smart, then Nina is curious. Nina is curious. Is Leo smart?",Affirming the Consequent,No
+"If Wendy is happy, then Tina is shy. Tina is shy. Is Wendy happy?",Affirming the Consequent,No
+"If Jack is rude, then Wendy is happy. Wendy is happy. Is Jack rude?",Affirming the Consequent,No
+"If Rita is lazy, then Bob is shy. Bob is shy. Is Rita lazy?",Affirming the Consequent,No
+"If Diana is tall, then Eve is curious. Eve is curious. Is Diana tall?",Affirming the Consequent,No
+"If Mona is smart, then Uma is lazy. Uma is lazy. Is Mona smart?",Affirming the Consequent,No
+"If Sam is rude, then Hank is honest. Hank is honest. Is Sam rude?",Affirming the Consequent,No
+"If Hank is clever, then Leo is tall. Leo is tall. Is Hank clever?",Affirming the Consequent,No
+"If Paul is brave, then Oscar is rude. Oscar is rude. Is Paul brave?",Affirming the Consequent,No
+"If Xander is honest, then Wendy is curious. Wendy is curious. Is Xander honest?",Affirming the Consequent,No
+"If Zane is lazy, then Kara is loud. Kara is loud. Is Zane lazy?",Affirming the Consequent,No
+"If Nina is smart, then Bob is rude. Bob is rude. Is Nina smart?",Affirming the Consequent,No
+"If Kara is gentle, then Rita is tall. Rita is tall. Is Kara gentle?",Affirming the Consequent,No
+"If Quinn is loud, then Diana is short. Diana is short. Is Quinn loud?",Affirming the Consequent,No
+"If Tina is gentle, then Victor is smart. Victor is smart. Is Tina gentle?",Affirming the Consequent,No
+"If Jack is angry, then Mona is polite. Mona is polite. Is Jack angry?",Affirming the Consequent,No
+"If Quinn is gentle, then Hank is kind. Hank is kind. Is Quinn gentle?",Affirming the Consequent,No
+"If Rita is calm, then Oscar is quiet. Oscar is quiet. Is Rita calm?",Affirming the Consequent,No
+"If Wendy is lazy, then Grace is curious. Grace is curious. Is Wendy lazy?",Affirming the Consequent,No
+"If Bob is angry, then Xander is shy. Xander is shy. Is Bob angry?",Affirming the Consequent,No
+"If Rita is clever, then Hank is honest. Hank is honest. Is Rita clever?",Affirming the Consequent,No
+"If Kara is polite, then Zane is kind. Zane is kind. Is Kara polite?",Affirming the Consequent,No
+"If Victor is calm, then Uma is brave. Uma is brave. Is Victor calm?",Affirming the Consequent,No
+"If Rita is honest, then Nina is lazy. Nina is lazy. Is Rita honest?",Affirming the Consequent,No
+"If Jack is proud, then Yara is polite. Yara is polite. Is Jack proud?",Affirming the Consequent,No
+"If Leo is proud, then Hank is clever. Hank is clever. Is Leo proud?",Affirming the Consequent,No
+"If Tina is lazy, then Zane is proud. Zane is proud. Is Tina lazy?",Affirming the Consequent,No
+"If Zane is sad, then Charlie is gentle. Charlie is gentle. Is Zane sad?",Affirming the Consequent,No
+"If Alice is clever, then Yara is honest. Yara is honest. Is Alice clever?",Affirming the Consequent,No
+"If Paul is angry, then Alice is gentle. Alice is gentle. Is Paul angry?",Affirming the Consequent,No
+"If Ivy is polite, then Quinn is angry. Quinn is angry. Is Ivy polite?",Affirming the Consequent,No
+"If Eve is kind, then Uma is smart. Uma is smart. Is Eve kind?",Affirming the Consequent,No
+"If Mona is clever, then Jack is kind. Jack is kind. Is Mona clever?",Affirming the Consequent,No
+"If Kara is gentle, then Oscar is honest. Oscar is honest. Is Kara gentle?",Affirming the Consequent,No
+"If Xander is sad, then Grace is calm. Grace is calm. Is Xander sad?",Affirming the Consequent,No
+"If Uma is smart, then Sam is proud. Sam is proud. Is Uma smart?",Affirming the Consequent,No
+"If Wendy is gentle, then Oscar is loud. Oscar is loud. Is Wendy gentle?",Affirming the Consequent,No
+"If Hank is honest, then Rita is shy. Rita is shy. Is Hank honest?",Affirming the Consequent,No
+"If Wendy is happy, then Tina is smart. Tina is smart. Is Wendy happy?",Affirming the Consequent,No
+"If Kara is sad, then Zane is angry. Zane is angry. Is Kara sad?",Affirming the Consequent,No
+"If Frank is calm, then Oscar is gentle. Oscar is gentle. Is Frank calm?",Affirming the Consequent,No
+"If Bob is quiet, then Nina is angry. Nina is angry. Is Bob quiet?",Affirming the Consequent,No
+"If Yara is polite, then Wendy is kind. Wendy is kind. Is Yara polite?",Affirming the Consequent,No
+"If Paul is lazy, then Bob is curious. Bob is curious. Is Paul lazy?",Affirming the Consequent,No
+"If Eve is sad, then Alice is polite. Alice is polite. Is Eve sad?",Affirming the Consequent,No
+"If Ivy is clever, then Mona is proud. Mona is proud. Is Ivy clever?",Affirming the Consequent,No
+"If Oscar is honest, then Bob is rude. Bob is rude. Is Oscar honest?",Affirming the Consequent,No
+"If Victor is happy, then Wendy is gentle. Wendy is gentle. Is Victor happy?",Affirming the Consequent,No
+"If Oscar is sad, then Diana is clever. Diana is clever. Is Oscar sad?",Affirming the Consequent,No
+"If Kara is angry, then Uma is tall. Uma is tall. Is Kara angry?",Affirming the Consequent,No
+"If Mona is kind, then Frank is brave. Frank is brave. Is Mona kind?",Affirming the Consequent,No
+"If Frank is tall, then Bob is short. Bob is short. Is Frank tall?",Affirming the Consequent,No
+"If Grace is smart, then Tina is quiet. Tina is quiet. Is Grace smart?",Affirming the Consequent,No
+"If Sam is honest, then Frank is clever. Frank is clever. Is Sam honest?",Affirming the Consequent,No
+"If Jack is smart, then Ivy is lazy. Ivy is lazy. Is Jack smart?",Affirming the Consequent,No
+"If Paul is curious, then Charlie is angry. Charlie is angry. Is Paul curious?",Affirming the Consequent,No
+"If Zane is short, then Frank is shy. Frank is shy. Is Zane short?",Affirming the Consequent,No
+"If Rita is short, then Uma is curious. Uma is curious. Is Rita short?",Affirming the Consequent,No
+"If Nina is clever, then Sam is calm. Sam is calm. Is Nina clever?",Affirming the Consequent,No
+"If Eve is angry, then Hank is calm. Hank is calm. Is Eve angry?",Affirming the Consequent,No
+"If Eve is clever, then Hank is shy. Hank is shy. Is Eve clever?",Affirming the Consequent,No
+"If Ivy is shy, then Bob is angry. Bob is angry. Is Ivy shy?",Affirming the Consequent,No
+"If Kara is quiet, then Nina is loud. Nina is loud. Is Kara quiet?",Affirming the Consequent,No
+"If Wendy is honest, then Bob is quiet. Bob is quiet. Is Wendy honest?",Affirming the Consequent,No
+"If Victor is clever, then Xander is sad. Xander is sad. Is Victor clever?",Affirming the Consequent,No
+"If Tina is smart, then Eve is loud. Eve is loud. Is Tina smart?",Affirming the Consequent,No
+"If Bob is polite, then Quinn is happy. Quinn is happy. Is Bob polite?",Affirming the Consequent,No
+"If Alice is calm, then Tina is angry. Tina is angry. Is Alice calm?",Affirming the Consequent,No
+"If Yara is loud, then Quinn is calm. Quinn is calm. Is Yara loud?",Affirming the Consequent,No
+"If Uma is shy, then Oscar is gentle. Oscar is gentle. Is Uma shy?",Affirming the Consequent,No
+"If Diana is rude, then Kara is shy. Kara is shy. Is Diana rude?",Affirming the Consequent,No
+"If Xander is honest, then Sam is gentle. Sam is gentle. Is Xander honest?",Affirming the Consequent,No
+"If Victor is curious, then Rita is honest. Rita is honest. Is Victor curious?",Affirming the Consequent,No
+"If Grace is quiet, then Frank is polite. Frank is polite. Is Grace quiet?",Affirming the Consequent,No
+"If Grace is loud, then Nina is smart. Nina is smart. Is Grace loud?",Affirming the Consequent,No
+"If Eve is honest, then Zane is clever. Zane is clever. Is Eve honest?",Affirming the Consequent,No
+"If Tina is shy, then Jack is angry. Jack is angry. Is Tina shy?",Affirming the Consequent,No
+"If Charlie is sad, then Zane is honest. Zane is honest. Is Charlie sad?",Affirming the Consequent,No
+"If Paul is polite, then Ivy is short. Ivy is short. Is Paul polite?",Affirming the Consequent,No
+"If Paul is curious, then Jack is smart. Jack is smart. Is Paul curious?",Affirming the Consequent,No
+"If Hank is rude, then Oscar is proud. Oscar is proud. Is Hank rude?",Affirming the Consequent,No
+"If Eve is loud, then Quinn is sad. Quinn is sad. Is Eve loud?",Affirming the Consequent,No
+"If Uma is angry, then Leo is kind. Leo is kind. Is Uma angry?",Affirming the Consequent,No
+"If Ivy is happy, then Charlie is curious. Charlie is curious. Is Ivy happy?",Affirming the Consequent,No
+"If Charlie is rude, then Nina is clever. Nina is clever. Is Charlie rude?",Affirming the Consequent,No
+"If Grace is sad, then Jack is curious. Jack is curious. Is Grace sad?",Affirming the Consequent,No
+"If Mona is loud, then Diana is sad. Diana is sad. Is Mona loud?",Affirming the Consequent,No
+"If Rita is quiet, then Eve is loud. Eve is loud. Is Rita quiet?",Affirming the Consequent,No
+"If Yara is calm, then Paul is short. Paul is short. Is Yara calm?",Affirming the Consequent,No
+"If Eve is short, then Victor is angry. Victor is angry. Is Eve short?",Affirming the Consequent,No
+"If Paul is proud, then Kara is sad. Kara is sad. Is Paul proud?",Affirming the Consequent,No
+"If Tina is proud, then Wendy is kind. Wendy is kind. Is Tina proud?",Affirming the Consequent,No
+"If Hank is rude, then Xander is lazy. Xander is lazy. Is Hank rude?",Affirming the Consequent,No
+"If Sam is honest, then Leo is shy. Leo is shy. Is Sam honest?",Affirming the Consequent,No
+"If Mona is gentle, then Ivy is short. Mona is not gentle. Is Ivy not short?",Denying the Antecedent,No
+"If Rita is sad, then Wendy is smart. Rita is not sad. Is Wendy not smart?",Denying the Antecedent,No
+"If Zane is brave, then Oscar is shy. Zane is not brave. Is Oscar not shy?",Denying the Antecedent,No
+"If Kara is lazy, then Rita is angry. Kara is not lazy. Is Rita not angry?",Denying the Antecedent,No
+"If Grace is angry, then Paul is smart. Grace is not angry. Is Paul not smart?",Denying the Antecedent,No
+"If Ivy is short, then Charlie is angry. Ivy is not short. Is Charlie not angry?",Denying the Antecedent,No
+"If Hank is gentle, then Xander is angry. Hank is not gentle. Is Xander not angry?",Denying the Antecedent,No
+"If Alice is brave, then Nina is tall. Alice is not brave. Is Nina not tall?",Denying the Antecedent,No
+"If Grace is gentle, then Jack is tall. Grace is not gentle. Is Jack not tall?",Denying the Antecedent,No
+"If Oscar is tall, then Uma is happy. Oscar is not tall. Is Uma not happy?",Denying the Antecedent,No
+"If Yara is rude, then Rita is happy. Yara is not rude. Is Rita not happy?",Denying the Antecedent,No
+"If Bob is angry, then Leo is quiet. Bob is not angry. Is Leo not quiet?",Denying the Antecedent,No
+"If Xander is angry, then Rita is proud. Xander is not angry. Is Rita not proud?",Denying the Antecedent,No
+"If Paul is quiet, then Alice is loud. Paul is not quiet. Is Alice not loud?",Denying the Antecedent,No
+"If Zane is gentle, then Tina is kind. Zane is not gentle. Is Tina not kind?",Denying the Antecedent,No
+"If Kara is honest, then Oscar is short. Kara is not honest. Is Oscar not short?",Denying the Antecedent,No
+"If Sam is kind, then Hank is short. Sam is not kind. Is Hank not short?",Denying the Antecedent,No
+"If Yara is quiet, then Bob is calm. Yara is not quiet. Is Bob not calm?",Denying the Antecedent,No
+"If Oscar is polite, then Eve is happy. Oscar is not polite. Is Eve not happy?",Denying the Antecedent,No
+"If Ivy is loud, then Rita is clever. Ivy is not loud. Is Rita not clever?",Denying the Antecedent,No
+"If Eve is short, then Sam is kind. Eve is not short. Is Sam not kind?",Denying the Antecedent,No
+"If Paul is polite, then Tina is rude. Paul is not polite. Is Tina not rude?",Denying the Antecedent,No
+"If Jack is curious, then Alice is quiet. Jack is not curious. Is Alice not quiet?",Denying the Antecedent,No
+"If Tina is gentle, then Zane is lazy. Tina is not gentle. Is Zane not lazy?",Denying the Antecedent,No
+"If Sam is lazy, then Zane is polite. Sam is not lazy. Is Zane not polite?",Denying the Antecedent,No
+"If Tina is shy, then Uma is short. Tina is not shy. Is Uma not short?",Denying the Antecedent,No
+"If Oscar is gentle, then Hank is curious. Oscar is not gentle. Is Hank not curious?",Denying the Antecedent,No
+"If Charlie is clever, then Quinn is gentle. Charlie is not clever. Is Quinn not gentle?",Denying the Antecedent,No
+"If Eve is smart, then Tina is short. Eve is not smart. Is Tina not short?",Denying the Antecedent,No
+"If Xander is gentle, then Paul is tall. Xander is not gentle. Is Paul not tall?",Denying the Antecedent,No
+"If Alice is tall, then Victor is shy. Alice is not tall. Is Victor not shy?",Denying the Antecedent,No
+"If Sam is loud, then Xander is happy. Sam is not loud. Is Xander not happy?",Denying the Antecedent,No
+"If Quinn is honest, then Frank is loud. Quinn is not honest. Is Frank not loud?",Denying the Antecedent,No
+"If Hank is proud, then Wendy is polite. Hank is not proud. Is Wendy not polite?",Denying the Antecedent,No
+"If Kara is clever, then Wendy is curious. Kara is not clever. Is Wendy not curious?",Denying the Antecedent,No
+"If Sam is honest, then Tina is polite. Sam is not honest. Is Tina not polite?",Denying the Antecedent,No
+"If Wendy is tall, then Rita is rude. Wendy is not tall. Is Rita not rude?",Denying the Antecedent,No
+"If Zane is kind, then Kara is proud. Zane is not kind. Is Kara not proud?",Denying the Antecedent,No
+"If Eve is loud, then Nina is smart. Eve is not loud. Is Nina not smart?",Denying the Antecedent,No
+"If Yara is curious, then Charlie is shy. Yara is not curious. Is Charlie not shy?",Denying the Antecedent,No
+"If Nina is quiet, then Leo is honest. Nina is not quiet. Is Leo not honest?",Denying the Antecedent,No
+"If Tina is lazy, then Sam is proud. Tina is not lazy. Is Sam not proud?",Denying the Antecedent,No
+"If Paul is proud, then Hank is angry. Paul is not proud. Is Hank not angry?",Denying the Antecedent,No
+"If Nina is tall, then Charlie is happy. Nina is not tall. Is Charlie not happy?",Denying the Antecedent,No
+"If Nina is rude, then Zane is kind. Nina is not rude. Is Zane not kind?",Denying the Antecedent,No
+"If Paul is angry, then Nina is lazy. Paul is not angry. Is Nina not lazy?",Denying the Antecedent,No
+"If Charlie is angry, then Leo is clever. Charlie is not angry. Is Leo not clever?",Denying the Antecedent,No
+"If Kara is brave, then Victor is curious. Kara is not brave. Is Victor not curious?",Denying the Antecedent,No
+"If Alice is loud, then Ivy is calm. Alice is not loud. Is Ivy not calm?",Denying the Antecedent,No
+"If Quinn is proud, then Rita is smart. Quinn is not proud. Is Rita not smart?",Denying the Antecedent,No
+"If Frank is happy, then Kara is curious. Frank is not happy. Is Kara not curious?",Denying the Antecedent,No
+"If Quinn is happy, then Hank is proud. Quinn is not happy. Is Hank not proud?",Denying the Antecedent,No
+"If Xander is kind, then Tina is lazy. Xander is not kind. Is Tina not lazy?",Denying the Antecedent,No
+"If Kara is short, then Alice is lazy. Kara is not short. Is Alice not lazy?",Denying the Antecedent,No
+"If Yara is angry, then Oscar is tall. Yara is not angry. Is Oscar not tall?",Denying the Antecedent,No
+"If Mona is tall, then Tina is rude. Mona is not tall. Is Tina not rude?",Denying the Antecedent,No
+"If Uma is brave, then Victor is calm. Uma is not brave. Is Victor not calm?",Denying the Antecedent,No
+"If Uma is sad, then Tina is tall. Uma is not sad. Is Tina not tall?",Denying the Antecedent,No
+"If Mona is curious, then Victor is polite. Mona is not curious. Is Victor not polite?",Denying the Antecedent,No
+"If Charlie is kind, then Victor is calm. Charlie is not kind. Is Victor not calm?",Denying the Antecedent,No
+"If Grace is lazy, then Hank is curious. Grace is not lazy. Is Hank not curious?",Denying the Antecedent,No
+"If Leo is smart, then Rita is angry. Leo is not smart. Is Rita not angry?",Denying the Antecedent,No
+"If Yara is shy, then Paul is calm. Yara is not shy. Is Paul not calm?",Denying the Antecedent,No
+"If Victor is short, then Ivy is clever. Victor is not short. Is Ivy not clever?",Denying the Antecedent,No
+"If Frank is short, then Diana is curious. Frank is not short. Is Diana not curious?",Denying the Antecedent,No
+"If Uma is clever, then Grace is brave. Uma is not clever. Is Grace not brave?",Denying the Antecedent,No
+"If Ivy is tall, then Rita is kind. Ivy is not tall. Is Rita not kind?",Denying the Antecedent,No
+"If Xander is shy, then Victor is angry. Xander is not shy. Is Victor not angry?",Denying the Antecedent,No
+"If Kara is calm, then Alice is happy. Kara is not calm. Is Alice not happy?",Denying the Antecedent,No
+"If Frank is clever, then Rita is tall. Frank is not clever. Is Rita not tall?",Denying the Antecedent,No
+"If Frank is curious, then Bob is tall. Frank is not curious. Is Bob not tall?",Denying the Antecedent,No
+"If Charlie is lazy, then Nina is honest. Charlie is not lazy. Is Nina not honest?",Denying the Antecedent,No
+"If Diana is curious, then Eve is quiet. Diana is not curious. Is Eve not quiet?",Denying the Antecedent,No
+"If Rita is quiet, then Xander is clever. Rita is not quiet. Is Xander not clever?",Denying the Antecedent,No
+"If Xander is shy, then Frank is brave. Xander is not shy. Is Frank not brave?",Denying the Antecedent,No
+"If Rita is brave, then Oscar is kind. Rita is not brave. Is Oscar not kind?",Denying the Antecedent,No
+"If Oscar is smart, then Uma is lazy. Oscar is not smart. Is Uma not lazy?",Denying the Antecedent,No
+"If Tina is tall, then Ivy is sad. Tina is not tall. Is Ivy not sad?",Denying the Antecedent,No
+"If Uma is lazy, then Xander is brave. Uma is not lazy. Is Xander not brave?",Denying the Antecedent,No
+"If Jack is kind, then Sam is polite. Jack is not kind. Is Sam not polite?",Denying the Antecedent,No
+"If Grace is brave, then Leo is kind. Grace is not brave. Is Leo not kind?",Denying the Antecedent,No
+"If Charlie is shy, then Paul is lazy. Charlie is not shy. Is Paul not lazy?",Denying the Antecedent,No
+"If Xander is tall, then Zane is polite. Xander is not tall. Is Zane not polite?",Denying the Antecedent,No
+"If Paul is curious, then Tina is brave. Paul is not curious. Is Tina not brave?",Denying the Antecedent,No
+"If Yara is honest, then Uma is shy. Yara is not honest. Is Uma not shy?",Denying the Antecedent,No
+"If Diana is angry, then Tina is gentle. Diana is not angry. Is Tina not gentle?",Denying the Antecedent,No
+"If Zane is happy, then Alice is brave. Zane is not happy. Is Alice not brave?",Denying the Antecedent,No
+"If Tina is smart, then Mona is calm. Tina is not smart. Is Mona not calm?",Denying the Antecedent,No
+"If Leo is honest, then Hank is kind. Leo is not honest. Is Hank not kind?",Denying the Antecedent,No
+"If Oscar is clever, then Nina is shy. Oscar is not clever. Is Nina not shy?",Denying the Antecedent,No
+"If Frank is gentle, then Paul is curious. Frank is not gentle. Is Paul not curious?",Denying the Antecedent,No
+"If Grace is curious, then Wendy is kind. Grace is not curious. Is Wendy not kind?",Denying the Antecedent,No
+"If Eve is smart, then Paul is quiet. Eve is not smart. Is Paul not quiet?",Denying the Antecedent,No
+"If Bob is tall, then Diana is rude. Bob is not tall. Is Diana not rude?",Denying the Antecedent,No
+"If Xander is angry, then Hank is proud. Xander is not angry. Is Hank not proud?",Denying the Antecedent,No
+"If Diana is polite, then Charlie is tall. Diana is not polite. Is Charlie not tall?",Denying the Antecedent,No
+"If Tina is quiet, then Frank is kind. Tina is not quiet. Is Frank not kind?",Denying the Antecedent,No
+"If Xander is gentle, then Kara is smart. Xander is not gentle. Is Kara not smart?",Denying the Antecedent,No
+"If Alice is angry, then Bob is polite. Alice is not angry. Is Bob not polite?",Denying the Antecedent,No
+"If Tina is polite, then Zane is clever. Tina is not polite. Is Zane not clever?",Denying the Antecedent,No
+"If Uma is brave, then Grace is sad. Uma is not brave. Is Grace not sad?",Denying the Antecedent,No
+"If Yara is calm, then Mona is short. Yara is not calm. Is Mona not short?",Denying the Antecedent,No
+"If Leo is tall, then Diana is short. Leo is not tall. Is Diana not short?",Denying the Antecedent,No
+"If Victor is angry, then Frank is honest. Victor is not angry. Is Frank not honest?",Denying the Antecedent,No
+"If Uma is kind, then Charlie is brave. Uma is not kind. Is Charlie not brave?",Denying the Antecedent,No
+"If Xander is gentle, then Hank is short. Xander is not gentle. Is Hank not short?",Denying the Antecedent,No
+"If Quinn is loud, then Paul is shy. Quinn is not loud. Is Paul not shy?",Denying the Antecedent,No
+"If Frank is angry, then Eve is rude. Frank is not angry. Is Eve not rude?",Denying the Antecedent,No
+"If Uma is quiet, then Jack is tall. Uma is not quiet. Is Jack not tall?",Denying the Antecedent,No
+"If Yara is loud, then Alice is calm. Yara is not loud. Is Alice not calm?",Denying the Antecedent,No
+"If Diana is gentle, then Victor is polite. Diana is not gentle. Is Victor not polite?",Denying the Antecedent,No
+"If Ivy is honest, then Kara is lazy. Ivy is not honest. Is Kara not lazy?",Denying the Antecedent,No
+"If Kara is quiet, then Quinn is brave. Kara is not quiet. Is Quinn not brave?",Denying the Antecedent,No
+"If Diana is lazy, then Victor is angry. Diana is not lazy. Is Victor not angry?",Denying the Antecedent,No
+"If Xander is polite, then Ivy is brave. Xander is not polite. Is Ivy not brave?",Denying the Antecedent,No
+"If Jack is tall, then Bob is angry. Jack is not tall. Is Bob not angry?",Denying the Antecedent,No
+"If Sam is polite, then Charlie is honest. Sam is not polite. Is Charlie not honest?",Denying the Antecedent,No
+"If Oscar is quiet, then Grace is polite. Oscar is not quiet. Is Grace not polite?",Denying the Antecedent,No
+"If Nina is polite, then Uma is clever. Nina is not polite. Is Uma not clever?",Denying the Antecedent,No
+"If Ivy is kind, then Zane is calm. Ivy is not kind. Is Zane not calm?",Denying the Antecedent,No
+"If Xander is rude, then Jack is happy. Xander is not rude. Is Jack not happy?",Denying the Antecedent,No
+"If Leo is angry, then Charlie is rude. Leo is not angry. Is Charlie not rude?",Denying the Antecedent,No
+"If Ivy is curious, then Hank is loud. Ivy is not curious. Is Hank not loud?",Denying the Antecedent,No
+"If Diana is smart, then Victor is tall. Diana is not smart. Is Victor not tall?",Denying the Antecedent,No
+"If Mona is rude, then Grace is tall. Mona is not rude. Is Grace not tall?",Denying the Antecedent,No
+"If Xander is loud, then Frank is brave. Xander is not loud. Is Frank not brave?",Denying the Antecedent,No
+"If Oscar is lazy, then Charlie is loud. Oscar is not lazy. Is Charlie not loud?",Denying the Antecedent,No
+"If Rita is short, then Charlie is sad. Rita is not short. Is Charlie not sad?",Denying the Antecedent,No
+"If Yara is angry, then Quinn is proud. Yara is not angry. Is Quinn not proud?",Denying the Antecedent,No
+"If Nina is clever, then Oscar is kind. Nina is not clever. Is Oscar not kind?",Denying the Antecedent,No
+"If Hank is happy, then Sam is sad. Hank is not happy. Is Sam not sad?",Denying the Antecedent,No
+"If Sam is brave, then Rita is curious. Sam is not brave. Is Rita not curious?",Denying the Antecedent,No
+"If Bob is shy, then Ivy is short. Bob is not shy. Is Ivy not short?",Denying the Antecedent,No
+"If Oscar is sad, then Nina is kind. Oscar is not sad. Is Nina not kind?",Denying the Antecedent,No
+"If Grace is quiet, then Xander is polite. Grace is not quiet. Is Xander not polite?",Denying the Antecedent,No
+"If Kara is rude, then Frank is polite. Kara is not rude. Is Frank not polite?",Denying the Antecedent,No
+"If Uma is loud, then Bob is honest. Uma is not loud. Is Bob not honest?",Denying the Antecedent,No
+"If Eve is happy, then Uma is polite. Eve is not happy. Is Uma not polite?",Denying the Antecedent,No
+"If Bob is kind, then Alice is brave. Bob is not kind. Is Alice not brave?",Denying the Antecedent,No
+"If Sam is short, then Eve is curious. Sam is not short. Is Eve not curious?",Denying the Antecedent,No
+"If Quinn is loud, then Jack is clever. Quinn is not loud. Is Jack not clever?",Denying the Antecedent,No
+"If Ivy is curious, then Tina is shy. Ivy is not curious. Is Tina not shy?",Denying the Antecedent,No
+"If Bob is loud, then Diana is lazy. Bob is not loud. Is Diana not lazy?",Denying the Antecedent,No
+"If Zane is gentle, then Kara is curious. Zane is not gentle. Is Kara not curious?",Denying the Antecedent,No
+"If Grace is angry, then Kara is sad. Grace is not angry. Is Kara not sad?",Denying the Antecedent,No
+"If Grace is curious, then Sam is happy. Grace is not curious. Is Sam not happy?",Denying the Antecedent,No
+"If Rita is angry, then Xander is happy. Rita is not angry. Is Xander not happy?",Denying the Antecedent,No
+"If Frank is brave, then Grace is happy. Frank is not brave. Is Grace not happy?",Denying the Antecedent,No
+"If Hank is polite, then Leo is gentle. Hank is not polite. Is Leo not gentle?",Denying the Antecedent,No
+"If Uma is kind, then Tina is polite. Uma is not kind. Is Tina not polite?",Denying the Antecedent,No
+"If Tina is shy, then Paul is angry. Tina is not shy. Is Paul not angry?",Denying the Antecedent,No
+"If Mona is calm, then Uma is proud. Mona is not calm. Is Uma not proud?",Denying the Antecedent,No
+"If Diana is sad, then Kara is loud. Diana is not sad. Is Kara not loud?",Denying the Antecedent,No
+"If Uma is gentle, then Kara is brave. Uma is not gentle. Is Kara not brave?",Denying the Antecedent,No
+"If Xander is lazy, then Grace is shy. Xander is not lazy. Is Grace not shy?",Denying the Antecedent,No
+"If Nina is curious, then Yara is happy. Nina is not curious. Is Yara not happy?",Denying the Antecedent,No
+"If Mona is lazy, then Quinn is quiet. Mona is not lazy. Is Quinn not quiet?",Denying the Antecedent,No
+"If Diana is smart, then Uma is tall. Diana is not smart. Is Uma not tall?",Denying the Antecedent,No
+"If Wendy is loud, then Rita is shy. Wendy is not loud. Is Rita not shy?",Denying the Antecedent,No
+"If Diana is clever, then Yara is sad. Diana is not clever. Is Yara not sad?",Denying the Antecedent,No
+"If Zane is lazy, then Kara is shy. Zane is not lazy. Is Kara not shy?",Denying the Antecedent,No
+"If Jack is honest, then Grace is polite. Jack is not honest. Is Grace not polite?",Denying the Antecedent,No
+"If Jack is proud, then Alice is smart. Jack is not proud. Is Alice not smart?",Denying the Antecedent,No
+"If Rita is clever, then Bob is curious. Rita is not clever. Is Bob not curious?",Denying the Antecedent,No
+"If Wendy is sad, then Jack is tall. Wendy is not sad. Is Jack not tall?",Denying the Antecedent,No
+"If Xander is quiet, then Yara is clever. Xander is not quiet. Is Yara not clever?",Denying the Antecedent,No
+"If Charlie is loud, then Oscar is lazy. Charlie is not loud. Is Oscar not lazy?",Denying the Antecedent,No
+"If Zane is sad, then Tina is polite. Zane is not sad. Is Tina not polite?",Denying the Antecedent,No
+"If Nina is loud, then Xander is short. Nina is not loud. Is Xander not short?",Denying the Antecedent,No
+"If Mona is sad, then Diana is calm. Mona is not sad. Is Diana not calm?",Denying the Antecedent,No
+"If Eve is angry, then Xander is calm. Eve is not angry. Is Xander not calm?",Denying the Antecedent,No
+"If Charlie is calm, then Diana is honest. Charlie is not calm. Is Diana not honest?",Denying the Antecedent,No
+"If Uma is rude, then Tina is quiet. Uma is not rude. Is Tina not quiet?",Denying the Antecedent,No
+"If Rita is shy, then Sam is polite. Rita is not shy. Is Sam not polite?",Denying the Antecedent,No
+"If Paul is honest, then Frank is shy. Paul is not honest. Is Frank not shy?",Denying the Antecedent,No
+"If Leo is quiet, then Oscar is clever. Leo is not quiet. Is Oscar not clever?",Denying the Antecedent,No
+"If Hank is quiet, then Leo is rude. Hank is not quiet. Is Leo not rude?",Denying the Antecedent,No
+"If Quinn is kind, then Xander is tall. Quinn is not kind. Is Xander not tall?",Denying the Antecedent,No
+"If Oscar is honest, then Eve is shy. Oscar is not honest. Is Eve not shy?",Denying the Antecedent,No
+"If Eve is rude, then Mona is shy. Eve is not rude. Is Mona not shy?",Denying the Antecedent,No
+"If Charlie is brave, then Diana is smart. Charlie is not brave. Is Diana not smart?",Denying the Antecedent,No
+"If Frank is happy, then Victor is gentle. Frank is not happy. Is Victor not gentle?",Denying the Antecedent,No
+"If Wendy is short, then Diana is angry. Wendy is not short. Is Diana not angry?",Denying the Antecedent,No
+"If Paul is angry, then Yara is sad. Paul is not angry. Is Yara not sad?",Denying the Antecedent,No
+"If Tina is short, then Frank is smart. Tina is not short. Is Frank not smart?",Denying the Antecedent,No
+"If Nina is polite, then Xander is shy. Nina is not polite. Is Xander not shy?",Denying the Antecedent,No
+"If Frank is kind, then Tina is polite. Frank is not kind. Is Tina not polite?",Denying the Antecedent,No
+"If Jack is loud, then Charlie is calm. Jack is not loud. Is Charlie not calm?",Denying the Antecedent,No
+"If Victor is tall, then Diana is curious. Victor is not tall. Is Diana not curious?",Denying the Antecedent,No
+"If Hank is short, then Xander is calm. Hank is not short. Is Xander not calm?",Denying the Antecedent,No
+"If Ivy is quiet, then Charlie is brave. Ivy is not quiet. Is Charlie not brave?",Denying the Antecedent,No
+"If Frank is brave, then Yara is shy. Frank is not brave. Is Yara not shy?",Denying the Antecedent,No
+"If Xander is kind, then Yara is sad. Xander is not kind. Is Yara not sad?",Denying the Antecedent,No
+"If Tina is brave, then Paul is honest. Tina is not brave. Is Paul not honest?",Denying the Antecedent,No
+"If Mona is loud, then Hank is gentle. Mona is not loud. Is Hank not gentle?",Denying the Antecedent,No
+"If Paul is curious, then Xander is kind. Paul is not curious. Is Xander not kind?",Denying the Antecedent,No
+"If Alice is honest, then Frank is smart. Alice is not honest. Is Frank not smart?",Denying the Antecedent,No
+"If Alice is brave, then Diana is smart. Alice is not brave. Is Diana not smart?",Denying the Antecedent,No
+"If Quinn is kind, then Wendy is polite. Quinn is not kind. Is Wendy not polite?",Denying the Antecedent,No
+"If Wendy is loud, then Diana is polite. Wendy is not loud. Is Diana not polite?",Denying the Antecedent,No
+"If Jack is proud, then Kara is loud. Jack is not proud. Is Kara not loud?",Denying the Antecedent,No
+"If Xander is tall, then Nina is short. Xander is not tall. Is Nina not short?",Denying the Antecedent,No
+"If Diana is happy, then Sam is loud. Diana is not happy. Is Sam not loud?",Denying the Antecedent,No
+"If Mona is calm, then Diana is shy. Mona is not calm. Is Diana not shy?",Denying the Antecedent,No
+"If Uma is rude, then Oscar is quiet. Uma is not rude. Is Oscar not quiet?",Denying the Antecedent,No
+"If Mona is kind, then Bob is clever. Mona is not kind. Is Bob not clever?",Denying the Antecedent,No
+"If Kara is calm, then Quinn is rude. Kara is not calm. Is Quinn not rude?",Denying the Antecedent,No
+"If Uma is angry, then Mona is gentle. Uma is not angry. Is Mona not gentle?",Denying the Antecedent,No
+"If Jack is curious, then Sam is kind. Jack is not curious. Is Sam not kind?",Denying the Antecedent,No
+"If Jack is happy, then Alice is lazy. Jack is not happy. Is Alice not lazy?",Denying the Antecedent,No
+"If Grace is happy, then Alice is angry. Grace is not happy. Is Alice not angry?",Denying the Antecedent,No
+"If Hank is shy, then Uma is calm. Hank is not shy. Is Uma not calm?",Denying the Antecedent,No
+"If Jack is lazy, then Leo is tall. Jack is not lazy. Is Leo not tall?",Denying the Antecedent,No
+"If Eve is kind, then Bob is lazy. Eve is not kind. Is Bob not lazy?",Denying the Antecedent,No
+"If Quinn is smart, then Zane is polite. Quinn is not smart. Is Zane not polite?",Denying the Antecedent,No
+"If Eve is loud, then Nina is brave. Eve is not loud. Is Nina not brave?",Denying the Antecedent,No
+"If Leo is shy, then Quinn is angry. Leo is not shy. Is Quinn not angry?",Denying the Antecedent,No
+"If Frank is clever, then Quinn is loud. Frank is not clever. Is Quinn not loud?",Denying the Antecedent,No
+"If Ivy is honest, then Jack is gentle. Ivy is not honest. Is Jack not gentle?",Denying the Antecedent,No
+"If Paul is happy, then Eve is curious. Paul is not happy. Is Eve not curious?",Denying the Antecedent,No
+"If Zane is smart, then Diana is short. Zane is not smart. Is Diana not short?",Denying the Antecedent,No
+"If Zane is calm, then Victor is gentle. Zane is not calm. Is Victor not gentle?",Denying the Antecedent,No
+"If Yara is shy, then Sam is loud. Yara is not shy. Is Sam not loud?",Denying the Antecedent,No
+"If Zane is polite, then Oscar is angry. Zane is not polite. Is Oscar not angry?",Denying the Antecedent,No
+"If Mona is honest, then Kara is quiet. Mona is not honest. Is Kara not quiet?",Denying the Antecedent,No
+"If Oscar is shy, then Hank is happy. Oscar is not shy. Is Hank not happy?",Denying the Antecedent,No
+"If Frank is loud, then Bob is angry. Frank is not loud. Is Bob not angry?",Denying the Antecedent,No
+"If Hank is tall, then Mona is loud. Hank is not tall. Is Mona not loud?",Denying the Antecedent,No
+"If Quinn is loud, then Bob is honest. Quinn is not loud. Is Bob not honest?",Denying the Antecedent,No
+"If Hank is shy, then Quinn is lazy. Hank is not shy. Is Quinn not lazy?",Denying the Antecedent,No
+"If Rita is rude, then Kara is sad. Rita is not rude. Is Kara not sad?",Denying the Antecedent,No
+"If Diana is gentle, then Nina is calm. Diana is not gentle. Is Nina not calm?",Denying the Antecedent,No
+"If Hank is curious, then Kara is happy. Hank is not curious. Is Kara not happy?",Denying the Antecedent,No
+"If Xander is honest, then Jack is smart. Xander is not honest. Is Jack not smart?",Denying the Antecedent,No
+"If Frank is quiet, then Zane is calm. Frank is not quiet. Is Zane not calm?",Denying the Antecedent,No
+"If Quinn is proud, then Charlie is kind. Quinn is not proud. Is Charlie not kind?",Denying the Antecedent,No
+"If Charlie is gentle, then Quinn is loud. Charlie is not gentle. Is Quinn not loud?",Denying the Antecedent,No
+"If Tina is kind, then Kara is quiet. Tina is not kind. Is Kara not quiet?",Denying the Antecedent,No
+"If Bob is smart, then Zane is brave. Bob is not smart. Is Zane not brave?",Denying the Antecedent,No
+"If Paul is loud, then Alice is gentle. Paul is not loud. Is Alice not gentle?",Denying the Antecedent,No
+"If Wendy is honest, then Sam is calm. Wendy is not honest. Is Sam not calm?",Denying the Antecedent,No
+"If Tina is gentle, then Zane is calm. Tina is not gentle. Is Zane not calm?",Denying the Antecedent,No
+"If Eve is angry, then Jack is rude. Eve is not angry. Is Jack not rude?",Denying the Antecedent,No
+"If Wendy is lazy, then Frank is smart. Wendy is not lazy. Is Frank not smart?",Denying the Antecedent,No
+"If Bob is proud, then Paul is calm. Bob is not proud. Is Paul not calm?",Denying the Antecedent,No
+"If Hank is gentle, then Grace is short. Hank is not gentle. Is Grace not short?",Denying the Antecedent,No
+"If Zane is kind, then Wendy is polite. Zane is not kind. Is Wendy not polite?",Denying the Antecedent,No
+"If Alice is honest, then Eve is proud. Alice is not honest. Is Eve not proud?",Denying the Antecedent,No
+"If Quinn is tall, then Rita is honest. Quinn is not tall. Is Rita not honest?",Denying the Antecedent,No
+"If Eve is shy, then Xander is quiet. Eve is not shy. Is Xander not quiet?",Denying the Antecedent,No
+"If Ivy is happy, then Xander is angry. Ivy is not happy. Is Xander not angry?",Denying the Antecedent,No
+"If Sam is lazy, then Uma is calm. Sam is not lazy. Is Uma not calm?",Denying the Antecedent,No
+"If Leo is rude, then Paul is proud. Leo is not rude. Is Paul not proud?",Denying the Antecedent,No
+"If Bob is quiet, then Charlie is lazy. Bob is not quiet. Is Charlie not lazy?",Denying the Antecedent,No
+"If Rita is polite, then Charlie is calm. Rita is not polite. Is Charlie not calm?",Denying the Antecedent,No
+"If Oscar is quiet, then Alice is polite. Oscar is not quiet. Is Alice not polite?",Denying the Antecedent,No
+"If Frank is rude, then Uma is tall. Frank is not rude. Is Uma not tall?",Denying the Antecedent,No
+"If Eve is brave, then Grace is short. Eve is not brave. Is Grace not short?",Denying the Antecedent,No
+"If Paul is curious, then Alice is calm. Paul is not curious. Is Alice not calm?",Denying the Antecedent,No
+"If Frank is kind, then Yara is angry. Frank is not kind. Is Yara not angry?",Denying the Antecedent,No
+"If Uma is calm, then Rita is smart. Uma is not calm. Is Rita not smart?",Denying the Antecedent,No
+"If Oscar is calm, then Bob is honest. Oscar is not calm. Is Bob not honest?",Denying the Antecedent,No
+"If Uma is lazy, then Zane is calm. Uma is not lazy. Is Zane not calm?",Denying the Antecedent,No
+"If Diana is clever, then Leo is smart. Diana is not clever. Is Leo not smart?",Denying the Antecedent,No
+"If Rita is calm, then Victor is lazy. Rita is not calm. Is Victor not lazy?",Denying the Antecedent,No
+"If Hank is clever, then Oscar is gentle. Hank is not clever. Is Oscar not gentle?",Denying the Antecedent,No
+"If Xander is smart, then Leo is loud. Xander is not smart. Is Leo not loud?",Denying the Antecedent,No
+"If Paul is curious, then Hank is smart. Paul is not curious. Is Hank not smart?",Denying the Antecedent,No
+"If Charlie is short, then Zane is quiet. Charlie is not short. Is Zane not quiet?",Denying the Antecedent,No
+"If Ivy is quiet, then Alice is sad. Ivy is not quiet. Is Alice not sad?",Denying the Antecedent,No
+"If Frank is kind, then Sam is loud. Frank is not kind. Is Sam not loud?",Denying the Antecedent,No
+"If Quinn is rude, then Rita is curious. Quinn is not rude. Is Rita not curious?",Denying the Antecedent,No
+"If Charlie is proud, then Wendy is sad. Charlie is not proud. Is Wendy not sad?",Denying the Antecedent,No
+"If Hank is proud, then Ivy is happy. Hank is not proud. Is Ivy not happy?",Denying the Antecedent,No
+"If Wendy is shy, then Zane is sad. Wendy is not shy. Is Zane not sad?",Denying the Antecedent,No
+"If Mona is polite, then Victor is happy. Mona is not polite. Is Victor not happy?",Denying the Antecedent,No
+"If Uma is loud, then Victor is angry. Uma is not loud. Is Victor not angry?",Denying the Antecedent,No
+"If Charlie is angry, then Zane is brave. Charlie is not angry. Is Zane not brave?",Denying the Antecedent,No
+"If Ivy is clever, then Victor is brave. Ivy is not clever. Is Victor not brave?",Denying the Antecedent,No
+"If Bob is short, then Alice is rude. Bob is not short. Is Alice not rude?",Denying the Antecedent,No
+"If Bob is angry, then Mona is gentle. Bob is not angry. Is Mona not gentle?",Denying the Antecedent,No
+"If Nina is rude, then Eve is honest. Nina is not rude. Is Eve not honest?",Denying the Antecedent,No
+"If Mona is sad, then Wendy is curious. Mona is not sad. Is Wendy not curious?",Denying the Antecedent,No
+"If Leo is tall, then Quinn is rude. Leo is not tall. Is Quinn not rude?",Denying the Antecedent,No
+"If Uma is brave, then Rita is smart. Uma is not brave. Is Rita not smart?",Denying the Antecedent,No
+"If Oscar is loud, then Sam is honest. Oscar is not loud. Is Sam not honest?",Denying the Antecedent,No
+"If Rita is loud, then Hank is clever. Rita is not loud. Is Hank not clever?",Denying the Antecedent,No
+"If Victor is honest, then Nina is calm. Victor is not honest. Is Nina not calm?",Denying the Antecedent,No
+"If Victor is sad, then Yara is calm. Victor is not sad. Is Yara not calm?",Denying the Antecedent,No
+"If Eve is calm, then Rita is lazy. Eve is not calm. Is Rita not lazy?",Denying the Antecedent,No
+"If Ivy is shy, then Tina is angry. Ivy is not shy. Is Tina not angry?",Denying the Antecedent,No
+"If Paul is proud, then Charlie is tall. Paul is not proud. Is Charlie not tall?",Denying the Antecedent,No
+"If Zane is happy, then Eve is clever. Zane is not happy. Is Eve not clever?",Denying the Antecedent,No
+"If Jack is rude, then Rita is honest. Jack is not rude. Is Rita not honest?",Denying the Antecedent,No
+"If Bob is angry, then Wendy is happy. Bob is not angry. Is Wendy not happy?",Denying the Antecedent,No
+"If Grace is rude, then Leo is short. Grace is not rude. Is Leo not short?",Denying the Antecedent,No
+"If Mona is polite, then Xander is happy. Mona is not polite. Is Xander not happy?",Denying the Antecedent,No
+"If Nina is brave, then Quinn is short. Nina is not brave. Is Quinn not short?",Denying the Antecedent,No
+"If Uma is gentle, then Yara is polite. Uma is not gentle. Is Yara not polite?",Denying the Antecedent,No
+"If Eve is quiet, then Rita is smart. Eve is not quiet. Is Rita not smart?",Denying the Antecedent,No
+"If Bob is smart, then Grace is honest. Bob is not smart. Is Grace not honest?",Denying the Antecedent,No
+"If Kara is kind, then Charlie is rude. Kara is not kind. Is Charlie not rude?",Denying the Antecedent,No
+"If Leo is proud, then Victor is calm. Leo is not proud. Is Victor not calm?",Denying the Antecedent,No
+"If Kara is tall, then Bob is polite. Kara is not tall. Is Bob not polite?",Denying the Antecedent,No
+"If Oscar is proud, then Rita is rude. Oscar is not proud. Is Rita not rude?",Denying the Antecedent,No
+"If Wendy is loud, then Tina is curious. Wendy is not loud. Is Tina not curious?",Denying the Antecedent,No
+"If Charlie is short, then Diana is lazy. Charlie is not short. Is Diana not lazy?",Denying the Antecedent,No
+"If Nina is kind, then Victor is quiet. Nina is not kind. Is Victor not quiet?",Denying the Antecedent,No
+"If Charlie is honest, then Diana is rude. Charlie is not honest. Is Diana not rude?",Denying the Antecedent,No
+"If Tina is brave, then Rita is quiet. Tina is not brave. Is Rita not quiet?",Denying the Antecedent,No
+"If Diana is happy, then Wendy is rude. Diana is not happy. Is Wendy not rude?",Denying the Antecedent,No
+"If Paul is lazy, then Diana is quiet. Paul is not lazy. Is Diana not quiet?",Denying the Antecedent,No
+"If Nina is short, then Zane is calm. Nina is not short. Is Zane not calm?",Denying the Antecedent,No
+"If Hank is clever, then Quinn is proud. Hank is not clever. Is Quinn not proud?",Denying the Antecedent,No
+"If Xander is tall, then Leo is happy. Xander is not tall. Is Leo not happy?",Denying the Antecedent,No
+"If Hank is kind, then Victor is curious. Hank is not kind. Is Victor not curious?",Denying the Antecedent,No
+"If Leo is gentle, then Mona is rude. Leo is not gentle. Is Mona not rude?",Denying the Antecedent,No
+"If Charlie is tall, then Mona is polite. Charlie is not tall. Is Mona not polite?",Denying the Antecedent,No
+"If Rita is shy, then Zane is kind. Rita is not shy. Is Zane not kind?",Denying the Antecedent,No
+"If Wendy is smart, then Eve is gentle. Wendy is not smart. Is Eve not gentle?",Denying the Antecedent,No
+"If Frank is honest, then Zane is proud. Frank is not honest. Is Zane not proud?",Denying the Antecedent,No
+"If Kara is polite, then Diana is lazy. Kara is not polite. Is Diana not lazy?",Denying the Antecedent,No
+"If Uma is rude, then Mona is quiet. Uma is not rude. Is Mona not quiet?",Denying the Antecedent,No
+"If Grace is lazy, then Quinn is smart. Grace is not lazy. Is Quinn not smart?",Denying the Antecedent,No
+"If Uma is shy, then Kara is angry. Uma is not shy. Is Kara not angry?",Denying the Antecedent,No
+"If Sam is happy, then Alice is sad. Sam is not happy. Is Alice not sad?",Denying the Antecedent,No
+"If Hank is polite, then Leo is brave. Hank is not polite. Is Leo not brave?",Denying the Antecedent,No
+"If Bob is short, then Charlie is quiet. Bob is not short. Is Charlie not quiet?",Denying the Antecedent,No
+"If Xander is polite, then Victor is short. Xander is not polite. Is Victor not short?",Denying the Antecedent,No
+"If Grace is smart, then Uma is angry. Grace is not smart. Is Uma not angry?",Denying the Antecedent,No
+"If Jack is loud, then Nina is lazy. Jack is not loud. Is Nina not lazy?",Denying the Antecedent,No
+"If Grace is clever, then Nina is brave. Grace is not clever. Is Nina not brave?",Denying the Antecedent,No
+"If Victor is calm, then Uma is brave. Victor is not calm. Is Uma not brave?",Denying the Antecedent,No
+"If Alice is loud, then Leo is short. Alice is not loud. Is Leo not short?",Denying the Antecedent,No
+"If Tina is polite, then Victor is gentle. Tina is not polite. Is Victor not gentle?",Denying the Antecedent,No
+"If Jack is quiet, then Grace is smart. Jack is not quiet. Is Grace not smart?",Denying the Antecedent,No
+"If Uma is loud, then Nina is honest. Uma is not loud. Is Nina not honest?",Denying the Antecedent,No
+"If Wendy is clever, then Uma is lazy. Wendy is not clever. Is Uma not lazy?",Denying the Antecedent,No
+"If Charlie is quiet, then Oscar is loud. Charlie is not quiet. Is Oscar not loud?",Denying the Antecedent,No
+"If Charlie is curious, then Rita is tall. Charlie is not curious. Is Rita not tall?",Denying the Antecedent,No
+"If Jack is loud, then Wendy is rude. Jack is not loud. Is Wendy not rude?",Denying the Antecedent,No
+"If Uma is angry, then Frank is tall. Uma is not angry. Is Frank not tall?",Denying the Antecedent,No
+"If Tina is clever, then Victor is shy. Tina is not clever. Is Victor not shy?",Denying the Antecedent,No
+"If Sam is angry, then Paul is honest. Sam is not angry. Is Paul not honest?",Denying the Antecedent,No
+"If Uma is loud, then Bob is rude. Uma is not loud. Is Bob not rude?",Denying the Antecedent,No
+"If Charlie is angry, then Eve is lazy. Charlie is not angry. Is Eve not lazy?",Denying the Antecedent,No
+"If Charlie is gentle, then Victor is curious. Charlie is not gentle. Is Victor not curious?",Denying the Antecedent,No
+"If Grace is tall, then Eve is proud. Grace is not tall. Is Eve not proud?",Denying the Antecedent,No
+"If Alice is honest, then Yara is short. Alice is not honest. Is Yara not short?",Denying the Antecedent,No
+"If Victor is quiet, then Tina is angry. Victor is not quiet. Is Tina not angry?",Denying the Antecedent,No
+"If Diana is angry, then Zane is shy. Diana is not angry. Is Zane not shy?",Denying the Antecedent,No
+"If Grace is short, then Nina is loud. Grace is not short. Is Nina not loud?",Denying the Antecedent,No
+"If Xander is smart, then Bob is clever. Xander is not smart. Is Bob not clever?",Denying the Antecedent,No
+"If Rita is rude, then Grace is happy. Rita is not rude. Is Grace not happy?",Denying the Antecedent,No
+"If Jack is proud, then Kara is clever. Jack is not proud. Is Kara not clever?",Denying the Antecedent,No
+"If Hank is calm, then Frank is smart. Hank is not calm. Is Frank not smart?",Denying the Antecedent,No
+"If Xander is loud, then Tina is smart. Xander is not loud. Is Tina not smart?",Denying the Antecedent,No
+"If Grace is sad, then Kara is happy. Grace is not sad. Is Kara not happy?",Denying the Antecedent,No
+"If Diana is happy, then Wendy is tall. Diana is not happy. Is Wendy not tall?",Denying the Antecedent,No
+"If Eve is curious, then Ivy is sad. Eve is not curious. Is Ivy not sad?",Denying the Antecedent,No
+"If Diana is happy, then Grace is curious. Diana is not happy. Is Grace not curious?",Denying the Antecedent,No
+"If Kara is gentle, then Hank is honest. Kara is not gentle. Is Hank not honest?",Denying the Antecedent,No
+"If Nina is gentle, then Rita is angry. Nina is not gentle. Is Rita not angry?",Denying the Antecedent,No
+"If Paul is angry, then Jack is gentle. Paul is not angry. Is Jack not gentle?",Denying the Antecedent,No
+"If Grace is honest, then Hank is rude. Grace is not honest. Is Hank not rude?",Denying the Antecedent,No
+"If Tina is honest, then Nina is angry. Tina is not honest. Is Nina not angry?",Denying the Antecedent,No
+"If Nina is polite, then Jack is kind. Nina is not polite. Is Jack not kind?",Denying the Antecedent,No
+"If Grace is smart, then Bob is clever. Grace is not smart. Is Bob not clever?",Denying the Antecedent,No
+"If Yara is loud, then Tina is honest. Yara is not loud. Is Tina not honest?",Denying the Antecedent,No
+"If Grace is curious, then Bob is gentle. Grace is not curious. Is Bob not gentle?",Denying the Antecedent,No
+"If Mona is tall, then Tina is short. Mona is not tall. Is Tina not short?",Denying the Antecedent,No
+"If Rita is lazy, then Sam is quiet. Rita is not lazy. Is Sam not quiet?",Denying the Antecedent,No
+"If Oscar is gentle, then Eve is curious. Oscar is not gentle. Is Eve not curious?",Denying the Antecedent,No
+"If Diana is honest, then Nina is sad. Diana is not honest. Is Nina not sad?",Denying the Antecedent,No
+"If Ivy is short, then Tina is tall. Ivy is not short. Is Tina not tall?",Denying the Antecedent,No
+"If Alice is proud, then Charlie is sad. Alice is not proud. Is Charlie not sad?",Denying the Antecedent,No
+"If Leo is loud, then Nina is tall. Leo is not loud. Is Nina not tall?",Denying the Antecedent,No
+"If Tina is honest, then Oscar is shy. Tina is not honest. Is Oscar not shy?",Denying the Antecedent,No
+"If Charlie is smart, then Nina is tall. Charlie is not smart. Is Nina not tall?",Denying the Antecedent,No
+"If Alice is rude, then Oscar is brave. Alice is not rude. Is Oscar not brave?",Denying the Antecedent,No
+"If Oscar is lazy, then Wendy is shy. Oscar is not lazy. Is Wendy not shy?",Denying the Antecedent,No
+"If Alice is polite, then Kara is clever. Alice is not polite. Is Kara not clever?",Denying the Antecedent,No
+"If Diana is polite, then Sam is tall. Diana is not polite. Is Sam not tall?",Denying the Antecedent,No
+"If Paul is kind, then Sam is curious. Paul is not kind. Is Sam not curious?",Denying the Antecedent,No
+"If Xander is smart, then Rita is kind. Xander is not smart. Is Rita not kind?",Denying the Antecedent,No
+"If Paul is calm, then Quinn is proud. Paul is not calm. Is Quinn not proud?",Denying the Antecedent,No
+"If Zane is lazy, then Victor is calm. Zane is not lazy. Is Victor not calm?",Denying the Antecedent,No
+"If Alice is sad, then Zane is smart. Alice is not sad. Is Zane not smart?",Denying the Antecedent,No
+"If Jack is gentle, then Grace is sad. Jack is not gentle. Is Grace not sad?",Denying the Antecedent,No
+"If Ivy is curious, then Alice is angry. Ivy is not curious. Is Alice not angry?",Denying the Antecedent,No
+"If Paul is curious, then Grace is brave. Paul is not curious. Is Grace not brave?",Denying the Antecedent,No
+"If Hank is happy, then Jack is proud. Hank is not happy. Is Jack not proud?",Denying the Antecedent,No
+"If Diana is polite, then Uma is clever. Diana is not polite. Is Uma not clever?",Denying the Antecedent,No
+"If Frank is curious, then Ivy is rude. Frank is not curious. Is Ivy not rude?",Denying the Antecedent,No
+"If Ivy is tall, then Xander is short. Ivy is not tall. Is Xander not short?",Denying the Antecedent,No
+"If Diana is sad, then Hank is calm. Diana is not sad. Is Hank not calm?",Denying the Antecedent,No
+"If Oscar is sad, then Xander is kind. Oscar is not sad. Is Xander not kind?",Denying the Antecedent,No
+"If Paul is rude, then Diana is loud. Paul is not rude. Is Diana not loud?",Denying the Antecedent,No
+"If Frank is proud, then Victor is rude. Frank is not proud. Is Victor not rude?",Denying the Antecedent,No
+"If Bob is clever, then Victor is rude. Bob is not clever. Is Victor not rude?",Denying the Antecedent,No
+"If Mona is loud, then Alice is gentle. Mona is not loud. Is Alice not gentle?",Denying the Antecedent,No
+"If Bob is brave, then Leo is short. Bob is not brave. Is Leo not short?",Denying the Antecedent,No
+"If Frank is short, then Quinn is tall. Frank is not short. Is Quinn not tall?",Denying the Antecedent,No
+"If Paul is short, then Eve is curious. Paul is not short. Is Eve not curious?",Denying the Antecedent,No
+"If Sam is proud, then Bob is short. Sam is not proud. Is Bob not short?",Denying the Antecedent,No
+"If Frank is happy, then Quinn is proud. Frank is not happy. Is Quinn not proud?",Denying the Antecedent,No
+"If Hank is happy, then Paul is clever. Hank is not happy. Is Paul not clever?",Denying the Antecedent,No
+"If Rita is tall, then Paul is honest. Rita is not tall. Is Paul not honest?",Denying the Antecedent,No
+"If Frank is honest, then Alice is smart. Frank is not honest. Is Alice not smart?",Denying the Antecedent,No
+"If Bob is calm, then Mona is short. Bob is not calm. Is Mona not short?",Denying the Antecedent,No
+"If Nina is loud, then Xander is clever. Nina is not loud. Is Xander not clever?",Denying the Antecedent,No
+"If Xander is kind, then Bob is curious. Xander is not kind. Is Bob not curious?",Denying the Antecedent,No
+"If Frank is kind, then Sam is tall. Frank is not kind. Is Sam not tall?",Denying the Antecedent,No
+"If Paul is rude, then Rita is gentle. Paul is not rude. Is Rita not gentle?",Denying the Antecedent,No
+"If Kara is short, then Jack is sad. Kara is not short. Is Jack not sad?",Denying the Antecedent,No
+"If Oscar is honest, then Jack is clever. Oscar is not honest. Is Jack not clever?",Denying the Antecedent,No
+"If Quinn is shy, then Bob is quiet. Quinn is not shy. Is Bob not quiet?",Denying the Antecedent,No
+"If Sam is clever, then Mona is gentle. Sam is not clever. Is Mona not gentle?",Denying the Antecedent,No
+"If Paul is lazy, then Eve is kind. Paul is not lazy. Is Eve not kind?",Denying the Antecedent,No
+"If Kara is quiet, then Victor is proud. Kara is not quiet. Is Victor not proud?",Denying the Antecedent,No
+"If Oscar is calm, then Sam is angry. Oscar is not calm. Is Sam not angry?",Denying the Antecedent,No
+"If Wendy is shy, then Xander is honest. Wendy is not shy. Is Xander not honest?",Denying the Antecedent,No
+"If Hank is lazy, then Bob is rude. Hank is not lazy. Is Bob not rude?",Denying the Antecedent,No
+"If Charlie is brave, then Ivy is tall. Charlie is not brave. Is Ivy not tall?",Denying the Antecedent,No
+"If Hank is polite, then Oscar is rude. Hank is not polite. Is Oscar not rude?",Denying the Antecedent,No
+"If Leo is calm, then Victor is kind. Leo is not calm. Is Victor not kind?",Denying the Antecedent,No
+"If Charlie is shy, then Sam is honest. Charlie is not shy. Is Sam not honest?",Denying the Antecedent,No
+"If Zane is angry, then Nina is short. Zane is not angry. Is Nina not short?",Denying the Antecedent,No
+"If Paul is sad, then Xander is kind. Paul is not sad. Is Xander not kind?",Denying the Antecedent,No
+"If Yara is lazy, then Xander is shy. Yara is not lazy. Is Xander not shy?",Denying the Antecedent,No
+"If Hank is proud, then Uma is polite. Hank is not proud. Is Uma not polite?",Denying the Antecedent,No
+"If Eve is angry, then Yara is happy. Eve is not angry. Is Yara not happy?",Denying the Antecedent,No
+"If Victor is smart, then Zane is short. Victor is not smart. Is Zane not short?",Denying the Antecedent,No
+"If Bob is happy, then Diana is angry. Bob is not happy. Is Diana not angry?",Denying the Antecedent,No
+"If Tina is short, then Mona is calm. Tina is not short. Is Mona not calm?",Denying the Antecedent,No
+"If Uma is polite, then Jack is happy. Uma is not polite. Is Jack not happy?",Denying the Antecedent,No
+"If Alice is curious, then Tina is rude. Alice is not curious. Is Tina not rude?",Denying the Antecedent,No
+"If Frank is brave, then Zane is sad. Frank is not brave. Is Zane not sad?",Denying the Antecedent,No
+"If Sam is proud, then Bob is kind. Sam is not proud. Is Bob not kind?",Denying the Antecedent,No
+"If Oscar is calm, then Uma is honest. Oscar is not calm. Is Uma not honest?",Denying the Antecedent,No
+"If Jack is calm, then Wendy is proud. Jack is not calm. Is Wendy not proud?",Denying the Antecedent,No
+"If Leo is honest, then Oscar is shy. Leo is not honest. Is Oscar not shy?",Denying the Antecedent,No
+"If Paul is smart, then Bob is curious. Paul is not smart. Is Bob not curious?",Denying the Antecedent,No
+"If Grace is rude, then Ivy is loud. Grace is not rude. Is Ivy not loud?",Denying the Antecedent,No
+"If Xander is proud, then Eve is brave. Xander is not proud. Is Eve not brave?",Denying the Antecedent,No
+"If Alice is gentle, then Rita is proud. Alice is not gentle. Is Rita not proud?",Denying the Antecedent,No
+"If Oscar is lazy, then Wendy is angry. Oscar is not lazy. Is Wendy not angry?",Denying the Antecedent,No
+"If Jack is clever, then Frank is sad. Jack is not clever. Is Frank not sad?",Denying the Antecedent,No
+"If Kara is happy, then Ivy is lazy. Kara is not happy. Is Ivy not lazy?",Denying the Antecedent,No
+"If Jack is sad, then Xander is polite. Jack is not sad. Is Xander not polite?",Denying the Antecedent,No
+"If Bob is gentle, then Charlie is loud. Bob is not gentle. Is Charlie not loud?",Denying the Antecedent,No
+"If Rita is smart, then Xander is brave. Rita is not smart. Is Xander not brave?",Denying the Antecedent,No
+"If Mona is lazy, then Xander is brave. Mona is not lazy. Is Xander not brave?",Denying the Antecedent,No
+"If Paul is angry, then Mona is sad. Paul is not angry. Is Mona not sad?",Denying the Antecedent,No
+"If Alice is brave, then Paul is polite. Alice is not brave. Is Paul not polite?",Denying the Antecedent,No
+"If Alice is clever, then Wendy is kind. Alice is not clever. Is Wendy not kind?",Denying the Antecedent,No
+"If Frank is gentle, then Grace is kind. Frank is not gentle. Is Grace not kind?",Denying the Antecedent,No
+"If Leo is sad, then Grace is loud. Leo is not sad. Is Grace not loud?",Denying the Antecedent,No
+"If Leo is polite, then Quinn is smart. Leo is not polite. Is Quinn not smart?",Denying the Antecedent,No
+"If Eve is polite, then Yara is sad. Eve is not polite. Is Yara not sad?",Denying the Antecedent,No
+"If Jack is honest, then Mona is quiet. Jack is not honest. Is Mona not quiet?",Denying the Antecedent,No
+"If Hank is sad, then Grace is proud. Hank is not sad. Is Grace not proud?",Denying the Antecedent,No
+"If Nina is gentle, then Hank is short. Nina is not gentle. Is Hank not short?",Denying the Antecedent,No
+"If Charlie is loud, then Wendy is brave. Charlie is not loud. Is Wendy not brave?",Denying the Antecedent,No
+"If Frank is quiet, then Diana is angry. Frank is not quiet. Is Diana not angry?",Denying the Antecedent,No
+"If Sam is angry, then Charlie is clever. Sam is not angry. Is Charlie not clever?",Denying the Antecedent,No
+"If Eve is happy, then Zane is angry. Eve is not happy. Is Zane not angry?",Denying the Antecedent,No
+"If Kara is quiet, then Quinn is smart. Kara is not quiet. Is Quinn not smart?",Denying the Antecedent,No
+"If Mona is quiet, then Victor is rude. Mona is not quiet. Is Victor not rude?",Denying the Antecedent,No
+"If Yara is quiet, then Paul is calm. Yara is not quiet. Is Paul not calm?",Denying the Antecedent,No
+"If Kara is short, then Jack is kind. Kara is not short. Is Jack not kind?",Denying the Antecedent,No
+"If Quinn is honest, then Frank is kind. Quinn is not honest. Is Frank not kind?",Denying the Antecedent,No
+"If Sam is quiet, then Victor is honest. Sam is not quiet. Is Victor not honest?",Denying the Antecedent,No
+"If Oscar is shy, then Grace is sad. Oscar is not shy. Is Grace not sad?",Denying the Antecedent,No
+"If Mona is proud, then Quinn is happy. Mona is not proud. Is Quinn not happy?",Denying the Antecedent,No
+"If Paul is smart, then Charlie is short. Paul is not smart. Is Charlie not short?",Denying the Antecedent,No
+"If Zane is clever, then Quinn is kind. Zane is not clever. Is Quinn not kind?",Denying the Antecedent,No
+"If Eve is proud, then Victor is smart. Eve is not proud. Is Victor not smart?",Denying the Antecedent,No
+"If Bob is happy, then Oscar is sad. Bob is not happy. Is Oscar not sad?",Denying the Antecedent,No
+"If Quinn is tall, then Sam is rude. Quinn is not tall. Is Sam not rude?",Denying the Antecedent,No
+"If Leo is curious, then Wendy is rude. Leo is not curious. Is Wendy not rude?",Denying the Antecedent,No
+"If Paul is happy, then Oscar is clever. Paul is not happy. Is Oscar not clever?",Denying the Antecedent,No
+"If Tina is sad, then Leo is quiet. Tina is not sad. Is Leo not quiet?",Denying the Antecedent,No
+"If Leo is polite, then Grace is short. Leo is not polite. Is Grace not short?",Denying the Antecedent,No
+"If Kara is gentle, then Zane is proud. Kara is not gentle. Is Zane not proud?",Denying the Antecedent,No
+"If Xander is calm, then Victor is tall. Xander is not calm. Is Victor not tall?",Denying the Antecedent,No
+"If Leo is calm, then Jack is proud. Leo is not calm. Is Jack not proud?",Denying the Antecedent,No
+"If Frank is tall, then Zane is short. Frank is not tall. Is Zane not short?",Denying the Antecedent,No
+"If Mona is gentle, then Eve is loud. Mona is not gentle. Is Eve not loud?",Denying the Antecedent,No
+"If Eve is smart, then Alice is rude. Eve is not smart. Is Alice not rude?",Denying the Antecedent,No
+"If Bob is quiet, then Quinn is calm. Bob is not quiet. Is Quinn not calm?",Denying the Antecedent,No
+"If Alice is clever, then Nina is kind. Alice is not clever. Is Nina not kind?",Denying the Antecedent,No
+"If Jack is calm, then Paul is kind. Jack is not calm. Is Paul not kind?",Denying the Antecedent,No
+"If Nina is polite, then Ivy is angry. Nina is not polite. Is Ivy not angry?",Denying the Antecedent,No
+"If Nina is brave, then Paul is lazy. Nina is not brave. Is Paul not lazy?",Denying the Antecedent,No
+"If Frank is sad, then Zane is honest. Frank is not sad. Is Zane not honest?",Denying the Antecedent,No
+"If Charlie is lazy, then Alice is quiet. Charlie is not lazy. Is Alice not quiet?",Denying the Antecedent,No
+"If Leo is sad, then Sam is short. Leo is not sad. Is Sam not short?",Denying the Antecedent,No
+"If Victor is polite, then Quinn is brave. Victor is not polite. Is Quinn not brave?",Denying the Antecedent,No
+"If Alice is curious, then Rita is quiet. Alice is not curious. Is Rita not quiet?",Denying the Antecedent,No
