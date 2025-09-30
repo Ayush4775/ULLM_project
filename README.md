@@ -21,4 +21,7 @@ In this project probing experiments to investigate the internal representation o
 
 ---
 
-## How to Run
+The datasets were created using `dataset_creation.ipynb`. Please note that rerunning the script will lead to different datasets (but with the same structure), due to the stochastic nature of the process. The exact datasets that we used for all experiments, can be found in `Datasets/`.
+
+We conducted the experiments in `probing_experiments.ipynb`. Here the necessary code, including the calculated accuracy values and created figures, can be found and used to rerun the experiment. To rerun the experiment please use `requirements.txt`to install all necessary Python packages. A `.pdf` version of the figures can additionally be found in `Figures/`.
+
