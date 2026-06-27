@@ -1,6 +1,6 @@
 
 # Understanding Language Models Project
-In this project probing experiments to investigate the internal representation of the BERT transformer model of logical problems is conducted. A new dataset is created.  
+In this project, we probed experiments to investigate the internal representation of the BERT transformer model of logical problems . A new dataset is created.  
 
 ---
 ## Project Structure
